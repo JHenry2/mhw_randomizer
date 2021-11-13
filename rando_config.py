@@ -15,11 +15,15 @@ boss = False
 opt_arena = True
 #Randomize enrage speed?
 speed = False
-#Add element to attacks that owuld not normally have it?
+#Randomize physical attack properties(element/status)?
+random_phys = False
+#randomize monster projectiles?
+random_shell = True
+#Add element to attacks that would not normally have it?
 adding_element = False
 #what percentage of moves should have element:
 element_percent=4
 #Add status to attacks that would not normally have it?
-adding_status = False
+adding_status = True
 #What percentage of moves should have status (for one in four, put 4 as the value)
 status_percent = 4

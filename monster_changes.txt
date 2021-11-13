@@ -1,0 +1,24 @@
+Great Jagras:
+More frequent, longer rage mode, more damage and speed in rage mode.
+Takes 50% more work to flinch (ignoring part breaks(?)
+Immune to KO
+base health increased by 300 (comparable to kulu in hp).
+
+Kulu:
+More frequent, longer rage mode, more damage and speed in rage mode.
+50% more work to flinch (excluding the rock, ignoring part breaks(?)
+
+Pukei:
+Stronger + longer rage mode
+
+Great Girros:
+Stronger, longer, more frequent rage modes
+
+Behemoth:
+not currently included, but base health reduced to a more reasonable level (teostra ish)
+
+Banabro:
+increased KO resistance (lol thorn pods)
+
+Jyuratodus:
+increased KO resistance (lol thorn pods)

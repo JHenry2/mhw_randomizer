@@ -99,8 +99,36 @@ def edit_monsters():
                     mID_2 = replacement[0:5]
                 switch_shells(item, replacement)
 
-def edit_quest(quest, monster, size):
-    pass
+def edit_quest():
+    files=next(os.walk(clean))[2]
+    file_paths=[]
+    output_paths=[]
+    for item in files:
+        file_paths.append(clean +"\\" +'quest\\' + item)
+        output_paths.append(native +"\\" +'quest\\' + item)
+
+def decrypt_quest():
+    files=next(os.walk(clean + "\\quest"))[2]
+    file_paths=[]
+    output_paths=[]
+    for item in files:
+        file_paths.append(clean +"\\" + 'quest\\' + item)
+        output_paths.append(clean +"\\" + 'de_quest\\' + item)
+       # print(file_paths[-1], output_paths[-1])
+        decrypt(file_paths[-1], output_paths[-1])
+    #print(output_paths)
+
+def encrypt_quest():
+    files=next(os.walk(clean + "\\quest"))[2]
+    file_paths=[]
+    output_paths=[]
+    for item in files:
+        file_paths.append(clean +"\\" + 'de_quest\\' + item)
+        output_paths.append(clean +"\\" + 'en_quest\\' + item)
+       # print(file_paths[-1], output_paths[-1])
+        encrypt(file_paths[-1], output_paths[-1])
+    #print(output_paths)
+    
 
 def edit_phys_col(id, file_path,  element=0, status=0):
     """
@@ -194,22 +222,24 @@ def switch_shells(id1, id2):
 
 
 
-def decrypt(file_path):
+
+def decrypt(file_path, output_path, key=""):
     """
-    take path relative to nativepc and decrypt it, return path of new file
+    take file path, decrypt it and send to output path
     """
     clean_path= clean + file_path
-    os.system('MHW-Editor.exe ' + '-decrypt ' + file_path + ' decrypted\\' + file_path)
-    os.chdir('..')
+    os.system('MHW-Editor.exe ' + '-decrypt ' + file_path + ' ' + output_path)
     return('decrypted\\' + file_path)
-def encrypt(file):
-    os.chdir(path + "\\" + 'mhw editor')
-    os.system('MHW-Editor.exe ' + '-encrypt ' + file + ' encrypted\\' + file  )
-    os.chdir('..')
-    return(path + "\\" + 'mhw editor' + '\\' + 'encrypted\\' + file )
+
+def encrypt(file_path, output_path):
+    os.system('MHW-Editor.exe ' + '-decrypt ' + file_path + ' ' + output_path)
+    return(output_path)
             
 def main():
-    edit_monsters()
-    #edit_quests
+    #edit_monsters()
+    #edit_quest()
+    decrypt_quest()
+    encrypt_quest()
+    print('done')
 
 main()

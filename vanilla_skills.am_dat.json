@@ -1,0 +1,7614 @@
+{
+  "targetFile": "armor.am_dat",
+  "version": 3,
+  "changesV3": {
+    "Entries": {
+      "2|Low_Rank|Regular|Head": {
+        "Skill_1": 77
+      },
+      "15|Low_Rank|Regular|Head": {
+        "Skill_1": 94
+      },
+      "1|Low_Rank|Regular|Head": {
+        "Skill_1": 105
+      },
+      "5|Low_Rank|Regular|Head": {
+        "Skill_1": 21
+      },
+      "6|Low_Rank|Regular|Head": {
+        "Skill_1": 12
+      },
+      "9|Low_Rank|Regular|Head": {
+        "Skill_1": 81
+      },
+      "4|Low_Rank|Regular|Head": {
+        "Skill_1": 85
+      },
+      "10|Low_Rank|Regular|Head": {
+        "Skill_1": 24
+      },
+      "11|Low_Rank|Regular|Head": {
+        "Skill_1": 108
+      },
+      "13|Low_Rank|Regular|Head": {
+        "Skill_1": 80
+      },
+      "12|Low_Rank|Regular|Head": {
+        "Skill_1": 109
+      },
+      "14|Low_Rank|Regular|Head": {
+        "Skill_1": 74
+      },
+      "25|Low_Rank|Regular|Head": {
+        "Skill_1": 26
+      },
+      "18|Low_Rank|Regular|Head": {
+        "Skill_1": 14
+      },
+      "168|Low_Rank|Regular|Head": {
+        "Skill_1": 119
+      },
+      "3|Low_Rank|Regular|Head": {
+        "Set_Skill_1": 125,
+        "Skill_1": 30
+      },
+      "21|Low_Rank|Regular|Head": {
+        "Skill_1": 21
+      },
+      "23|Low_Rank|Regular|Head": {
+        "Skill_1": 112
+      },
+      "24|Low_Rank|Regular|Head": {
+        "Skill_1": 76
+      },
+      "22|Low_Rank|Regular|Head": {
+        "Skill_1": 68
+      },
+      "28|Low_Rank|Regular|Head": {
+        "Skill_1": 57
+      },
+      "20|Low_Rank|Regular|Head": {
+        "Skill_1": 78
+      },
+      "169|Low_Rank|Regular|Head": {
+        "Skill_1": 78
+      },
+      "31|Low_Rank|Regular|Head": {
+        "Skill_1": 33
+      },
+      "27|Low_Rank|Regular|Head": {
+        "Set_Skill_1": 151,
+        "Skill_1": 97
+      },
+      "29|Low_Rank|Regular|Head": {
+        "Set_Skill_1": 153,
+        "Skill_1": 7
+      },
+      "33|Low_Rank|Regular|Head": {
+        "Set_Skill_1": 128,
+        "Skill_1": 19
+      },
+      "34|Low_Rank|Regular|Head": {
+        "Set_Skill_1": 129,
+        "Skill_1": 55
+      },
+      "35|Low_Rank|Regular|Head": {
+        "Set_Skill_1": 130,
+        "Skill_1": 73
+      },
+      "26|Low_Rank|Regular|Head": {
+        "Skill_1": 67
+      },
+      "36|Low_Rank|Regular|Head": {
+        "Skill_1": 23
+      },
+      "37|Low_Rank|Regular|Head": {
+        "Skill_1": 88
+      },
+      "39|Alpha|Regular|Head": {
+        "Skill_1": 77
+      },
+      "40|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 77
+      },
+      "147|Alpha|Regular|Head": {
+        "Skill_1": 94,
+        "Skill_2": 80
+      },
+      "148|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 94
+      },
+      "41|Alpha|Regular|Head": {
+        "Skill_1": 105,
+        "Skill_2": 114
+      },
+      "42|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 105
+      },
+      "43|Alpha|Regular|Head": {
+        "Skill_1": 21,
+        "Skill_2": 115
+      },
+      "44|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 21
+      },
+      "45|Alpha|Regular|Head": {
+        "Skill_1": 12,
+        "Skill_2": 20
+      },
+      "46|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 12
+      },
+      "51|Alpha|Regular|Head": {
+        "Skill_1": 81,
+        "Skill_2": 36
+      },
+      "52|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 81
+      },
+      "57|Alpha|Regular|Head": {
+        "Skill_1": 14,
+        "Skill_2": 34
+      },
+      "58|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 14
+      },
+      "174|Alpha|Regular|Head": {
+        "Skill_1": 119,
+        "Skill_2": 100
+      },
+      "175|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 119
+      },
+      "61|Alpha|Regular|Head": {
+        "Skill_1": 85
+      },
+      "62|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 85
+      },
+      "63|Alpha|Regular|Head": {
+        "Skill_1": 24,
+        "Skill_2": 50
+      },
+      "64|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 24
+      },
+      "65|Alpha|Regular|Head": {
+        "Skill_1": 108
+      },
+      "66|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 108
+      },
+      "69|Alpha|Regular|Head": {
+        "Skill_1": 80
+      },
+      "70|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 80
+      },
+      "67|Alpha|Regular|Head": {
+        "Skill_1": 109
+      },
+      "68|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 109
+      },
+      "71|Alpha|Regular|Head": {
+        "Skill_1": 74
+      },
+      "72|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 74
+      },
+      "93|Alpha|Regular|Head": {
+        "Set_Skill_1": 132,
+        "Skill_1": 30,
+        "Skill_2": 24
+      },
+      "94|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 132,
+        "Skill_1": 30
+      },
+      "73|Alpha|Regular|Head": {
+        "Skill_1": 21,
+        "Skill_2": 35
+      },
+      "74|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 21,
+        "Skill_2": 35
+      },
+      "77|Alpha|Regular|Head": {
+        "Skill_1": 112,
+        "Skill_2": 4
+      },
+      "78|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 112
+      },
+      "79|Alpha|Regular|Head": {
+        "Skill_1": 76
+      },
+      "80|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 76
+      },
+      "75|Alpha|Regular|Head": {
+        "Skill_1": 68,
+        "Skill_2": 2
+      },
+      "76|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 68
+      },
+      "97|Alpha|Regular|Head": {
+        "Skill_1": 13
+      },
+      "98|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 13
+      },
+      "89|Alpha|Regular|Head": {
+        "Skill_1": 26,
+        "Skill_2": 11
+      },
+      "90|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 26
+      },
+      "91|Alpha|Regular|Head": {
+        "Skill_1": 33
+      },
+      "92|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 33
+      },
+      "166|Alpha|Regular|Head": {
+        "Skill_1": 104,
+        "Skill_2": 6
+      },
+      "167|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 104
+      },
+      "87|Alpha|Regular|Head": {
+        "Set_Skill_1": 131,
+        "Skill_1": 79,
+        "Skill_2": 35
+      },
+      "88|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 131,
+        "Skill_1": 79
+      },
+      "95|Alpha|Regular|Head": {
+        "Set_Skill_1": 152,
+        "Skill_1": 97,
+        "Skill_2": 32
+      },
+      "96|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 152,
+        "Skill_1": 97
+      },
+      "81|Alpha|Regular|Head": {
+        "Set_Skill_1": 154,
+        "Skill_1": 7,
+        "Skill_2": 48
+      },
+      "82|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 154,
+        "Skill_1": 7
+      },
+      "101|Alpha|Regular|Head": {
+        "Set_Skill_1": 135,
+        "Skill_1": 19,
+        "Skill_2": 30
+      },
+      "102|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 135,
+        "Skill_1": 19
+      },
+      "111|Alpha|Regular|Head": {
+        "Set_Skill_1": 135,
+        "Skill_1": 49,
+        "Skill_2": 124
+      },
+      "112|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 135,
+        "Skill_1": 49
+      },
+      "103|Alpha|Regular|Head": {
+        "Set_Skill_1": 136,
+        "Skill_1": 55,
+        "Skill_2": 64
+      },
+      "104|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 136,
+        "Skill_1": 55
+      },
+      "113|Alpha|Regular|Head": {
+        "Set_Skill_1": 136,
+        "Skill_1": 52
+      },
+      "114|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 136,
+        "Skill_1": 52
+      },
+      "83|Alpha|Regular|Head": {
+        "Skill_1": 6
+      },
+      "84|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 6
+      },
+      "85|Alpha|Regular|Head": {
+        "Skill_1": 30,
+        "Skill_2": 81
+      },
+      "86|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 30,
+        "Skill_2": 81
+      },
+      "109|Alpha|Regular|Head": {
+        "Set_Skill_1": 138,
+        "Skill_1": 27
+      },
+      "110|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 138,
+        "Skill_1": 27
+      },
+      "107|Alpha|Regular|Head": {
+        "Set_Skill_1": 126,
+        "Skill_1": 101,
+        "Skill_2": 19
+      },
+      "108|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 126,
+        "Skill_1": 101
+      },
+      "117|Alpha|Regular|Head": {
+        "Skill_1": 78,
+        "Skill_2": 99
+      },
+      "118|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 78
+      },
+      "170|Alpha|Regular|Head": {
+        "Skill_1": 78,
+        "Skill_2": 99
+      },
+      "171|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 78
+      },
+      "119|Alpha|Regular|Head": {
+        "Skill_1": 23,
+        "Skill_2": 68
+      },
+      "120|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 23
+      },
+      "121|Alpha|Regular|Head": {
+        "Skill_1": 20,
+        "Skill_2": 86
+      },
+      "122|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 20
+      },
+      "123|Alpha|Regular|Head": {
+        "Skill_1": 47,
+        "Skill_2": 28
+      },
+      "124|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 47
+      },
+      "129|Alpha|Regular|Head": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32,
+        "Skill_2": 54
+      },
+      "130|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32
+      },
+      "127|Alpha|Regular|Head": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61
+      },
+      "128|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61
+      },
+      "105|Alpha|Regular|Head": {
+        "Set_Skill_1": 137,
+        "Skill_1": 73,
+        "Skill_2": 97
+      },
+      "106|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 137,
+        "Skill_1": 73
+      },
+      "99|Alpha|Regular|Head": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63,
+        "Skill_2": 34
+      },
+      "100|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63
+      },
+      "115|Alpha|Regular|Head": {
+        "Set_Skill_1": 142,
+        "Skill_1": 11,
+        "Skill_2": 38
+      },
+      "116|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 142,
+        "Skill_1": 11
+      },
+      "131|Alpha|Regular|Head": {
+        "Skill_1": 67,
+        "Skill_2": 48
+      },
+      "132|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 67
+      },
+      "133|Alpha|Regular|Head": {
+        "Set_Skill_1": 149,
+        "Skill_1": 97,
+        "Skill_2": 27
+      },
+      "134|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 149,
+        "Skill_1": 97
+      },
+      "149|Alpha|Regular|Head": {
+        "Skill_1": 54
+      },
+      "153|Alpha|Regular|Head": {
+        "Skill_1": 98
+      },
+      "154|Alpha|Regular|Head": {
+        "Skill_1": 90
+      },
+      "181|Alpha|Regular|Head": {
+        "Skill_1": 123
+      },
+      "183|Alpha|Regular|Head": {
+        "Skill_1": 48
+      },
+      "185|Alpha|Regular|Head": {
+        "Skill_1": 50
+      },
+      "125|Alpha|Regular|Head": {
+        "Set_Skill_1": 145,
+        "Skill_1": 104,
+        "Skill_2": 70
+      },
+      "126|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 145,
+        "Skill_1": 104
+      },
+      "137|Alpha|Regular|Head": {
+        "Set_Skill_1": 147,
+        "Skill_1": 54,
+        "Skill_2": 38
+      },
+      "138|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 147,
+        "Skill_1": 54
+      },
+      "151|Alpha|Regular|Head": {
+        "Set_Skill_1": 150,
+        "Skill_1": 120,
+        "Skill_2": 94
+      },
+      "152|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 150,
+        "Skill_1": 120
+      },
+      "176|Low_Rank|Regular|Head": {
+        "Skill_1": 118
+      },
+      "191|Alpha|Regular|Head": {
+        "Skill_1": 47,
+        "Skill_2": 62
+      },
+      "192|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 47,
+        "Skill_2": 62
+      },
+      "193|Low_Rank|Regular|Head": {
+        "Skill_1": 95
+      },
+      "194|Low_Rank|Regular|Head": {
+        "Skill_1": 73
+      },
+      "195|Low_Rank|Regular|Head": {
+        "Skill_1": 52
+      },
+      "196|Low_Rank|Regular|Head": {
+        "Skill_1": 22
+      },
+      "197|Low_Rank|Regular|Head": {
+        "Set_Skill_1": 168,
+        "Skill_1": 49
+      },
+      "201|Alpha|Regular|Head": {
+        "Skill_1": 56,
+        "Skill_2": 54
+      },
+      "202|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 56
+      },
+      "206|Alpha|Regular|Head": {
+        "Set_Skill_1": 164,
+        "Skill_1": 49,
+        "Skill_2": 60
+      },
+      "207|Alpha|Regular|Head": {
+        "Skill_1": 95
+      },
+      "208|Alpha|Regular|Head": {
+        "Skill_1": 73
+      },
+      "209|Alpha|Regular|Head": {
+        "Skill_1": 52
+      },
+      "210|Alpha|Regular|Head": {
+        "Skill_1": 22
+      },
+      "211|Alpha|Regular|Head": {
+        "Set_Skill_1": 168,
+        "Skill_1": 49
+      },
+      "212|Low_Rank|Regular|Head": {
+        "Skill_1": 4
+      },
+      "213|Alpha|Regular|Head": {
+        "Skill_1": 4,
+        "Skill_2": 20
+      },
+      "214|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 4
+      },
+      "215|Low_Rank|Regular|Head": {
+        "Skill_1": 4
+      },
+      "216|Alpha|Regular|Head": {
+        "Skill_1": 4,
+        "Skill_2": 20
+      },
+      "217|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 4
+      },
+      "218|Alpha|Regular|Head": {
+        "Set_Skill_1": 127,
+        "Skill_1": 22,
+        "Skill_2": 34
+      },
+      "219|Alpha|Regular|Head": {
+        "Set_Skill_1": 137,
+        "Skill_1": 29,
+        "Skill_2": 33
+      },
+      "220|Alpha|Regular|Head": {
+        "Set_Skill_1": 143,
+        "Skill_1": 48
+      },
+      "221|Alpha|Regular|Head": {
+        "Set_Skill_1": 144,
+        "Skill_1": 54
+      },
+      "222|Alpha|Regular|Head": {
+        "Set_Skill_1": 126,
+        "Skill_1": 76,
+        "Skill_2": 62
+      },
+      "223|Alpha|Regular|Head": {
+        "Set_Skill_1": 147,
+        "Skill_1": 12,
+        "Skill_2": 48
+      },
+      "224|Alpha|Regular|Head": {
+        "Set_Skill_1": 145,
+        "Skill_1": 29,
+        "Skill_2": 53
+      },
+      "225|Low_Rank|Unknown|Head": {
+        "Set_Skill_1": 132,
+        "Skill_1": 122
+      },
+      "226|Low_Rank|Unknown|Head": {
+        "Skill_1": 19
+      },
+      "227|Low_Rank|Unknown|Head": {
+        "Set_Skill_1": 135,
+        "Skill_1": 19,
+        "Skill_2": 74
+      },
+      "228|Low_Rank|Unknown|Head": {
+        "Set_Skill_1": 131,
+        "Skill_1": 19,
+        "Skill_2": 78
+      },
+      "229|Alpha|Regular|Head": {
+        "Set_Skill_1": 135,
+        "Skill_1": 62
+      },
+      "230|Alpha|Regular|Head": {
+        "Skill_1": 50,
+        "Skill_2": 48
+      },
+      "231|Alpha|Regular|Head": {
+        "Set_Skill_1": 163,
+        "Skill_1": 79,
+        "Skill_2": 120
+      },
+      "232|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 163,
+        "Skill_1": 79
+      },
+      "233|Alpha|Regular|Head": {
+        "Skill_1": 24
+      },
+      "234|Alpha|Regular|Head": {
+        "Skill_1": 4
+      },
+      "235|Alpha|Regular|Head": {
+        "Skill_1": 93
+      },
+      "236|Alpha|Regular|Head": {
+        "Skill_1": 82
+      },
+      "298|Low_Rank|Unknown|Head": {
+        "Set_Skill_1": 132,
+        "Skill_1": 49
+      },
+      "253|Alpha|Regular|Head": {
+        "Set_Skill_1": 163,
+        "Skill_1": 82,
+        "Skill_2": 63
+      },
+      "293|Low_Rank|Unknown|Head": {
+        "Set_Skill_1": 167,
+        "Skill_1": 50,
+        "Skill_2": 23
+      },
+      "294|Low_Rank|Unknown|Head": {
+        "Skill_1": 47,
+        "Skill_2": 78
+      },
+      "258|Alpha|Regular|Head": {
+        "Skill_1": 53,
+        "Skill_2": 4
+      },
+      "259|Alpha|Regular|Head": {
+        "Skill_1": 22,
+        "Skill_2": 21
+      },
+      "302|Alpha|Regular|Head": {
+        "Skill_1": 21,
+        "Skill_2": 56
+      },
+      "303|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 21,
+        "Skill_2": 56
+      },
+      "304|Alpha|Regular|Head": {
+        "Skill_1": 12,
+        "Skill_2": 20
+      },
+      "305|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 12
+      },
+      "306|Alpha|Regular|Head": {
+        "Skill_1": 81,
+        "Skill_2": 36
+      },
+      "307|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 81
+      },
+      "308|Alpha|Regular|Head": {
+        "Skill_1": 50,
+        "Skill_2": 34
+      },
+      "309|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 50,
+        "Skill_2": 34
+      },
+      "314|Alpha|Regular|Head": {
+        "Skill_1": 119,
+        "Skill_2": 100
+      },
+      "315|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 119,
+        "Skill_2": 100
+      },
+      "316|Alpha|Regular|Head": {
+        "Skill_1": 104,
+        "Skill_2": 6
+      },
+      "317|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 104,
+        "Skill_2": 6
+      },
+      "320|Alpha|Regular|Head": {
+        "Skill_1": 26,
+        "Skill_2": 59
+      },
+      "321|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 26,
+        "Skill_2": 59
+      },
+      "324|Alpha|Regular|Head": {
+        "Skill_1": 85,
+        "Skill_2": 19
+      },
+      "325|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 85,
+        "Skill_2": 19
+      },
+      "326|Alpha|Regular|Head": {
+        "Skill_1": 47,
+        "Skill_2": 4
+      },
+      "327|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 47
+      },
+      "328|Alpha|Regular|Head": {
+        "Skill_1": 68,
+        "Skill_2": 2
+      },
+      "329|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 68
+      },
+      "330|Alpha|Regular|Head": {
+        "Skill_1": 6,
+        "Skill_2": 88
+      },
+      "331|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 6
+      },
+      "332|Alpha|Regular|Head": {
+        "Skill_1": 102,
+        "Skill_2": 49
+      },
+      "333|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 102
+      },
+      "334|Alpha|Regular|Head": {
+        "Skill_1": 108,
+        "Skill_2": 1
+      },
+      "335|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 108
+      },
+      "336|Alpha|Regular|Head": {
+        "Skill_1": 80,
+        "Skill_2": 73
+      },
+      "337|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 80
+      },
+      "338|Alpha|Regular|Head": {
+        "Skill_1": 61,
+        "Skill_2": 52
+      },
+      "339|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 61,
+        "Skill_2": 52
+      },
+      "340|Alpha|Regular|Head": {
+        "Skill_1": 109,
+        "Skill_2": 11
+      },
+      "341|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 109
+      },
+      "342|Alpha|Regular|Head": {
+        "Skill_1": 74,
+        "Skill_2": 79
+      },
+      "343|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 74,
+        "Skill_2": 79
+      },
+      "344|Alpha|Regular|Head": {
+        "Skill_1": 26,
+        "Skill_2": 11
+      },
+      "345|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 26,
+        "Skill_2": 11
+      },
+      "346|Alpha|Regular|Head": {
+        "Skill_1": 66,
+        "Skill_2": 90
+      },
+      "347|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 66
+      },
+      "348|Alpha|Regular|Head": {
+        "Set_Skill_1": 182,
+        "Skill_1": 30,
+        "Skill_2": 24
+      },
+      "349|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 182,
+        "Skill_1": 30
+      },
+      "350|Alpha|Regular|Head": {
+        "Set_Skill_1": 183,
+        "Skill_1": 21,
+        "Skill_2": 35
+      },
+      "351|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 183,
+        "Skill_1": 21,
+        "Skill_2": 35
+      },
+      "352|Alpha|Regular|Head": {
+        "Set_Skill_1": 183,
+        "Skill_1": 79,
+        "Skill_2": 111
+      },
+      "353|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 183,
+        "Skill_1": 79
+      },
+      "354|Alpha|Regular|Head": {
+        "Skill_1": 76,
+        "Skill_2": 12
+      },
+      "355|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 76
+      },
+      "356|Alpha|Regular|Head": {
+        "Skill_1": 50,
+        "Skill_2": 82
+      },
+      "357|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 50
+      },
+      "358|Alpha|Regular|Head": {
+        "Skill_1": 55,
+        "Skill_2": 83
+      },
+      "359|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 55,
+        "Skill_2": 83
+      },
+      "360|Alpha|Regular|Head": {
+        "Skill_1": 79,
+        "Skill_2": 36
+      },
+      "361|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 79,
+        "Skill_2": 36
+      },
+      "362|Alpha|Regular|Head": {
+        "Skill_1": 13,
+        "Skill_2": 57
+      },
+      "363|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 13
+      },
+      "374|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 187
+      },
+      "378|Alpha|Regular|Head": {
+        "Skill_1": 33,
+        "Skill_2": 12
+      },
+      "379|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 33
+      },
+      "380|Alpha|Regular|Head": {
+        "Set_Skill_1": 188,
+        "Skill_1": 79,
+        "Skill_2": 53
+      },
+      "381|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 188,
+        "Skill_1": 79,
+        "Skill_2": 53
+      },
+      "382|Alpha|Regular|Head": {
+        "Set_Skill_1": 189,
+        "Skill_1": 19,
+        "Skill_2": 30
+      },
+      "383|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 189,
+        "Skill_1": 19
+      },
+      "384|Alpha|Regular|Head": {
+        "Set_Skill_1": 190,
+        "Skill_1": 55,
+        "Skill_2": 57
+      },
+      "385|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 190,
+        "Skill_1": 55
+      },
+      "386|Alpha|Regular|Head": {
+        "Set_Skill_1": 191,
+        "Skill_1": 97,
+        "Skill_2": 32
+      },
+      "387|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 191,
+        "Skill_1": 97
+      },
+      "388|Alpha|Regular|Head": {
+        "Set_Skill_1": 192,
+        "Skill_1": 7,
+        "Skill_2": 48
+      },
+      "389|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 192,
+        "Skill_1": 7,
+        "Skill_2": 48
+      },
+      "390|Alpha|Regular|Head": {
+        "Skill_1": 30,
+        "Skill_2": 81
+      },
+      "391|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 30,
+        "Skill_2": 81
+      },
+      "392|Alpha|Regular|Head": {
+        "Set_Skill_1": 193,
+        "Skill_1": 6,
+        "Skill_2": 104
+      },
+      "393|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 193,
+        "Skill_1": 6
+      },
+      "394|Alpha|Regular|Head": {
+        "Set_Skill_1": 171,
+        "Skill_1": 63,
+        "Skill_2": 40
+      },
+      "395|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 171,
+        "Skill_1": 63,
+        "Skill_2": 40
+      },
+      "396|Alpha|Regular|Head": {
+        "Set_Skill_1": 173,
+        "Skill_1": 52,
+        "Skill_2": 54
+      },
+      "397|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 173,
+        "Skill_1": 52,
+        "Skill_2": 54
+      },
+      "398|Alpha|Regular|Head": {
+        "Set_Skill_1": 172,
+        "Skill_1": 62,
+        "Skill_2": 69
+      },
+      "399|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 172,
+        "Skill_1": 62
+      },
+      "400|Alpha|Regular|Head": {
+        "Set_Skill_1": 170,
+        "Skill_1": 19,
+        "Skill_2": 11
+      },
+      "401|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 170,
+        "Skill_1": 19,
+        "Skill_2": 11
+      },
+      "402|Alpha|Regular|Head": {
+        "Set_Skill_1": 182,
+        "Skill_1": 50,
+        "Skill_2": 67
+      },
+      "403|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 182,
+        "Skill_1": 50
+      },
+      "406|Alpha|Regular|Head": {
+        "Set_Skill_1": 181,
+        "Skill_1": 73,
+        "Skill_2": 90
+      },
+      "407|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 181,
+        "Skill_1": 73
+      },
+      "413|Alpha|Regular|Head": {
+        "Set_Skill_1": 191,
+        "Skill_1": 77,
+        "Skill_2": 79
+      },
+      "414|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 191,
+        "Skill_1": 77
+      },
+      "415|Alpha|Regular|Head": {
+        "Set_Skill_1": 189,
+        "Skill_1": 49,
+        "Skill_2": 111
+      },
+      "416|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 189,
+        "Skill_1": 49
+      },
+      "417|Alpha|Regular|Head": {
+        "Set_Skill_1": 190,
+        "Skill_1": 56,
+        "Skill_2": 66
+      },
+      "418|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 190,
+        "Skill_1": 56
+      },
+      "419|Alpha|Regular|Head": {
+        "Set_Skill_1": 192,
+        "Skill_1": 61,
+        "Skill_2": 120
+      },
+      "420|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 192,
+        "Skill_1": 61
+      },
+      "421|Alpha|Regular|Head": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101,
+        "Skill_2": 116
+      },
+      "422|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101,
+        "Skill_2": 116
+      },
+      "423|Alpha|Regular|Head": {
+        "Set_Skill_1": 179,
+        "Skill_1": 102,
+        "Skill_2": 47
+      },
+      "424|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 179,
+        "Skill_1": 102,
+        "Skill_2": 47
+      },
+      "428|Alpha|Regular|Head": {
+        "Skill_1": 47,
+        "Skill_2": 76
+      },
+      "429|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 47
+      },
+      "430|Alpha|Regular|Head": {
+        "Skill_1": 20,
+        "Skill_2": 86
+      },
+      "431|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 20
+      },
+      "432|Alpha|Regular|Head": {
+        "Set_Skill_1": 178,
+        "Skill_1": 97,
+        "Skill_2": 186
+      },
+      "433|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 178,
+        "Skill_1": 97
+      },
+      "434|Alpha|Regular|Head": {
+        "Set_Skill_1": 194,
+        "Skill_1": 11,
+        "Skill_2": 38
+      },
+      "435|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 194,
+        "Skill_1": 11,
+        "Skill_2": 38
+      },
+      "436|Alpha|Regular|Head": {
+        "Set_Skill_1": 196,
+        "Skill_1": 63,
+        "Skill_2": 34
+      },
+      "437|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 196,
+        "Skill_1": 63
+      },
+      "438|Alpha|Regular|Head": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61,
+        "Skill_2": 48
+      },
+      "439|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61,
+        "Skill_2": 48
+      },
+      "440|Alpha|Regular|Head": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32,
+        "Skill_2": 78
+      },
+      "441|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32,
+        "Skill_2": 78
+      },
+      "442|Alpha|Regular|Head": {
+        "Set_Skill_1": 199,
+        "Skill_1": 73,
+        "Skill_2": 97
+      },
+      "443|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 199,
+        "Skill_1": 73
+      },
+      "444|Alpha|Regular|Head": {
+        "Set_Skill_1": 177,
+        "Skill_1": 74,
+        "Skill_2": 101
+      },
+      "445|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 177,
+        "Skill_1": 74,
+        "Skill_2": 101
+      },
+      "448|Alpha|Regular|Head": {
+        "Set_Skill_1": 200,
+        "Skill_1": 21,
+        "Skill_2": 185
+      },
+      "449|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 200,
+        "Skill_1": 21
+      },
+      "450|Alpha|Regular|Head": {
+        "Set_Skill_1": 180,
+        "Skill_1": 62,
+        "Skill_2": 56
+      },
+      "451|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 180,
+        "Skill_1": 62,
+        "Skill_2": 56
+      },
+      "453|Alpha|Regular|Head": {
+        "Set_Skill_1": 203,
+        "Skill_1": 101,
+        "Skill_2": 76
+      },
+      "454|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 203,
+        "Skill_1": 101
+      },
+      "455|Alpha|Regular|Head": {
+        "Set_Skill_1": 176,
+        "Skill_1": 22,
+        "Skill_2": 56
+      },
+      "456|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 176,
+        "Skill_1": 22
+      },
+      "457|Alpha|Regular|Head": {
+        "Set_Skill_1": 195,
+        "Skill_1": 56,
+        "Skill_2": 54
+      },
+      "458|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 195,
+        "Skill_1": 56
+      },
+      "461|Alpha|Regular|Head": {
+        "Set_Skill_1": 200,
+        "Skill_1": 99,
+        "Skill_2": 95
+      },
+      "462|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 200,
+        "Skill_1": 99,
+        "Skill_2": 95
+      },
+      "463|Alpha|Regular|Head": {
+        "Skill_1": 184
+      },
+      "464|Alpha|Regular|Head": {
+        "Set_Skill_1": 175,
+        "Skill_1": 21,
+        "Skill_2": 35
+      },
+      "465|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 175,
+        "Skill_1": 21
+      },
+      "466|Alpha|Regular|Head": {
+        "Set_Skill_1": 174,
+        "Skill_1": 12,
+        "Skill_2": 30
+      },
+      "467|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 174,
+        "Skill_1": 12
+      },
+      "470|Alpha|Regular|Head": {
+        "Set_Skill_1": 169,
+        "Skill_1": 53,
+        "Skill_2": 49
+      },
+      "471|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 169,
+        "Skill_1": 53,
+        "Skill_2": 49
+      },
+      "472|Alpha|Regular|Head": {
+        "Set_Skill_1": 169,
+        "Skill_1": 61,
+        "Skill_2": 13
+      },
+      "473|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 169,
+        "Skill_1": 61,
+        "Skill_2": 13
+      },
+      "474|Alpha|Regular|Head": {
+        "Skill_1": 48,
+        "Skill_2": 66
+      },
+      "475|Beta_or_Gamma|Regular|Head": {
+        "Skill_1": 48,
+        "Skill_2": 66
+      },
+      "476|Alpha|Regular|Head": {
+        "Set_Skill_1": 201,
+        "Skill_1": 104,
+        "Skill_2": 71
+      },
+      "477|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 201,
+        "Skill_1": 104
+      },
+      "478|Alpha|Regular|Head": {
+        "Set_Skill_1": 208,
+        "Skill_1": 50,
+        "Skill_2": 54
+      },
+      "479|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 208,
+        "Skill_1": 50
+      },
+      "480|Alpha|Regular|Head": {
+        "Set_Skill_1": 217,
+        "Skill_1": 11,
+        "Skill_2": 64
+      },
+      "481|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 217,
+        "Skill_1": 11,
+        "Skill_2": 64
+      },
+      "482|Alpha|Regular|Head": {
+        "Set_Skill_1": 218,
+        "Skill_1": 50,
+        "Skill_2": 80
+      },
+      "483|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 218,
+        "Skill_1": 50
+      },
+      "484|Alpha|Regular|Head": {
+        "Set_Skill_1": 211,
+        "Skill_1": 78,
+        "Skill_2": 49
+      },
+      "485|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 211,
+        "Skill_1": 78,
+        "Skill_2": 49
+      },
+      "486|Alpha|Regular|Head": {
+        "Set_Skill_1": 221,
+        "Skill_1": 66,
+        "Skill_2": 48
+      },
+      "487|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 221,
+        "Skill_1": 66,
+        "Skill_2": 48
+      },
+      "488|Alpha|Regular|Head": {
+        "Skill_1": 66
+      },
+      "489|Alpha|Regular|Head": {
+        "Skill_1": 90,
+        "Skill_2": 108
+      },
+      "491|Alpha|Regular|Head": {
+        "Skill_1": 78
+      },
+      "492|Alpha|Regular|Head": {
+        "Set_Skill_1": 202,
+        "Skill_1": 120,
+        "Skill_2": 185
+      },
+      "493|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 202,
+        "Skill_1": 120
+      },
+      "494|Alpha|Regular|Head": {
+        "Set_Skill_1": 219,
+        "Skill_1": 84,
+        "Skill_2": 47
+      },
+      "495|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 219,
+        "Skill_1": 84
+      },
+      "496|Alpha|Regular|Head": {
+        "Set_Skill_1": 214,
+        "Skill_1": 65
+      },
+      "498|Alpha|Regular|Head": {
+        "Set_Skill_1": 215,
+        "Skill_1": 73
+      },
+      "502|Alpha|Regular|Head": {
+        "Set_Skill_1": 212,
+        "Skill_1": 48
+      },
+      "504|Alpha|Regular|Head": {
+        "Set_Skill_1": 213,
+        "Skill_1": 82
+      },
+      "515|Alpha|Regular|Head": {
+        "Skill_1": 22
+      },
+      "518|Alpha|Regular|Head": {
+        "Set_Skill_1": 170,
+        "Skill_1": 19,
+        "Skill_2": 84
+      },
+      "519|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 170,
+        "Skill_1": 19,
+        "Skill_2": 84
+      },
+      "520|Alpha|Regular|Head": {
+        "Skill_1": 22,
+        "Skill_2": 21
+      },
+      "523|Alpha|Unknown|Head": {
+        "Set_Skill_1": 209,
+        "Skill_1": 21,
+        "Skill_2": 33
+      },
+      "524|Alpha|Regular|Head": {
+        "Set_Skill_1": 177,
+        "Skill_1": 76,
+        "Skill_2": 120
+      },
+      "526|Alpha|Regular|Head": {
+        "Set_Skill_1": 174,
+        "Skill_1": 102,
+        "Skill_2": 50
+      },
+      "528|Alpha|Regular|Head": {
+        "Set_Skill_1": 220,
+        "Skill_1": 48,
+        "Skill_2": 81
+      },
+      "529|Beta_or_Gamma|Regular|Head": {
+        "Set_Skill_1": 220,
+        "Skill_1": 48
+      },
+      "532|Alpha|Regular|Head": {
+        "Set_Skill_1": 182,
+        "Skill_1": 52,
+        "Skill_2": 109
+      },
+      "534|Low_Rank|Unknown|Head": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 50
+      },
+      "535|Low_Rank|Unknown|Head": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 78
+      },
+      "1|Low_Rank|Regular|Chest": {
+        "Skill_1": 102
+      },
+      "5|Low_Rank|Regular|Chest": {
+        "Skill_1": 19
+      },
+      "6|Low_Rank|Regular|Chest": {
+        "Skill_1": 25
+      },
+      "9|Low_Rank|Regular|Chest": {
+        "Skill_1": 12
+      },
+      "4|Low_Rank|Regular|Chest": {
+        "Skill_1": 124
+      },
+      "10|Low_Rank|Regular|Chest": {
+        "Skill_1": 76
+      },
+      "11|Low_Rank|Regular|Chest": {
+        "Skill_1": 83
+      },
+      "13|Low_Rank|Regular|Chest": {
+        "Skill_1": 58
+      },
+      "12|Low_Rank|Regular|Chest": {
+        "Skill_1": 5
+      },
+      "14|Low_Rank|Regular|Chest": {
+        "Skill_1": 107
+      },
+      "25|Low_Rank|Regular|Chest": {
+        "Skill_1": 11
+      },
+      "18|Low_Rank|Regular|Chest": {
+        "Skill_1": 16
+      },
+      "3|Low_Rank|Regular|Chest": {
+        "Set_Skill_1": 125,
+        "Skill_1": 73
+      },
+      "21|Low_Rank|Regular|Chest": {
+        "Skill_1": 99
+      },
+      "23|Low_Rank|Regular|Chest": {
+        "Skill_1": 74
+      },
+      "24|Low_Rank|Regular|Chest": {
+        "Skill_1": 59
+      },
+      "22|Low_Rank|Regular|Chest": {
+        "Skill_1": 2
+      },
+      "28|Low_Rank|Regular|Chest": {
+        "Skill_1": 3
+      },
+      "20|Low_Rank|Regular|Chest": {
+        "Skill_1": 81
+      },
+      "159|Low_Rank|Regular|Chest": {
+        "Skill_1": 81
+      },
+      "31|Low_Rank|Regular|Chest": {
+        "Skill_1": 27
+      },
+      "27|Low_Rank|Regular|Chest": {
+        "Set_Skill_1": 151,
+        "Skill_1": 78
+      },
+      "29|Low_Rank|Regular|Chest": {
+        "Set_Skill_1": 153,
+        "Skill_1": 86
+      },
+      "33|Low_Rank|Regular|Chest": {
+        "Set_Skill_1": 128,
+        "Skill_1": 50
+      },
+      "34|Low_Rank|Regular|Chest": {
+        "Set_Skill_1": 129,
+        "Skill_1": 57
+      },
+      "35|Low_Rank|Regular|Chest": {
+        "Set_Skill_1": 130,
+        "Skill_1": 97
+      },
+      "26|Low_Rank|Regular|Chest": {
+        "Skill_1": 65
+      },
+      "36|Low_Rank|Regular|Chest": {
+        "Skill_1": 97
+      },
+      "39|Alpha|Regular|Chest": {
+        "Skill_1": 24
+      },
+      "147|Alpha|Regular|Chest": {
+        "Skill_1": 25
+      },
+      "41|Alpha|Regular|Chest": {
+        "Skill_1": 102
+      },
+      "42|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 102
+      },
+      "43|Alpha|Regular|Chest": {
+        "Skill_1": 19
+      },
+      "44|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 19
+      },
+      "45|Alpha|Regular|Chest": {
+        "Skill_1": 25
+      },
+      "46|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 25
+      },
+      "51|Alpha|Regular|Chest": {
+        "Skill_1": 12
+      },
+      "52|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 12
+      },
+      "57|Alpha|Regular|Chest": {
+        "Skill_1": 16,
+        "Skill_2": 77
+      },
+      "58|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 16
+      },
+      "61|Alpha|Regular|Chest": {
+        "Skill_1": 124
+      },
+      "62|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 124
+      },
+      "63|Alpha|Regular|Chest": {
+        "Skill_1": 76,
+        "Skill_2": 48
+      },
+      "64|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 76
+      },
+      "65|Alpha|Regular|Chest": {
+        "Skill_1": 83,
+        "Skill_2": 99
+      },
+      "66|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 83
+      },
+      "69|Alpha|Regular|Chest": {
+        "Skill_1": 58
+      },
+      "70|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 58
+      },
+      "67|Alpha|Regular|Chest": {
+        "Skill_1": 5,
+        "Skill_2": 31
+      },
+      "68|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 5
+      },
+      "71|Alpha|Regular|Chest": {
+        "Skill_1": 107,
+        "Skill_2": 79
+      },
+      "72|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 107
+      },
+      "93|Alpha|Regular|Chest": {
+        "Set_Skill_1": 132,
+        "Skill_1": 73,
+        "Skill_2": 70
+      },
+      "94|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 132,
+        "Skill_1": 73
+      },
+      "73|Alpha|Regular|Chest": {
+        "Skill_1": 99,
+        "Skill_2": 22
+      },
+      "74|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 99,
+        "Skill_2": 22
+      },
+      "77|Alpha|Regular|Chest": {
+        "Skill_1": 74,
+        "Skill_2": 31
+      },
+      "78|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 74
+      },
+      "79|Alpha|Regular|Chest": {
+        "Skill_1": 59,
+        "Skill_2": 71
+      },
+      "80|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 59
+      },
+      "75|Alpha|Regular|Chest": {
+        "Skill_1": 2
+      },
+      "76|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 2
+      },
+      "97|Alpha|Regular|Chest": {
+        "Skill_1": 37,
+        "Skill_2": 7
+      },
+      "98|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 37
+      },
+      "89|Alpha|Regular|Chest": {
+        "Skill_1": 11,
+        "Skill_2": 32
+      },
+      "90|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 11,
+        "Skill_2": 32
+      },
+      "91|Alpha|Regular|Chest": {
+        "Skill_1": 27
+      },
+      "92|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 27
+      },
+      "55|Alpha|Regular|Chest": {
+        "Skill_1": 17,
+        "Skill_2": 8
+      },
+      "56|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 17
+      },
+      "87|Alpha|Regular|Chest": {
+        "Set_Skill_1": 131,
+        "Skill_1": 120
+      },
+      "88|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 131,
+        "Skill_1": 120
+      },
+      "95|Alpha|Regular|Chest": {
+        "Set_Skill_1": 152,
+        "Skill_1": 78,
+        "Skill_2": 97
+      },
+      "96|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 152,
+        "Skill_1": 78
+      },
+      "81|Alpha|Regular|Chest": {
+        "Set_Skill_1": 154,
+        "Skill_1": 86,
+        "Skill_2": 7
+      },
+      "82|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 154,
+        "Skill_1": 86
+      },
+      "101|Alpha|Regular|Chest": {
+        "Set_Skill_1": 135,
+        "Skill_1": 50,
+        "Skill_2": 30
+      },
+      "102|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 135,
+        "Skill_1": 50
+      },
+      "111|Alpha|Regular|Chest": {
+        "Set_Skill_1": 135,
+        "Skill_1": 47,
+        "Skill_2": 124
+      },
+      "112|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 135,
+        "Skill_1": 47
+      },
+      "103|Alpha|Regular|Chest": {
+        "Set_Skill_1": 136,
+        "Skill_1": 57,
+        "Skill_2": 64
+      },
+      "104|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 136,
+        "Skill_1": 57
+      },
+      "113|Alpha|Regular|Chest": {
+        "Set_Skill_1": 136,
+        "Skill_1": 66
+      },
+      "114|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 136,
+        "Skill_1": 66
+      },
+      "83|Alpha|Regular|Chest": {
+        "Skill_1": 38
+      },
+      "84|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 38
+      },
+      "85|Alpha|Regular|Chest": {
+        "Skill_1": 30,
+        "Skill_2": 17
+      },
+      "86|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 30
+      },
+      "109|Alpha|Regular|Chest": {
+        "Set_Skill_1": 138,
+        "Skill_1": 56
+      },
+      "110|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 138,
+        "Skill_1": 56
+      },
+      "107|Alpha|Regular|Chest": {
+        "Set_Skill_1": 126,
+        "Skill_1": 76,
+        "Skill_2": 62
+      },
+      "108|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 126,
+        "Skill_1": 76
+      },
+      "117|Alpha|Regular|Chest": {
+        "Skill_1": 81,
+        "Skill_2": 99
+      },
+      "118|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 81
+      },
+      "160|Alpha|Regular|Chest": {
+        "Skill_1": 81,
+        "Skill_2": 99
+      },
+      "161|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 81
+      },
+      "119|Alpha|Regular|Chest": {
+        "Skill_1": 97
+      },
+      "120|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 97
+      },
+      "121|Alpha|Regular|Chest": {
+        "Skill_1": 52,
+        "Skill_2": 20
+      },
+      "122|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 52
+      },
+      "123|Alpha|Regular|Chest": {
+        "Skill_1": 19,
+        "Skill_2": 90
+      },
+      "124|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 19
+      },
+      "129|Alpha|Regular|Chest": {
+        "Set_Skill_1": 144,
+        "Skill_1": 54,
+        "Skill_2": 52
+      },
+      "130|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 144,
+        "Skill_1": 54
+      },
+      "127|Alpha|Regular|Chest": {
+        "Set_Skill_1": 143,
+        "Skill_1": 70,
+        "Skill_2": 61
+      },
+      "128|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 143,
+        "Skill_1": 70
+      },
+      "105|Alpha|Regular|Chest": {
+        "Set_Skill_1": 137,
+        "Skill_1": 97,
+        "Skill_2": 33
+      },
+      "106|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 137,
+        "Skill_1": 97
+      },
+      "99|Alpha|Regular|Chest": {
+        "Set_Skill_1": 127,
+        "Skill_1": 23,
+        "Skill_2": 34
+      },
+      "100|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 127,
+        "Skill_1": 23
+      },
+      "115|Alpha|Regular|Chest": {
+        "Set_Skill_1": 142,
+        "Skill_1": 80,
+        "Skill_2": 6
+      },
+      "116|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 142,
+        "Skill_1": 80
+      },
+      "131|Alpha|Regular|Chest": {
+        "Skill_1": 65,
+        "Skill_2": 47
+      },
+      "132|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 65
+      },
+      "133|Alpha|Regular|Chest": {
+        "Set_Skill_1": 149,
+        "Skill_1": 67,
+        "Skill_2": 26
+      },
+      "134|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 149,
+        "Skill_1": 67
+      },
+      "125|Alpha|Regular|Chest": {
+        "Set_Skill_1": 145,
+        "Skill_1": 53,
+        "Skill_2": 29
+      },
+      "126|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 145,
+        "Skill_1": 53
+      },
+      "137|Alpha|Regular|Chest": {
+        "Set_Skill_1": 147,
+        "Skill_1": 38,
+        "Skill_2": 12
+      },
+      "138|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 147,
+        "Skill_1": 38
+      },
+      "149|Alpha|Regular|Chest": {
+        "Set_Skill_1": 150,
+        "Skill_1": 82,
+        "Skill_2": 111
+      },
+      "150|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 150,
+        "Skill_1": 82
+      },
+      "191|Alpha|Regular|Chest": {
+        "Skill_1": 4,
+        "Skill_2": 49
+      },
+      "192|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 4,
+        "Skill_2": 49
+      },
+      "193|Low_Rank|Regular|Chest": {
+        "Skill_1": 81
+      },
+      "194|Low_Rank|Regular|Chest": {
+        "Skill_1": 48
+      },
+      "195|Low_Rank|Regular|Chest": {
+        "Skill_1": 13
+      },
+      "196|Low_Rank|Regular|Chest": {
+        "Skill_1": 104
+      },
+      "197|Low_Rank|Regular|Chest": {
+        "Set_Skill_1": 168,
+        "Skill_1": 55
+      },
+      "201|Alpha|Regular|Chest": {
+        "Skill_1": 85,
+        "Skill_2": 54
+      },
+      "202|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 85
+      },
+      "206|Alpha|Regular|Chest": {
+        "Set_Skill_1": 164,
+        "Skill_1": 48,
+        "Skill_2": 49
+      },
+      "207|Alpha|Regular|Chest": {
+        "Skill_1": 81
+      },
+      "208|Alpha|Regular|Chest": {
+        "Skill_1": 48
+      },
+      "209|Alpha|Regular|Chest": {
+        "Skill_1": 13
+      },
+      "210|Alpha|Regular|Chest": {
+        "Skill_1": 104
+      },
+      "211|Alpha|Regular|Chest": {
+        "Set_Skill_1": 168,
+        "Skill_1": 55
+      },
+      "212|Low_Rank|Regular|Chest": {
+        "Skill_1": 21
+      },
+      "213|Alpha|Regular|Chest": {
+        "Skill_1": 21,
+        "Skill_2": 4
+      },
+      "214|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 21
+      },
+      "215|Low_Rank|Regular|Chest": {
+        "Skill_1": 21
+      },
+      "216|Alpha|Regular|Chest": {
+        "Skill_1": 21,
+        "Skill_2": 4
+      },
+      "217|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 21
+      },
+      "218|Alpha|Regular|Chest": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63,
+        "Skill_2": 22
+      },
+      "219|Alpha|Regular|Chest": {
+        "Set_Skill_1": 137,
+        "Skill_1": 47
+      },
+      "220|Alpha|Regular|Chest": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61,
+        "Skill_2": 50
+      },
+      "221|Alpha|Regular|Chest": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32,
+        "Skill_2": 79
+      },
+      "222|Alpha|Regular|Chest": {
+        "Set_Skill_1": 126,
+        "Skill_1": 101
+      },
+      "223|Alpha|Regular|Chest": {
+        "Set_Skill_1": 147,
+        "Skill_1": 13
+      },
+      "224|Alpha|Regular|Chest": {
+        "Set_Skill_1": 145,
+        "Skill_1": 104
+      },
+      "225|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 132,
+        "Skill_1": 73
+      },
+      "226|Low_Rank|Unknown|Chest": {
+        "Skill_1": 21
+      },
+      "227|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 135,
+        "Skill_1": 21,
+        "Skill_2": 67
+      },
+      "228|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 131,
+        "Skill_1": 76,
+        "Skill_2": 67
+      },
+      "229|Alpha|Regular|Chest": {
+        "Set_Skill_1": 135,
+        "Skill_1": 54
+      },
+      "230|Alpha|Regular|Chest": {
+        "Skill_1": 78,
+        "Skill_2": 48
+      },
+      "231|Alpha|Regular|Chest": {
+        "Set_Skill_1": 163,
+        "Skill_1": 63,
+        "Skill_2": 21
+      },
+      "232|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 163,
+        "Skill_1": 63
+      },
+      "298|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 132,
+        "Skill_1": 73,
+        "Skill_2": 122
+      },
+      "242|Alpha|Regular|Chest": {
+        "Set_Skill_1": 163,
+        "Skill_1": 11,
+        "Skill_2": 120
+      },
+      "293|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 167,
+        "Skill_1": 21,
+        "Skill_2": 19
+      },
+      "294|Beta_or_Gamma|Unknown|Chest": {
+        "Skill_1": 78,
+        "Skill_2": 97
+      },
+      "247|Alpha|Regular|Chest": {
+        "Skill_1": 54,
+        "Skill_2": 62
+      },
+      "248|Alpha|Regular|Chest": {
+        "Skill_1": 73,
+        "Skill_2": 22
+      },
+      "302|Alpha|Regular|Chest": {
+        "Skill_1": 19,
+        "Skill_2": 21
+      },
+      "303|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 19
+      },
+      "304|Alpha|Regular|Chest": {
+        "Skill_1": 25,
+        "Skill_2": 20
+      },
+      "305|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 25
+      },
+      "306|Alpha|Regular|Chest": {
+        "Skill_1": 12
+      },
+      "307|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 12
+      },
+      "308|Alpha|Regular|Chest": {
+        "Skill_1": 16,
+        "Skill_2": 77
+      },
+      "309|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 16
+      },
+      "318|Alpha|Regular|Chest": {
+        "Skill_1": 17,
+        "Skill_2": 8
+      },
+      "319|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 17,
+        "Skill_2": 8
+      },
+      "322|Alpha|Regular|Chest": {
+        "Skill_1": 77,
+        "Skill_2": 107
+      },
+      "323|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 77,
+        "Skill_2": 107
+      },
+      "324|Alpha|Regular|Chest": {
+        "Skill_1": 79,
+        "Skill_2": 19
+      },
+      "325|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 79,
+        "Skill_2": 19
+      },
+      "326|Alpha|Regular|Chest": {
+        "Skill_1": 74,
+        "Skill_2": 31
+      },
+      "327|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 74,
+        "Skill_2": 31
+      },
+      "328|Alpha|Regular|Chest": {
+        "Skill_1": 2,
+        "Skill_2": 47
+      },
+      "329|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 2
+      },
+      "330|Alpha|Regular|Chest": {
+        "Skill_1": 38,
+        "Skill_2": 71
+      },
+      "331|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 38
+      },
+      "332|Alpha|Regular|Chest": {
+        "Skill_1": 76,
+        "Skill_2": 48
+      },
+      "333|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 76,
+        "Skill_2": 48
+      },
+      "334|Alpha|Regular|Chest": {
+        "Skill_1": 83,
+        "Skill_2": 63
+      },
+      "335|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 83,
+        "Skill_2": 63
+      },
+      "336|Alpha|Regular|Chest": {
+        "Skill_1": 58,
+        "Skill_2": 62
+      },
+      "337|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 58
+      },
+      "338|Alpha|Regular|Chest": {
+        "Skill_1": 61,
+        "Skill_2": 31
+      },
+      "339|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 61,
+        "Skill_2": 31
+      },
+      "340|Alpha|Regular|Chest": {
+        "Skill_1": 76,
+        "Skill_2": 32
+      },
+      "341|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 76
+      },
+      "342|Alpha|Regular|Chest": {
+        "Skill_1": 107,
+        "Skill_2": 74
+      },
+      "343|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 107
+      },
+      "344|Alpha|Regular|Chest": {
+        "Skill_1": 11,
+        "Skill_2": 32
+      },
+      "345|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 11,
+        "Skill_2": 32
+      },
+      "346|Alpha|Regular|Chest": {
+        "Skill_1": 85,
+        "Skill_2": 185
+      },
+      "347|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 85
+      },
+      "348|Alpha|Regular|Chest": {
+        "Set_Skill_1": 182,
+        "Skill_1": 73,
+        "Skill_2": 70
+      },
+      "349|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 182,
+        "Skill_1": 73,
+        "Skill_2": 70
+      },
+      "350|Alpha|Regular|Chest": {
+        "Set_Skill_1": 183,
+        "Skill_1": 99,
+        "Skill_2": 22
+      },
+      "351|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 183,
+        "Skill_1": 99,
+        "Skill_2": 22
+      },
+      "352|Alpha|Regular|Chest": {
+        "Set_Skill_1": 183,
+        "Skill_1": 120,
+        "Skill_2": 54
+      },
+      "353|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 183,
+        "Skill_1": 120
+      },
+      "354|Alpha|Regular|Chest": {
+        "Skill_1": 59,
+        "Skill_2": 71
+      },
+      "355|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 59
+      },
+      "356|Alpha|Regular|Chest": {
+        "Skill_1": 82,
+        "Skill_2": 101
+      },
+      "357|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 82
+      },
+      "358|Alpha|Regular|Chest": {
+        "Skill_1": 53,
+        "Skill_2": 55
+      },
+      "359|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 53
+      },
+      "360|Alpha|Regular|Chest": {
+        "Skill_1": 81,
+        "Skill_2": 79
+      },
+      "361|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 81
+      },
+      "362|Alpha|Regular|Chest": {
+        "Skill_1": 37,
+        "Skill_2": 7
+      },
+      "363|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 37
+      },
+      "378|Alpha|Regular|Chest": {
+        "Skill_1": 27,
+        "Skill_2": 47
+      },
+      "379|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 27,
+        "Skill_2": 47
+      },
+      "380|Alpha|Regular|Chest": {
+        "Set_Skill_1": 188,
+        "Skill_1": 53,
+        "Skill_2": 74
+      },
+      "381|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 188,
+        "Skill_1": 53
+      },
+      "382|Alpha|Regular|Chest": {
+        "Set_Skill_1": 189,
+        "Skill_1": 50,
+        "Skill_2": 30
+      },
+      "383|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 189,
+        "Skill_1": 50
+      },
+      "384|Alpha|Regular|Chest": {
+        "Set_Skill_1": 190,
+        "Skill_1": 57,
+        "Skill_2": 64
+      },
+      "385|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 190,
+        "Skill_1": 57,
+        "Skill_2": 64
+      },
+      "386|Alpha|Regular|Chest": {
+        "Set_Skill_1": 191,
+        "Skill_1": 78,
+        "Skill_2": 97
+      },
+      "387|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 191,
+        "Skill_1": 78,
+        "Skill_2": 97
+      },
+      "388|Alpha|Regular|Chest": {
+        "Set_Skill_1": 192,
+        "Skill_1": 86,
+        "Skill_2": 7
+      },
+      "389|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 192,
+        "Skill_1": 86
+      },
+      "390|Alpha|Regular|Chest": {
+        "Skill_1": 30,
+        "Skill_2": 17
+      },
+      "391|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 30,
+        "Skill_2": 17
+      },
+      "392|Alpha|Regular|Chest": {
+        "Set_Skill_1": 193,
+        "Skill_1": 56,
+        "Skill_2": 6
+      },
+      "393|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 193,
+        "Skill_1": 56
+      },
+      "394|Alpha|Regular|Chest": {
+        "Set_Skill_1": 171,
+        "Skill_1": 78,
+        "Skill_2": 106
+      },
+      "395|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 171,
+        "Skill_1": 78
+      },
+      "396|Alpha|Regular|Chest": {
+        "Set_Skill_1": 173,
+        "Skill_1": 53,
+        "Skill_2": 101
+      },
+      "397|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 173,
+        "Skill_1": 53,
+        "Skill_2": 101
+      },
+      "398|Alpha|Regular|Chest": {
+        "Set_Skill_1": 172,
+        "Skill_1": 58,
+        "Skill_2": 62
+      },
+      "399|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 172,
+        "Skill_1": 58,
+        "Skill_2": 62
+      },
+      "400|Alpha|Regular|Chest": {
+        "Set_Skill_1": 170,
+        "Skill_1": 11,
+        "Skill_2": 84
+      },
+      "401|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 170,
+        "Skill_1": 11
+      },
+      "402|Alpha|Regular|Chest": {
+        "Set_Skill_1": 182,
+        "Skill_1": 104,
+        "Skill_2": 4
+      },
+      "403|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 182,
+        "Skill_1": 104,
+        "Skill_2": 4
+      },
+      "406|Alpha|Regular|Chest": {
+        "Set_Skill_1": 181,
+        "Skill_1": 90,
+        "Skill_2": 82
+      },
+      "407|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 181,
+        "Skill_1": 90
+      },
+      "413|Alpha|Regular|Chest": {
+        "Set_Skill_1": 191,
+        "Skill_1": 52,
+        "Skill_2": 73
+      },
+      "414|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 191,
+        "Skill_1": 52
+      },
+      "415|Alpha|Regular|Chest": {
+        "Set_Skill_1": 189,
+        "Skill_1": 47,
+        "Skill_2": 56
+      },
+      "416|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 189,
+        "Skill_1": 47
+      },
+      "417|Alpha|Regular|Chest": {
+        "Set_Skill_1": 190,
+        "Skill_1": 66,
+        "Skill_2": 73
+      },
+      "418|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 190,
+        "Skill_1": 66,
+        "Skill_2": 73
+      },
+      "419|Alpha|Regular|Chest": {
+        "Set_Skill_1": 192,
+        "Skill_1": 48,
+        "Skill_2": 28
+      },
+      "420|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 192,
+        "Skill_1": 48,
+        "Skill_2": 28
+      },
+      "421|Alpha|Regular|Chest": {
+        "Set_Skill_1": 173,
+        "Skill_1": 54,
+        "Skill_2": 76
+      },
+      "422|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 173,
+        "Skill_1": 54,
+        "Skill_2": 76
+      },
+      "423|Alpha|Regular|Chest": {
+        "Set_Skill_1": 179,
+        "Skill_1": 48,
+        "Skill_2": 63
+      },
+      "424|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 179,
+        "Skill_1": 48,
+        "Skill_2": 63
+      },
+      "428|Alpha|Regular|Chest": {
+        "Skill_1": 19,
+        "Skill_2": 116
+      },
+      "429|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 19,
+        "Skill_2": 116
+      },
+      "430|Alpha|Regular|Chest": {
+        "Skill_1": 52,
+        "Skill_2": 20
+      },
+      "431|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 52
+      },
+      "432|Alpha|Regular|Chest": {
+        "Set_Skill_1": 178,
+        "Skill_1": 81,
+        "Skill_2": 55
+      },
+      "433|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 178,
+        "Skill_1": 81
+      },
+      "434|Alpha|Regular|Chest": {
+        "Set_Skill_1": 194,
+        "Skill_1": 80,
+        "Skill_2": 6
+      },
+      "435|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 194,
+        "Skill_1": 80
+      },
+      "436|Alpha|Regular|Chest": {
+        "Set_Skill_1": 196,
+        "Skill_1": 23,
+        "Skill_2": 34
+      },
+      "437|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 196,
+        "Skill_1": 23,
+        "Skill_2": 34
+      },
+      "438|Alpha|Regular|Chest": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61,
+        "Skill_2": 70
+      },
+      "439|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61
+      },
+      "440|Alpha|Regular|Chest": {
+        "Set_Skill_1": 144,
+        "Skill_1": 54
+      },
+      "441|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 144,
+        "Skill_1": 54
+      },
+      "442|Alpha|Regular|Chest": {
+        "Set_Skill_1": 199,
+        "Skill_1": 48,
+        "Skill_2": 97
+      },
+      "443|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 199,
+        "Skill_1": 48,
+        "Skill_2": 97
+      },
+      "444|Alpha|Regular|Chest": {
+        "Set_Skill_1": 177,
+        "Skill_1": 29,
+        "Skill_2": 120
+      },
+      "445|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 177,
+        "Skill_1": 29,
+        "Skill_2": 120
+      },
+      "448|Alpha|Regular|Chest": {
+        "Set_Skill_1": 200,
+        "Skill_1": 62,
+        "Skill_2": 64
+      },
+      "449|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 200,
+        "Skill_1": 62,
+        "Skill_2": 64
+      },
+      "450|Alpha|Regular|Chest": {
+        "Set_Skill_1": 180,
+        "Skill_1": 62,
+        "Skill_2": 70
+      },
+      "451|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 180,
+        "Skill_1": 62
+      },
+      "453|Alpha|Regular|Chest": {
+        "Set_Skill_1": 203,
+        "Skill_1": 76,
+        "Skill_2": 101
+      },
+      "454|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 203,
+        "Skill_1": 76
+      },
+      "455|Alpha|Regular|Chest": {
+        "Set_Skill_1": 176,
+        "Skill_1": 186,
+        "Skill_2": 21
+      },
+      "456|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 176,
+        "Skill_1": 186
+      },
+      "457|Alpha|Regular|Chest": {
+        "Set_Skill_1": 195,
+        "Skill_1": 85,
+        "Skill_2": 54
+      },
+      "458|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 195,
+        "Skill_1": 85
+      },
+      "461|Alpha|Regular|Chest": {
+        "Set_Skill_1": 200,
+        "Skill_1": 111,
+        "Skill_2": 104
+      },
+      "462|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 200,
+        "Skill_1": 111
+      },
+      "464|Alpha|Regular|Chest": {
+        "Set_Skill_1": 175,
+        "Skill_1": 97,
+        "Skill_2": 66
+      },
+      "465|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 175,
+        "Skill_1": 97
+      },
+      "466|Alpha|Regular|Chest": {
+        "Set_Skill_1": 174,
+        "Skill_1": 49,
+        "Skill_2": 30
+      },
+      "467|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 174,
+        "Skill_1": 49
+      },
+      "470|Alpha|Regular|Chest": {
+        "Set_Skill_1": 169,
+        "Skill_1": 61,
+        "Skill_2": 39
+      },
+      "471|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 169,
+        "Skill_1": 61
+      },
+      "472|Alpha|Regular|Chest": {
+        "Set_Skill_1": 169,
+        "Skill_1": 12,
+        "Skill_2": 104
+      },
+      "473|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 169,
+        "Skill_1": 12,
+        "Skill_2": 104
+      },
+      "474|Alpha|Regular|Chest": {
+        "Skill_1": 11,
+        "Skill_2": 48
+      },
+      "475|Beta_or_Gamma|Regular|Chest": {
+        "Skill_1": 11,
+        "Skill_2": 48
+      },
+      "476|Alpha|Regular|Chest": {
+        "Set_Skill_1": 201,
+        "Skill_1": 13,
+        "Skill_2": 71
+      },
+      "477|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 201,
+        "Skill_1": 13
+      },
+      "478|Alpha|Regular|Chest": {
+        "Set_Skill_1": 208,
+        "Skill_1": 66,
+        "Skill_2": 86
+      },
+      "479|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 208,
+        "Skill_1": 66
+      },
+      "480|Alpha|Regular|Chest": {
+        "Set_Skill_1": 217,
+        "Skill_1": 101,
+        "Skill_2": 11
+      },
+      "481|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 217,
+        "Skill_1": 101
+      },
+      "482|Alpha|Regular|Chest": {
+        "Set_Skill_1": 218,
+        "Skill_1": 62,
+        "Skill_2": 38
+      },
+      "483|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 218,
+        "Skill_1": 62
+      },
+      "484|Alpha|Regular|Chest": {
+        "Set_Skill_1": 211,
+        "Skill_1": 29,
+        "Skill_2": 49
+      },
+      "485|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 211,
+        "Skill_1": 29,
+        "Skill_2": 49
+      },
+      "486|Alpha|Regular|Chest": {
+        "Set_Skill_1": 221,
+        "Skill_1": 21,
+        "Skill_2": 66
+      },
+      "487|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 221,
+        "Skill_1": 21,
+        "Skill_2": 66
+      },
+      "492|Alpha|Regular|Chest": {
+        "Set_Skill_1": 202,
+        "Skill_1": 63,
+        "Skill_2": 82
+      },
+      "493|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 202,
+        "Skill_1": 63,
+        "Skill_2": 82
+      },
+      "494|Alpha|Regular|Chest": {
+        "Set_Skill_1": 219,
+        "Skill_1": 85,
+        "Skill_2": 84
+      },
+      "495|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 219,
+        "Skill_1": 85
+      },
+      "496|Alpha|Regular|Chest": {
+        "Set_Skill_1": 214,
+        "Skill_1": 19
+      },
+      "498|Alpha|Regular|Chest": {
+        "Set_Skill_1": 215,
+        "Skill_1": 94,
+        "Skill_2": 96
+      },
+      "502|Alpha|Regular|Chest": {
+        "Set_Skill_1": 212,
+        "Skill_1": 76
+      },
+      "504|Alpha|Regular|Chest": {
+        "Set_Skill_1": 213,
+        "Skill_1": 49
+      },
+      "517|Alpha|Regular|Chest": {
+        "Skill_1": 62,
+        "Skill_2": 65
+      },
+      "518|Alpha|Regular|Chest": {
+        "Set_Skill_1": 170,
+        "Skill_1": 19,
+        "Skill_2": 50
+      },
+      "519|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 170,
+        "Skill_1": 19,
+        "Skill_2": 50
+      },
+      "520|Alpha|Regular|Chest": {
+        "Skill_1": 73,
+        "Skill_2": 22
+      },
+      "523|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 209,
+        "Skill_1": 33
+      },
+      "524|Alpha|Regular|Chest": {
+        "Set_Skill_1": 177,
+        "Skill_1": 78,
+        "Skill_2": 31
+      },
+      "526|Alpha|Regular|Chest": {
+        "Set_Skill_1": 174,
+        "Skill_1": 74,
+        "Skill_2": 52
+      },
+      "528|Alpha|Regular|Chest": {
+        "Set_Skill_1": 220,
+        "Skill_1": 19,
+        "Skill_2": 55
+      },
+      "529|Beta_or_Gamma|Regular|Chest": {
+        "Set_Skill_1": 220,
+        "Skill_1": 19
+      },
+      "532|Alpha|Regular|Chest": {
+        "Set_Skill_1": 182,
+        "Skill_1": 73,
+        "Skill_2": 76
+      },
+      "534|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 50
+      },
+      "535|Alpha|Unknown|Chest": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 78
+      },
+      "1|Low_Rank|Regular|Arms": {
+        "Skill_1": 103
+      },
+      "5|Low_Rank|Regular|Arms": {
+        "Skill_1": 57
+      },
+      "6|Low_Rank|Regular|Arms": {
+        "Skill_1": 20
+      },
+      "9|Low_Rank|Regular|Arms": {
+        "Skill_1": 36
+      },
+      "164|Low_Rank|Regular|Arms": {
+        "Skill_1": 122
+      },
+      "4|Low_Rank|Regular|Arms": {
+        "Skill_1": 98
+      },
+      "10|Low_Rank|Regular|Arms": {
+        "Skill_1": 93
+      },
+      "11|Low_Rank|Regular|Arms": {
+        "Skill_1": 1
+      },
+      "13|Low_Rank|Regular|Arms": {
+        "Skill_1": 73
+      },
+      "12|Low_Rank|Regular|Arms": {
+        "Skill_1": 31
+      },
+      "14|Low_Rank|Regular|Arms": {
+        "Skill_1": 79
+      },
+      "25|Low_Rank|Regular|Arms": {
+        "Skill_1": 20
+      },
+      "18|Low_Rank|Regular|Arms": {
+        "Skill_1": 84
+      },
+      "3|Low_Rank|Regular|Arms": {
+        "Set_Skill_1": 125,
+        "Skill_1": 70
+      },
+      "21|Low_Rank|Regular|Arms": {
+        "Skill_1": 35
+      },
+      "23|Low_Rank|Regular|Arms": {
+        "Skill_1": 4
+      },
+      "24|Low_Rank|Regular|Arms": {
+        "Skill_1": 71
+      },
+      "22|Low_Rank|Regular|Arms": {
+        "Skill_1": 98
+      },
+      "28|Low_Rank|Regular|Arms": {
+        "Skill_1": 37
+      },
+      "20|Low_Rank|Regular|Arms": {
+        "Skill_1": 75
+      },
+      "159|Low_Rank|Regular|Arms": {
+        "Skill_1": 75
+      },
+      "31|Low_Rank|Regular|Arms": {
+        "Skill_1": 21
+      },
+      "27|Low_Rank|Regular|Arms": {
+        "Set_Skill_1": 151,
+        "Skill_1": 60
+      },
+      "29|Low_Rank|Regular|Arms": {
+        "Set_Skill_1": 153,
+        "Skill_1": 74
+      },
+      "33|Low_Rank|Regular|Arms": {
+        "Set_Skill_1": 128,
+        "Skill_1": 24
+      },
+      "34|Low_Rank|Regular|Arms": {
+        "Set_Skill_1": 129,
+        "Skill_1": 64
+      },
+      "35|Low_Rank|Regular|Arms": {
+        "Set_Skill_1": 130,
+        "Skill_1": 29
+      },
+      "26|Low_Rank|Regular|Arms": {
+        "Skill_1": 52
+      },
+      "36|Low_Rank|Regular|Arms": {
+        "Skill_1": 72
+      },
+      "39|Alpha|Regular|Arms": {
+        "Skill_1": 23
+      },
+      "147|Alpha|Regular|Arms": {
+        "Skill_1": 23
+      },
+      "41|Alpha|Regular|Arms": {
+        "Skill_1": 103
+      },
+      "42|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 103
+      },
+      "43|Alpha|Regular|Arms": {
+        "Skill_1": 57,
+        "Skill_2": 19
+      },
+      "44|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 57
+      },
+      "45|Alpha|Regular|Arms": {
+        "Skill_1": 20,
+        "Skill_2": 86
+      },
+      "46|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 20
+      },
+      "51|Alpha|Regular|Arms": {
+        "Skill_1": 36
+      },
+      "52|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 36
+      },
+      "57|Alpha|Regular|Arms": {
+        "Skill_1": 84,
+        "Skill_2": 77
+      },
+      "58|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 84
+      },
+      "165|Alpha|Regular|Arms": {
+        "Skill_1": 122,
+        "Skill_2": 52
+      },
+      "166|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 122
+      },
+      "61|Alpha|Regular|Arms": {
+        "Skill_1": 98,
+        "Skill_2": 124
+      },
+      "62|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 98
+      },
+      "63|Alpha|Regular|Arms": {
+        "Skill_1": 93,
+        "Skill_2": 48
+      },
+      "64|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 93
+      },
+      "65|Alpha|Regular|Arms": {
+        "Skill_1": 1,
+        "Skill_2": 35
+      },
+      "66|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 1
+      },
+      "69|Alpha|Regular|Arms": {
+        "Skill_1": 73,
+        "Skill_2": 58
+      },
+      "70|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 73
+      },
+      "67|Alpha|Regular|Arms": {
+        "Skill_1": 31,
+        "Skill_2": 109
+      },
+      "68|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 31
+      },
+      "71|Alpha|Regular|Arms": {
+        "Skill_1": 79
+      },
+      "72|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 79
+      },
+      "93|Alpha|Regular|Arms": {
+        "Set_Skill_1": 132,
+        "Skill_1": 70,
+        "Skill_2": 30
+      },
+      "94|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 132,
+        "Skill_1": 70
+      },
+      "73|Alpha|Regular|Arms": {
+        "Skill_1": 35
+      },
+      "74|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 35
+      },
+      "77|Alpha|Regular|Arms": {
+        "Skill_1": 4,
+        "Skill_2": 82
+      },
+      "78|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 4
+      },
+      "79|Alpha|Regular|Arms": {
+        "Skill_1": 71
+      },
+      "80|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 71
+      },
+      "75|Alpha|Regular|Arms": {
+        "Skill_1": 98
+      },
+      "76|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 98
+      },
+      "97|Alpha|Regular|Arms": {
+        "Skill_1": 37,
+        "Skill_2": 80
+      },
+      "98|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 37,
+        "Skill_2": 80
+      },
+      "89|Alpha|Regular|Arms": {
+        "Skill_1": 20,
+        "Skill_2": 32
+      },
+      "90|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 20
+      },
+      "91|Alpha|Regular|Arms": {
+        "Skill_1": 21,
+        "Skill_2": 33
+      },
+      "92|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 21
+      },
+      "87|Alpha|Regular|Arms": {
+        "Set_Skill_1": 131,
+        "Skill_1": 12
+      },
+      "88|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 131,
+        "Skill_1": 12
+      },
+      "95|Alpha|Regular|Arms": {
+        "Set_Skill_1": 152,
+        "Skill_1": 60,
+        "Skill_2": 78
+      },
+      "96|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 152,
+        "Skill_1": 60
+      },
+      "81|Alpha|Regular|Arms": {
+        "Set_Skill_1": 154,
+        "Skill_1": 74,
+        "Skill_2": 48
+      },
+      "82|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 154,
+        "Skill_1": 74
+      },
+      "101|Alpha|Regular|Arms": {
+        "Set_Skill_1": 135,
+        "Skill_1": 24,
+        "Skill_2": 19
+      },
+      "102|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 135,
+        "Skill_1": 24
+      },
+      "111|Alpha|Regular|Arms": {
+        "Set_Skill_1": 135,
+        "Skill_1": 52,
+        "Skill_2": 12
+      },
+      "112|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 135,
+        "Skill_1": 52
+      },
+      "103|Alpha|Regular|Arms": {
+        "Set_Skill_1": 136,
+        "Skill_1": 64,
+        "Skill_2": 13
+      },
+      "104|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 136,
+        "Skill_1": 64
+      },
+      "113|Alpha|Regular|Arms": {
+        "Set_Skill_1": 136,
+        "Skill_1": 52,
+        "Skill_2": 73
+      },
+      "114|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 136,
+        "Skill_1": 52
+      },
+      "83|Alpha|Regular|Arms": {
+        "Skill_1": 88
+      },
+      "84|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 88
+      },
+      "85|Alpha|Regular|Arms": {
+        "Skill_1": 122,
+        "Skill_2": 82
+      },
+      "86|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 122
+      },
+      "109|Alpha|Regular|Arms": {
+        "Set_Skill_1": 138,
+        "Skill_1": 80,
+        "Skill_2": 20
+      },
+      "110|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 138,
+        "Skill_1": 80
+      },
+      "107|Alpha|Regular|Arms": {
+        "Set_Skill_1": 126,
+        "Skill_1": 62,
+        "Skill_2": 19
+      },
+      "108|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 126,
+        "Skill_1": 62
+      },
+      "117|Alpha|Regular|Arms": {
+        "Skill_1": 99,
+        "Skill_2": 75
+      },
+      "118|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 99
+      },
+      "160|Alpha|Regular|Arms": {
+        "Skill_1": 99,
+        "Skill_2": 75
+      },
+      "161|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 99
+      },
+      "119|Alpha|Regular|Arms": {
+        "Skill_1": 72,
+        "Skill_2": 97
+      },
+      "120|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 72
+      },
+      "121|Alpha|Regular|Arms": {
+        "Skill_1": 54,
+        "Skill_2": 86
+      },
+      "122|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 54
+      },
+      "123|Alpha|Regular|Arms": {
+        "Skill_1": 76,
+        "Skill_2": 90
+      },
+      "124|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 76,
+        "Skill_2": 90
+      },
+      "129|Alpha|Regular|Arms": {
+        "Set_Skill_1": 144,
+        "Skill_1": 78,
+        "Skill_2": 54
+      },
+      "130|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 144,
+        "Skill_1": 78
+      },
+      "127|Alpha|Regular|Arms": {
+        "Set_Skill_1": 143,
+        "Skill_1": 50
+      },
+      "128|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 143,
+        "Skill_1": 50
+      },
+      "105|Alpha|Regular|Arms": {
+        "Set_Skill_1": 137,
+        "Skill_1": 33,
+        "Skill_2": 73
+      },
+      "106|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 137,
+        "Skill_1": 33
+      },
+      "99|Alpha|Regular|Arms": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63,
+        "Skill_2": 23
+      },
+      "100|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63
+      },
+      "115|Alpha|Regular|Arms": {
+        "Set_Skill_1": 142,
+        "Skill_1": 55,
+        "Skill_2": 11
+      },
+      "116|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 142,
+        "Skill_1": 55
+      },
+      "131|Alpha|Regular|Arms": {
+        "Skill_1": 52,
+        "Skill_2": 34
+      },
+      "132|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 52
+      },
+      "133|Alpha|Regular|Arms": {
+        "Set_Skill_1": 149,
+        "Skill_1": 120,
+        "Skill_2": 25
+      },
+      "134|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 149,
+        "Skill_1": 120
+      },
+      "125|Alpha|Regular|Arms": {
+        "Set_Skill_1": 145,
+        "Skill_1": 104,
+        "Skill_2": 49
+      },
+      "126|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 145,
+        "Skill_1": 104
+      },
+      "137|Alpha|Regular|Arms": {
+        "Set_Skill_1": 147,
+        "Skill_1": 47,
+        "Skill_2": 88
+      },
+      "138|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 147,
+        "Skill_1": 47
+      },
+      "149|Alpha|Regular|Arms": {
+        "Set_Skill_1": 150,
+        "Skill_1": 112,
+        "Skill_2": 96
+      },
+      "150|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 150,
+        "Skill_1": 112
+      },
+      "191|Alpha|Regular|Arms": {
+        "Skill_1": 47,
+        "Skill_2": 53
+      },
+      "192|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 47,
+        "Skill_2": 53
+      },
+      "193|Low_Rank|Regular|Arms": {
+        "Skill_1": 2
+      },
+      "194|Low_Rank|Regular|Arms": {
+        "Skill_1": 81
+      },
+      "195|Low_Rank|Regular|Arms": {
+        "Skill_1": 66
+      },
+      "196|Low_Rank|Regular|Arms": {
+        "Skill_1": 12
+      },
+      "197|Low_Rank|Regular|Arms": {
+        "Set_Skill_1": 168,
+        "Skill_1": 101
+      },
+      "201|Alpha|Regular|Arms": {
+        "Skill_1": 61,
+        "Skill_2": 56
+      },
+      "202|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 61
+      },
+      "206|Alpha|Regular|Arms": {
+        "Set_Skill_1": 164,
+        "Skill_1": 48,
+        "Skill_2": 19
+      },
+      "207|Alpha|Regular|Arms": {
+        "Skill_1": 2
+      },
+      "208|Alpha|Regular|Arms": {
+        "Skill_1": 81
+      },
+      "209|Alpha|Regular|Arms": {
+        "Skill_1": 66
+      },
+      "210|Alpha|Regular|Arms": {
+        "Skill_1": 12
+      },
+      "211|Alpha|Regular|Arms": {
+        "Set_Skill_1": 168,
+        "Skill_1": 101
+      },
+      "212|Low_Rank|Regular|Arms": {
+        "Skill_1": 48
+      },
+      "213|Alpha|Regular|Arms": {
+        "Skill_1": 48,
+        "Skill_2": 21
+      },
+      "214|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 48
+      },
+      "215|Low_Rank|Regular|Arms": {
+        "Skill_1": 48
+      },
+      "216|Alpha|Regular|Arms": {
+        "Skill_1": 48,
+        "Skill_2": 21
+      },
+      "217|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 48
+      },
+      "218|Alpha|Regular|Arms": {
+        "Set_Skill_1": 127,
+        "Skill_1": 34
+      },
+      "219|Alpha|Regular|Arms": {
+        "Set_Skill_1": 137,
+        "Skill_1": 29,
+        "Skill_2": 47
+      },
+      "220|Alpha|Regular|Arms": {
+        "Set_Skill_1": 143,
+        "Skill_1": 48
+      },
+      "221|Alpha|Regular|Arms": {
+        "Set_Skill_1": 144,
+        "Skill_1": 52
+      },
+      "222|Alpha|Regular|Arms": {
+        "Set_Skill_1": 126,
+        "Skill_1": 56,
+        "Skill_2": 19
+      },
+      "223|Alpha|Regular|Arms": {
+        "Set_Skill_1": 147,
+        "Skill_1": 11
+      },
+      "224|Alpha|Regular|Arms": {
+        "Set_Skill_1": 145,
+        "Skill_1": 53,
+        "Skill_2": 70
+      },
+      "225|Alpha|Unknown|Arms": {
+        "Set_Skill_1": 132,
+        "Skill_1": 50,
+        "Skill_2": 117
+      },
+      "226|Low_Rank|Unknown|Arms": {
+        "Skill_1": 61
+      },
+      "227|Beta_or_Gamma|Unknown|Arms": {
+        "Set_Skill_1": 135,
+        "Skill_1": 62
+      },
+      "228|Beta_or_Gamma|Unknown|Arms": {
+        "Set_Skill_1": 131,
+        "Skill_1": 61
+      },
+      "229|Alpha|Regular|Arms": {
+        "Set_Skill_1": 135,
+        "Skill_1": 22
+      },
+      "230|Alpha|Regular|Arms": {
+        "Skill_1": 78,
+        "Skill_2": 70
+      },
+      "231|Alpha|Regular|Arms": {
+        "Set_Skill_1": 163,
+        "Skill_1": 82,
+        "Skill_2": 38
+      },
+      "232|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 163,
+        "Skill_1": 82
+      },
+      "298|Alpha|Unknown|Arms": {
+        "Set_Skill_1": 132,
+        "Skill_1": 50,
+        "Skill_2": 102
+      },
+      "242|Alpha|Regular|Arms": {
+        "Set_Skill_1": 163,
+        "Skill_1": 62,
+        "Skill_2": 79
+      },
+      "293|Alpha|Unknown|Arms": {
+        "Set_Skill_1": 167,
+        "Skill_1": 23,
+        "Skill_2": 73
+      },
+      "294|Alpha|Unknown|Arms": {
+        "Skill_1": 47,
+        "Skill_2": 162
+      },
+      "247|Alpha|Regular|Arms": {
+        "Skill_1": 54,
+        "Skill_2": 74
+      },
+      "248|Alpha|Regular|Arms": {
+        "Skill_1": 73,
+        "Skill_2": 97
+      },
+      "302|Alpha|Regular|Arms": {
+        "Skill_1": 57,
+        "Skill_2": 19
+      },
+      "303|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 57
+      },
+      "304|Alpha|Regular|Arms": {
+        "Skill_1": 20,
+        "Skill_2": 86
+      },
+      "305|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 20
+      },
+      "306|Alpha|Regular|Arms": {
+        "Skill_1": 36,
+        "Skill_2": 81
+      },
+      "307|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 36
+      },
+      "308|Alpha|Regular|Arms": {
+        "Skill_1": 84,
+        "Skill_2": 54
+      },
+      "309|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 84
+      },
+      "310|Alpha|Regular|Arms": {
+        "Skill_1": 122,
+        "Skill_2": 52
+      },
+      "311|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 122,
+        "Skill_2": 52
+      },
+      "324|Alpha|Regular|Arms": {
+        "Skill_1": 79,
+        "Skill_2": 22
+      },
+      "325|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 79,
+        "Skill_2": 22
+      },
+      "326|Alpha|Regular|Arms": {
+        "Skill_1": 4,
+        "Skill_2": 82
+      },
+      "327|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 4,
+        "Skill_2": 82
+      },
+      "328|Alpha|Regular|Arms": {
+        "Skill_1": 47,
+        "Skill_2": 116
+      },
+      "329|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 47,
+        "Skill_2": 116
+      },
+      "330|Alpha|Regular|Arms": {
+        "Skill_1": 88,
+        "Skill_2": 38
+      },
+      "331|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 88,
+        "Skill_2": 38
+      },
+      "332|Alpha|Regular|Arms": {
+        "Skill_1": 49,
+        "Skill_2": 93
+      },
+      "333|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 49
+      },
+      "334|Alpha|Regular|Arms": {
+        "Skill_1": 63,
+        "Skill_2": 108
+      },
+      "335|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 63,
+        "Skill_2": 108
+      },
+      "336|Alpha|Regular|Arms": {
+        "Skill_1": 73,
+        "Skill_2": 80
+      },
+      "337|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 73
+      },
+      "338|Alpha|Regular|Arms": {
+        "Skill_1": 31,
+        "Skill_2": 26
+      },
+      "339|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 31
+      },
+      "340|Alpha|Regular|Arms": {
+        "Skill_1": 32,
+        "Skill_2": 21
+      },
+      "341|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 32
+      },
+      "342|Alpha|Regular|Arms": {
+        "Skill_1": 79,
+        "Skill_2": 33
+      },
+      "343|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 79,
+        "Skill_2": 33
+      },
+      "344|Alpha|Regular|Arms": {
+        "Skill_1": 20,
+        "Skill_2": 32
+      },
+      "345|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 20,
+        "Skill_2": 32
+      },
+      "346|Alpha|Regular|Arms": {
+        "Skill_1": 185,
+        "Skill_2": 21
+      },
+      "347|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 185,
+        "Skill_2": 21
+      },
+      "348|Alpha|Regular|Arms": {
+        "Set_Skill_1": 182,
+        "Skill_1": 70,
+        "Skill_2": 30
+      },
+      "349|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 182,
+        "Skill_1": 70,
+        "Skill_2": 30
+      },
+      "350|Alpha|Regular|Arms": {
+        "Set_Skill_1": 183,
+        "Skill_1": 35,
+        "Skill_2": 99
+      },
+      "351|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 183,
+        "Skill_1": 35
+      },
+      "352|Alpha|Regular|Arms": {
+        "Set_Skill_1": 183,
+        "Skill_1": 12,
+        "Skill_2": 54
+      },
+      "353|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 183,
+        "Skill_1": 12
+      },
+      "354|Alpha|Regular|Arms": {
+        "Skill_1": 71,
+        "Skill_2": 12
+      },
+      "355|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 71,
+        "Skill_2": 12
+      },
+      "356|Alpha|Regular|Arms": {
+        "Skill_1": 101,
+        "Skill_2": 37
+      },
+      "357|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 101
+      },
+      "358|Alpha|Regular|Arms": {
+        "Skill_1": 56,
+        "Skill_2": 53
+      },
+      "359|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 56
+      },
+      "360|Alpha|Regular|Arms": {
+        "Skill_1": 35,
+        "Skill_2": 78
+      },
+      "361|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 35,
+        "Skill_2": 78
+      },
+      "362|Alpha|Regular|Arms": {
+        "Skill_1": 37,
+        "Skill_2": 80
+      },
+      "363|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 37,
+        "Skill_2": 80
+      },
+      "378|Alpha|Regular|Arms": {
+        "Skill_1": 21,
+        "Skill_2": 33
+      },
+      "379|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 21,
+        "Skill_2": 33
+      },
+      "380|Alpha|Regular|Arms": {
+        "Set_Skill_1": 188,
+        "Skill_1": 22,
+        "Skill_2": 74
+      },
+      "381|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 188,
+        "Skill_1": 22,
+        "Skill_2": 74
+      },
+      "382|Alpha|Regular|Arms": {
+        "Set_Skill_1": 189,
+        "Skill_1": 107,
+        "Skill_2": 50
+      },
+      "383|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 189,
+        "Skill_1": 107
+      },
+      "384|Alpha|Regular|Arms": {
+        "Set_Skill_1": 190,
+        "Skill_1": 64,
+        "Skill_2": 13
+      },
+      "385|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 190,
+        "Skill_1": 64,
+        "Skill_2": 13
+      },
+      "386|Alpha|Regular|Arms": {
+        "Set_Skill_1": 191,
+        "Skill_1": 60,
+        "Skill_2": 78
+      },
+      "387|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 191,
+        "Skill_1": 60,
+        "Skill_2": 78
+      },
+      "388|Alpha|Regular|Arms": {
+        "Set_Skill_1": 192,
+        "Skill_1": 74,
+        "Skill_2": 48
+      },
+      "389|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 192,
+        "Skill_1": 74,
+        "Skill_2": 48
+      },
+      "390|Alpha|Regular|Arms": {
+        "Skill_1": 63,
+        "Skill_2": 22
+      },
+      "391|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 63,
+        "Skill_2": 22
+      },
+      "392|Alpha|Regular|Arms": {
+        "Set_Skill_1": 193,
+        "Skill_1": 80,
+        "Skill_2": 8
+      },
+      "393|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 193,
+        "Skill_1": 80,
+        "Skill_2": 8
+      },
+      "394|Alpha|Regular|Arms": {
+        "Set_Skill_1": 171,
+        "Skill_1": 76,
+        "Skill_2": 103
+      },
+      "395|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 171,
+        "Skill_1": 76
+      },
+      "396|Alpha|Regular|Arms": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101,
+        "Skill_2": 52
+      },
+      "397|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101,
+        "Skill_2": 52
+      },
+      "398|Alpha|Regular|Arms": {
+        "Set_Skill_1": 172,
+        "Skill_1": 62,
+        "Skill_2": 6
+      },
+      "399|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 172,
+        "Skill_1": 62,
+        "Skill_2": 6
+      },
+      "400|Alpha|Regular|Arms": {
+        "Set_Skill_1": 170,
+        "Skill_1": 85,
+        "Skill_2": 19
+      },
+      "401|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 170,
+        "Skill_1": 85,
+        "Skill_2": 19
+      },
+      "402|Alpha|Regular|Arms": {
+        "Set_Skill_1": 182,
+        "Skill_1": 83,
+        "Skill_2": 33
+      },
+      "403|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 182,
+        "Skill_1": 83
+      },
+      "406|Alpha|Regular|Arms": {
+        "Set_Skill_1": 181,
+        "Skill_1": 82,
+        "Skill_2": 68
+      },
+      "407|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 181,
+        "Skill_1": 82
+      },
+      "413|Alpha|Regular|Arms": {
+        "Set_Skill_1": 191,
+        "Skill_1": 55,
+        "Skill_2": 77
+      },
+      "414|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 191,
+        "Skill_1": 55
+      },
+      "415|Alpha|Regular|Arms": {
+        "Set_Skill_1": 189,
+        "Skill_1": 56,
+        "Skill_2": 12
+      },
+      "416|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 189,
+        "Skill_1": 56,
+        "Skill_2": 12
+      },
+      "417|Alpha|Regular|Arms": {
+        "Set_Skill_1": 190,
+        "Skill_1": 57,
+        "Skill_2": 73
+      },
+      "418|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 190,
+        "Skill_1": 57,
+        "Skill_2": 73
+      },
+      "419|Alpha|Regular|Arms": {
+        "Set_Skill_1": 192,
+        "Skill_1": 53,
+        "Skill_2": 34
+      },
+      "420|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 192,
+        "Skill_1": 53,
+        "Skill_2": 34
+      },
+      "421|Alpha|Regular|Arms": {
+        "Set_Skill_1": 173,
+        "Skill_1": 4,
+        "Skill_2": 54
+      },
+      "422|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 173,
+        "Skill_1": 4
+      },
+      "423|Alpha|Regular|Arms": {
+        "Set_Skill_1": 179,
+        "Skill_1": 47,
+        "Skill_2": 120
+      },
+      "424|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 179,
+        "Skill_1": 47
+      },
+      "428|Alpha|Regular|Arms": {
+        "Skill_1": 76,
+        "Skill_2": 90
+      },
+      "429|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 76,
+        "Skill_2": 90
+      },
+      "430|Alpha|Regular|Arms": {
+        "Skill_1": 54,
+        "Skill_2": 86
+      },
+      "431|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 54
+      },
+      "432|Alpha|Regular|Arms": {
+        "Set_Skill_1": 178,
+        "Skill_1": 81,
+        "Skill_2": 104
+      },
+      "433|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 178,
+        "Skill_1": 81,
+        "Skill_2": 104
+      },
+      "434|Alpha|Regular|Arms": {
+        "Set_Skill_1": 194,
+        "Skill_1": 55,
+        "Skill_2": 11
+      },
+      "435|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 194,
+        "Skill_1": 55
+      },
+      "436|Alpha|Regular|Arms": {
+        "Set_Skill_1": 196,
+        "Skill_1": 22,
+        "Skill_2": 85
+      },
+      "437|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 196,
+        "Skill_1": 22
+      },
+      "438|Alpha|Regular|Arms": {
+        "Set_Skill_1": 143,
+        "Skill_1": 50,
+        "Skill_2": 17
+      },
+      "439|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 143,
+        "Skill_1": 50,
+        "Skill_2": 17
+      },
+      "440|Alpha|Regular|Arms": {
+        "Set_Skill_1": 144,
+        "Skill_1": 78
+      },
+      "441|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 144,
+        "Skill_1": 78
+      },
+      "442|Alpha|Regular|Arms": {
+        "Set_Skill_1": 199,
+        "Skill_1": 33,
+        "Skill_2": 73
+      },
+      "443|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 199,
+        "Skill_1": 33
+      },
+      "444|Alpha|Regular|Arms": {
+        "Set_Skill_1": 177,
+        "Skill_1": 120,
+        "Skill_2": 101
+      },
+      "445|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 177,
+        "Skill_1": 120
+      },
+      "448|Alpha|Regular|Arms": {
+        "Set_Skill_1": 200,
+        "Skill_1": 185,
+        "Skill_2": 64
+      },
+      "449|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 200,
+        "Skill_1": 185
+      },
+      "450|Alpha|Regular|Arms": {
+        "Set_Skill_1": 180,
+        "Skill_1": 88,
+        "Skill_2": 13
+      },
+      "451|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 180,
+        "Skill_1": 88
+      },
+      "453|Alpha|Regular|Arms": {
+        "Set_Skill_1": 203,
+        "Skill_1": 62,
+        "Skill_2": 19
+      },
+      "454|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 203,
+        "Skill_1": 62,
+        "Skill_2": 19
+      },
+      "455|Alpha|Regular|Arms": {
+        "Set_Skill_1": 176,
+        "Skill_1": 49,
+        "Skill_2": 186
+      },
+      "456|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 176,
+        "Skill_1": 49
+      },
+      "457|Alpha|Regular|Arms": {
+        "Set_Skill_1": 195,
+        "Skill_1": 58,
+        "Skill_2": 56
+      },
+      "458|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 195,
+        "Skill_1": 58
+      },
+      "461|Alpha|Regular|Arms": {
+        "Set_Skill_1": 200,
+        "Skill_1": 100,
+        "Skill_2": 99
+      },
+      "462|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 200,
+        "Skill_1": 100,
+        "Skill_2": 99
+      },
+      "464|Alpha|Regular|Arms": {
+        "Set_Skill_1": 175,
+        "Skill_1": 66,
+        "Skill_2": 35
+      },
+      "465|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 175,
+        "Skill_1": 66
+      },
+      "466|Alpha|Regular|Arms": {
+        "Set_Skill_1": 174,
+        "Skill_1": 102,
+        "Skill_2": 12
+      },
+      "467|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 174,
+        "Skill_1": 102
+      },
+      "470|Alpha|Regular|Arms": {
+        "Set_Skill_1": 169,
+        "Skill_1": 23,
+        "Skill_2": 61
+      },
+      "471|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 169,
+        "Skill_1": 23,
+        "Skill_2": 61
+      },
+      "472|Alpha|Regular|Arms": {
+        "Set_Skill_1": 169,
+        "Skill_1": 56,
+        "Skill_2": 34
+      },
+      "473|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 169,
+        "Skill_1": 56
+      },
+      "474|Alpha|Regular|Arms": {
+        "Skill_1": 11
+      },
+      "475|Beta_or_Gamma|Regular|Arms": {
+        "Skill_1": 11
+      },
+      "476|Alpha|Regular|Arms": {
+        "Set_Skill_1": 201,
+        "Skill_1": 104,
+        "Skill_2": 84
+      },
+      "477|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 201,
+        "Skill_1": 104
+      },
+      "478|Alpha|Regular|Arms": {
+        "Set_Skill_1": 208,
+        "Skill_1": 66,
+        "Skill_2": 54
+      },
+      "479|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 208,
+        "Skill_1": 66
+      },
+      "480|Alpha|Regular|Arms": {
+        "Set_Skill_1": 217,
+        "Skill_1": 76,
+        "Skill_2": 20
+      },
+      "481|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 217,
+        "Skill_1": 76
+      },
+      "482|Alpha|Regular|Arms": {
+        "Set_Skill_1": 218,
+        "Skill_1": 62,
+        "Skill_2": 71
+      },
+      "483|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 218,
+        "Skill_1": 62
+      },
+      "484|Alpha|Regular|Arms": {
+        "Set_Skill_1": 211,
+        "Skill_1": 29,
+        "Skill_2": 101
+      },
+      "485|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 211,
+        "Skill_1": 29
+      },
+      "486|Alpha|Regular|Arms": {
+        "Set_Skill_1": 221,
+        "Skill_1": 19,
+        "Skill_2": 53
+      },
+      "487|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 221,
+        "Skill_1": 19
+      },
+      "492|Alpha|Regular|Arms": {
+        "Set_Skill_1": 202,
+        "Skill_1": 120,
+        "Skill_2": 38
+      },
+      "493|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 202,
+        "Skill_1": 120,
+        "Skill_2": 38
+      },
+      "494|Alpha|Regular|Arms": {
+        "Set_Skill_1": 219,
+        "Skill_1": 49,
+        "Skill_2": 82
+      },
+      "495|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 219,
+        "Skill_1": 49
+      },
+      "496|Alpha|Regular|Arms": {
+        "Set_Skill_1": 214,
+        "Skill_1": 120
+      },
+      "498|Alpha|Regular|Arms": {
+        "Set_Skill_1": 215,
+        "Skill_1": 108
+      },
+      "502|Alpha|Regular|Arms": {
+        "Set_Skill_1": 212,
+        "Skill_1": 186
+      },
+      "504|Alpha|Regular|Arms": {
+        "Set_Skill_1": 213,
+        "Skill_1": 97
+      },
+      "517|Alpha|Regular|Arms": {
+        "Skill_1": 19,
+        "Skill_2": 67
+      },
+      "518|Alpha|Regular|Arms": {
+        "Set_Skill_1": 170,
+        "Skill_1": 21,
+        "Skill_2": 19
+      },
+      "519|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 170,
+        "Skill_1": 21,
+        "Skill_2": 19
+      },
+      "520|Alpha|Regular|Arms": {
+        "Skill_1": 73,
+        "Skill_2": 97
+      },
+      "523|Alpha|Unknown|Arms": {
+        "Set_Skill_1": 209,
+        "Skill_1": 66
+      },
+      "524|Alpha|Regular|Arms": {
+        "Set_Skill_1": 177,
+        "Skill_1": 73,
+        "Skill_2": 29
+      },
+      "526|Alpha|Regular|Arms": {
+        "Set_Skill_1": 174,
+        "Skill_1": 52,
+        "Skill_2": 50
+      },
+      "528|Alpha|Regular|Arms": {
+        "Set_Skill_1": 220,
+        "Skill_1": 48,
+        "Skill_2": 57
+      },
+      "529|Beta_or_Gamma|Regular|Arms": {
+        "Set_Skill_1": 220,
+        "Skill_1": 48
+      },
+      "532|Alpha|Regular|Arms": {
+        "Set_Skill_1": 182,
+        "Skill_1": 52,
+        "Skill_2": 76
+      },
+      "534|Beta_or_Gamma|Unknown|Arms": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 19
+      },
+      "535|Beta_or_Gamma|Unknown|Arms": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 78
+      },
+      "1|Low_Rank|Regular|Waist": {
+        "Skill_1": 117
+      },
+      "5|Low_Rank|Regular|Waist": {
+        "Skill_1": 68
+      },
+      "6|Low_Rank|Regular|Waist": {
+        "Skill_1": 1
+      },
+      "9|Low_Rank|Regular|Waist": {
+        "Skill_1": 2
+      },
+      "4|Low_Rank|Regular|Waist": {
+        "Skill_1": 65
+      },
+      "10|Low_Rank|Regular|Waist": {
+        "Skill_1": 83
+      },
+      "11|Low_Rank|Regular|Waist": {
+        "Skill_1": 35
+      },
+      "13|Low_Rank|Regular|Waist": {
+        "Skill_1": 5
+      },
+      "12|Low_Rank|Regular|Waist": {
+        "Skill_1": 26
+      },
+      "14|Low_Rank|Regular|Waist": {
+        "Skill_1": 33
+      },
+      "25|Low_Rank|Regular|Waist": {
+        "Skill_1": 69
+      },
+      "18|Low_Rank|Regular|Waist": {
+        "Skill_1": 96
+      },
+      "3|Low_Rank|Regular|Waist": {
+        "Set_Skill_1": 125,
+        "Skill_1": 24
+      },
+      "21|Low_Rank|Regular|Waist": {
+        "Skill_1": 1
+      },
+      "23|Low_Rank|Regular|Waist": {
+        "Skill_1": 82
+      },
+      "24|Low_Rank|Regular|Waist": {
+        "Skill_1": 97
+      },
+      "22|Low_Rank|Regular|Waist": {
+        "Skill_1": 16
+      },
+      "28|Low_Rank|Regular|Waist": {
+        "Skill_1": 80
+      },
+      "20|Low_Rank|Regular|Waist": {
+        "Skill_1": 95
+      },
+      "159|Low_Rank|Regular|Waist": {
+        "Skill_1": 95
+      },
+      "31|Low_Rank|Regular|Waist": {
+        "Skill_1": 12
+      },
+      "27|Low_Rank|Regular|Waist": {
+        "Set_Skill_1": 151,
+        "Skill_1": 32
+      },
+      "29|Low_Rank|Regular|Waist": {
+        "Set_Skill_1": 153,
+        "Skill_1": 48
+      },
+      "33|Low_Rank|Regular|Waist": {
+        "Set_Skill_1": 128,
+        "Skill_1": 30
+      },
+      "34|Low_Rank|Regular|Waist": {
+        "Set_Skill_1": 129,
+        "Skill_1": 73
+      },
+      "35|Low_Rank|Regular|Waist": {
+        "Set_Skill_1": 130,
+        "Skill_1": 33
+      },
+      "26|Low_Rank|Regular|Waist": {
+        "Skill_1": 34
+      },
+      "36|Low_Rank|Regular|Waist": {
+        "Skill_1": 100
+      },
+      "39|Alpha|Regular|Waist": {
+        "Skill_1": 76
+      },
+      "147|Alpha|Regular|Waist": {
+        "Skill_1": 81
+      },
+      "41|Alpha|Regular|Waist": {
+        "Skill_1": 94,
+        "Skill_2": 103
+      },
+      "42|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 94
+      },
+      "43|Alpha|Regular|Waist": {
+        "Skill_1": 68,
+        "Skill_2": 91
+      },
+      "44|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 68
+      },
+      "45|Alpha|Regular|Waist": {
+        "Skill_1": 1,
+        "Skill_2": 25
+      },
+      "46|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 1
+      },
+      "51|Alpha|Regular|Waist": {
+        "Skill_1": 2
+      },
+      "52|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 2
+      },
+      "57|Alpha|Regular|Waist": {
+        "Skill_1": 96,
+        "Skill_2": 77
+      },
+      "58|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 96
+      },
+      "61|Alpha|Regular|Waist": {
+        "Skill_1": 65,
+        "Skill_2": 85
+      },
+      "62|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 65
+      },
+      "63|Alpha|Regular|Waist": {
+        "Skill_1": 83
+      },
+      "64|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 83
+      },
+      "65|Alpha|Regular|Waist": {
+        "Skill_1": 35
+      },
+      "66|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 35
+      },
+      "69|Alpha|Regular|Waist": {
+        "Skill_1": 5,
+        "Skill_2": 80
+      },
+      "70|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 5
+      },
+      "67|Alpha|Regular|Waist": {
+        "Skill_1": 26
+      },
+      "68|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 26
+      },
+      "71|Alpha|Regular|Waist": {
+        "Skill_1": 33,
+        "Skill_2": 27
+      },
+      "72|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 33
+      },
+      "93|Alpha|Regular|Waist": {
+        "Set_Skill_1": 132,
+        "Skill_1": 24,
+        "Skill_2": 71
+      },
+      "94|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 132,
+        "Skill_1": 24
+      },
+      "73|Alpha|Regular|Waist": {
+        "Skill_1": 1,
+        "Skill_2": 21
+      },
+      "74|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 1,
+        "Skill_2": 21
+      },
+      "77|Alpha|Regular|Waist": {
+        "Skill_1": 82,
+        "Skill_2": 31
+      },
+      "78|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 82
+      },
+      "79|Alpha|Regular|Waist": {
+        "Skill_1": 97
+      },
+      "80|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 97
+      },
+      "75|Alpha|Regular|Waist": {
+        "Skill_1": 16,
+        "Skill_2": 36
+      },
+      "76|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 16
+      },
+      "97|Alpha|Regular|Waist": {
+        "Skill_1": 80
+      },
+      "98|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 80
+      },
+      "89|Alpha|Regular|Waist": {
+        "Skill_1": 69,
+        "Skill_2": 20
+      },
+      "90|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 69
+      },
+      "91|Alpha|Regular|Waist": {
+        "Skill_1": 12
+      },
+      "92|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 12
+      },
+      "87|Alpha|Regular|Waist": {
+        "Set_Skill_1": 131,
+        "Skill_1": 54,
+        "Skill_2": 1
+      },
+      "88|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 131,
+        "Skill_1": 54
+      },
+      "95|Alpha|Regular|Waist": {
+        "Set_Skill_1": 152,
+        "Skill_1": 32,
+        "Skill_2": 12
+      },
+      "96|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 152,
+        "Skill_1": 32
+      },
+      "81|Alpha|Regular|Waist": {
+        "Set_Skill_1": 154,
+        "Skill_1": 48,
+        "Skill_2": 86
+      },
+      "82|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 154,
+        "Skill_1": 48
+      },
+      "101|Alpha|Regular|Waist": {
+        "Set_Skill_1": 135,
+        "Skill_1": 30,
+        "Skill_2": 52
+      },
+      "102|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 135,
+        "Skill_1": 30
+      },
+      "111|Alpha|Regular|Waist": {
+        "Set_Skill_1": 135,
+        "Skill_1": 12,
+        "Skill_2": 40
+      },
+      "112|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 135,
+        "Skill_1": 12
+      },
+      "103|Alpha|Regular|Waist": {
+        "Set_Skill_1": 136,
+        "Skill_1": 73,
+        "Skill_2": 55
+      },
+      "104|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 136,
+        "Skill_1": 73
+      },
+      "113|Alpha|Regular|Waist": {
+        "Set_Skill_1": 136,
+        "Skill_1": 66,
+        "Skill_2": 56
+      },
+      "114|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 136,
+        "Skill_1": 66
+      },
+      "83|Alpha|Regular|Waist": {
+        "Skill_1": 71,
+        "Skill_2": 6
+      },
+      "84|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 71
+      },
+      "85|Alpha|Regular|Waist": {
+        "Skill_1": 81,
+        "Skill_2": 22
+      },
+      "86|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 81
+      },
+      "109|Alpha|Regular|Waist": {
+        "Set_Skill_1": 138,
+        "Skill_1": 56,
+        "Skill_2": 27
+      },
+      "110|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 138,
+        "Skill_1": 56
+      },
+      "107|Alpha|Regular|Waist": {
+        "Set_Skill_1": 126,
+        "Skill_1": 19,
+        "Skill_2": 76
+      },
+      "108|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 126,
+        "Skill_1": 19
+      },
+      "117|Alpha|Regular|Waist": {
+        "Skill_1": 95,
+        "Skill_2": 81
+      },
+      "118|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 95
+      },
+      "160|Alpha|Regular|Waist": {
+        "Skill_1": 95,
+        "Skill_2": 81
+      },
+      "161|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 95
+      },
+      "119|Alpha|Regular|Waist": {
+        "Skill_1": 100,
+        "Skill_2": 23
+      },
+      "120|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 100
+      },
+      "121|Alpha|Regular|Waist": {
+        "Skill_1": 52,
+        "Skill_2": 8
+      },
+      "122|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 52
+      },
+      "123|Alpha|Regular|Waist": {
+        "Skill_1": 28,
+        "Skill_2": 19
+      },
+      "124|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 28
+      },
+      "129|Alpha|Regular|Waist": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32,
+        "Skill_2": 79
+      },
+      "130|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32
+      },
+      "127|Alpha|Regular|Waist": {
+        "Set_Skill_1": 143,
+        "Skill_1": 38,
+        "Skill_2": 50
+      },
+      "128|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 143,
+        "Skill_1": 38
+      },
+      "105|Alpha|Regular|Waist": {
+        "Set_Skill_1": 137,
+        "Skill_1": 29,
+        "Skill_2": 47
+      },
+      "106|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 137,
+        "Skill_1": 29
+      },
+      "99|Alpha|Regular|Waist": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63,
+        "Skill_2": 116
+      },
+      "100|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63
+      },
+      "115|Alpha|Regular|Waist": {
+        "Set_Skill_1": 142,
+        "Skill_1": 11,
+        "Skill_2": 107
+      },
+      "116|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 142,
+        "Skill_1": 11
+      },
+      "131|Alpha|Regular|Waist": {
+        "Skill_1": 34,
+        "Skill_2": 52
+      },
+      "132|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 34
+      },
+      "133|Alpha|Regular|Waist": {
+        "Set_Skill_1": 149,
+        "Skill_1": 65,
+        "Skill_2": 28
+      },
+      "134|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 149,
+        "Skill_1": 65
+      },
+      "125|Alpha|Regular|Waist": {
+        "Set_Skill_1": 145,
+        "Skill_1": 29,
+        "Skill_2": 70
+      },
+      "126|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 145,
+        "Skill_1": 29
+      },
+      "137|Alpha|Regular|Waist": {
+        "Set_Skill_1": 147,
+        "Skill_1": 65,
+        "Skill_2": 13
+      },
+      "138|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 147,
+        "Skill_1": 65
+      },
+      "149|Alpha|Regular|Waist": {
+        "Set_Skill_1": 150,
+        "Skill_1": 90,
+        "Skill_2": 93
+      },
+      "150|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 150,
+        "Skill_1": 90
+      },
+      "191|Alpha|Regular|Waist": {
+        "Skill_1": 47,
+        "Skill_2": 54
+      },
+      "192|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 47,
+        "Skill_2": 54
+      },
+      "193|Low_Rank|Regular|Waist": {
+        "Skill_1": 105
+      },
+      "194|Low_Rank|Regular|Waist": {
+        "Skill_1": 109
+      },
+      "195|Low_Rank|Regular|Waist": {
+        "Skill_1": 74
+      },
+      "196|Low_Rank|Regular|Waist": {
+        "Skill_1": 21
+      },
+      "197|Low_Rank|Regular|Waist": {
+        "Set_Skill_1": 168,
+        "Skill_1": 102
+      },
+      "201|Alpha|Regular|Waist": {
+        "Skill_1": 61,
+        "Skill_2": 54
+      },
+      "202|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 61
+      },
+      "206|Alpha|Regular|Waist": {
+        "Set_Skill_1": 164,
+        "Skill_1": 48,
+        "Skill_2": 53
+      },
+      "207|Alpha|Regular|Waist": {
+        "Skill_1": 105
+      },
+      "208|Alpha|Regular|Waist": {
+        "Skill_1": 109
+      },
+      "209|Alpha|Regular|Waist": {
+        "Skill_1": 74
+      },
+      "210|Alpha|Regular|Waist": {
+        "Skill_1": 21
+      },
+      "211|Alpha|Regular|Waist": {
+        "Set_Skill_1": 168,
+        "Skill_1": 102
+      },
+      "212|Low_Rank|Regular|Waist": {
+        "Skill_1": 20
+      },
+      "213|Alpha|Regular|Waist": {
+        "Skill_1": 20,
+        "Skill_2": 73
+      },
+      "214|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 20
+      },
+      "215|Low_Rank|Regular|Waist": {
+        "Skill_1": 20
+      },
+      "216|Alpha|Regular|Waist": {
+        "Skill_1": 20,
+        "Skill_2": 73
+      },
+      "217|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 20
+      },
+      "218|Alpha|Regular|Waist": {
+        "Set_Skill_1": 127,
+        "Skill_1": 23,
+        "Skill_2": 34
+      },
+      "219|Alpha|Regular|Waist": {
+        "Set_Skill_1": 137,
+        "Skill_1": 73
+      },
+      "220|Alpha|Regular|Waist": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61
+      },
+      "222|Alpha|Regular|Waist": {
+        "Set_Skill_1": 144,
+        "Skill_1": 54
+      },
+      "223|Alpha|Regular|Waist": {
+        "Set_Skill_1": 126,
+        "Skill_1": 101,
+        "Skill_2": 62
+      },
+      "224|Alpha|Regular|Waist": {
+        "Set_Skill_1": 147,
+        "Skill_1": 88,
+        "Skill_2": 48
+      },
+      "226|Alpha|Regular|Waist": {
+        "Set_Skill_1": 145,
+        "Skill_1": 49
+      },
+      "227|Alpha|Unknown|Waist": {
+        "Set_Skill_1": 132,
+        "Skill_1": 103
+      },
+      "228|Low_Rank|Unknown|Waist": {
+        "Skill_1": 61
+      },
+      "229|Alpha|Unknown|Waist": {
+        "Set_Skill_1": 135,
+        "Skill_1": 62
+      },
+      "230|Alpha|Unknown|Waist": {
+        "Set_Skill_1": 131,
+        "Skill_1": 61
+      },
+      "231|Alpha|Regular|Waist": {
+        "Set_Skill_1": 135,
+        "Skill_1": 54
+      },
+      "232|Alpha|Regular|Waist": {
+        "Skill_1": 78,
+        "Skill_2": 61
+      },
+      "233|Alpha|Regular|Waist": {
+        "Set_Skill_1": 163,
+        "Skill_1": 120,
+        "Skill_2": 38
+      },
+      "234|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 163,
+        "Skill_1": 120
+      },
+      "298|Alpha|Unknown|Waist": {
+        "Set_Skill_1": 132,
+        "Skill_1": 103,
+        "Skill_2": 50
+      },
+      "244|Alpha|Regular|Waist": {
+        "Set_Skill_1": 163,
+        "Skill_1": 78,
+        "Skill_2": 21
+      },
+      "293|Low_Rank|Unknown|Waist": {
+        "Set_Skill_1": 167,
+        "Skill_1": 88,
+        "Skill_2": 50
+      },
+      "294|Low_Rank|Unknown|Waist": {
+        "Skill_1": 47,
+        "Skill_2": 79
+      },
+      "249|Alpha|Regular|Waist": {
+        "Skill_1": 49,
+        "Skill_2": 50
+      },
+      "250|Alpha|Regular|Waist": {
+        "Skill_1": 21,
+        "Skill_2": 97
+      },
+      "302|Alpha|Regular|Waist": {
+        "Skill_1": 68,
+        "Skill_2": 56
+      },
+      "303|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 68
+      },
+      "304|Alpha|Regular|Waist": {
+        "Skill_1": 1,
+        "Skill_2": 12
+      },
+      "305|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 1,
+        "Skill_2": 12
+      },
+      "306|Alpha|Regular|Waist": {
+        "Skill_1": 2,
+        "Skill_2": 81
+      },
+      "307|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 2
+      },
+      "308|Alpha|Regular|Waist": {
+        "Skill_1": 50,
+        "Skill_2": 77
+      },
+      "309|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 50
+      },
+      "324|Alpha|Regular|Waist": {
+        "Skill_1": 22,
+        "Skill_2": 85
+      },
+      "325|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 22
+      },
+      "326|Alpha|Regular|Waist": {
+        "Skill_1": 82,
+        "Skill_2": 31
+      },
+      "327|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 82
+      },
+      "328|Alpha|Regular|Waist": {
+        "Skill_1": 16,
+        "Skill_2": 36
+      },
+      "329|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 16
+      },
+      "330|Alpha|Regular|Waist": {
+        "Skill_1": 71,
+        "Skill_2": 6
+      },
+      "331|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 71
+      },
+      "332|Alpha|Regular|Waist": {
+        "Skill_1": 83,
+        "Skill_2": 48
+      },
+      "333|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 83
+      },
+      "334|Alpha|Regular|Waist": {
+        "Skill_1": 35,
+        "Skill_2": 83
+      },
+      "335|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 35,
+        "Skill_2": 83
+      },
+      "336|Alpha|Regular|Waist": {
+        "Skill_1": 62,
+        "Skill_2": 80
+      },
+      "337|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 62
+      },
+      "338|Alpha|Regular|Waist": {
+        "Skill_1": 26,
+        "Skill_2": 61
+      },
+      "339|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 26
+      },
+      "340|Alpha|Regular|Waist": {
+        "Skill_1": 21,
+        "Skill_2": 11
+      },
+      "341|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 21,
+        "Skill_2": 11
+      },
+      "342|Alpha|Regular|Waist": {
+        "Skill_1": 33,
+        "Skill_2": 27
+      },
+      "343|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 33
+      },
+      "344|Alpha|Regular|Waist": {
+        "Skill_1": 69,
+        "Skill_2": 20
+      },
+      "345|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 69,
+        "Skill_2": 20
+      },
+      "346|Alpha|Regular|Waist": {
+        "Skill_1": 90,
+        "Skill_2": 185
+      },
+      "347|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 90
+      },
+      "348|Alpha|Regular|Waist": {
+        "Set_Skill_1": 182,
+        "Skill_1": 24,
+        "Skill_2": 71
+      },
+      "349|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 182,
+        "Skill_1": 24
+      },
+      "350|Alpha|Regular|Waist": {
+        "Set_Skill_1": 183,
+        "Skill_1": 1,
+        "Skill_2": 21
+      },
+      "351|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 183,
+        "Skill_1": 1,
+        "Skill_2": 21
+      },
+      "352|Alpha|Regular|Waist": {
+        "Set_Skill_1": 183,
+        "Skill_1": 54,
+        "Skill_2": 1
+      },
+      "353|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 183,
+        "Skill_1": 54,
+        "Skill_2": 1
+      },
+      "354|Alpha|Regular|Waist": {
+        "Skill_1": 97,
+        "Skill_2": 12
+      },
+      "355|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 97,
+        "Skill_2": 12
+      },
+      "356|Alpha|Regular|Waist": {
+        "Skill_1": 37,
+        "Skill_2": 82
+      },
+      "357|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 37
+      },
+      "358|Alpha|Regular|Waist": {
+        "Skill_1": 31,
+        "Skill_2": 56
+      },
+      "359|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 31,
+        "Skill_2": 56
+      },
+      "360|Alpha|Regular|Waist": {
+        "Skill_1": 74,
+        "Skill_2": 81
+      },
+      "361|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 74
+      },
+      "362|Alpha|Regular|Waist": {
+        "Skill_1": 80,
+        "Skill_2": 3
+      },
+      "363|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 80
+      },
+      "378|Alpha|Regular|Waist": {
+        "Skill_1": 12,
+        "Skill_2": 47
+      },
+      "379|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 12,
+        "Skill_2": 47
+      },
+      "380|Alpha|Regular|Waist": {
+        "Set_Skill_1": 188,
+        "Skill_1": 81,
+        "Skill_2": 22
+      },
+      "381|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 188,
+        "Skill_1": 81
+      },
+      "382|Alpha|Regular|Waist": {
+        "Set_Skill_1": 189,
+        "Skill_1": 30,
+        "Skill_2": 52
+      },
+      "383|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 189,
+        "Skill_1": 30
+      },
+      "384|Alpha|Regular|Waist": {
+        "Set_Skill_1": 190,
+        "Skill_1": 73,
+        "Skill_2": 55
+      },
+      "385|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 190,
+        "Skill_1": 73
+      },
+      "386|Alpha|Regular|Waist": {
+        "Set_Skill_1": 191,
+        "Skill_1": 32,
+        "Skill_2": 12
+      },
+      "387|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 191,
+        "Skill_1": 32,
+        "Skill_2": 12
+      },
+      "388|Alpha|Regular|Waist": {
+        "Set_Skill_1": 192,
+        "Skill_1": 48,
+        "Skill_2": 86
+      },
+      "389|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 192,
+        "Skill_1": 48
+      },
+      "390|Alpha|Regular|Waist": {
+        "Skill_1": 81,
+        "Skill_2": 22
+      },
+      "391|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 81,
+        "Skill_2": 22
+      },
+      "392|Alpha|Regular|Waist": {
+        "Set_Skill_1": 193,
+        "Skill_1": 56,
+        "Skill_2": 80
+      },
+      "393|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 193,
+        "Skill_1": 56
+      },
+      "394|Alpha|Regular|Waist": {
+        "Set_Skill_1": 171,
+        "Skill_1": 78,
+        "Skill_2": 76
+      },
+      "395|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 171,
+        "Skill_1": 78,
+        "Skill_2": 76
+      },
+      "396|Alpha|Regular|Waist": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101,
+        "Skill_2": 39
+      },
+      "397|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101
+      },
+      "398|Alpha|Regular|Waist": {
+        "Set_Skill_1": 172,
+        "Skill_1": 38,
+        "Skill_2": 58
+      },
+      "399|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 172,
+        "Skill_1": 38
+      },
+      "400|Alpha|Regular|Waist": {
+        "Set_Skill_1": 170,
+        "Skill_1": 11,
+        "Skill_2": 84
+      },
+      "401|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 170,
+        "Skill_1": 11
+      },
+      "402|Alpha|Regular|Waist": {
+        "Set_Skill_1": 182,
+        "Skill_1": 50,
+        "Skill_2": 83
+      },
+      "403|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 182,
+        "Skill_1": 50,
+        "Skill_2": 83
+      },
+      "406|Alpha|Regular|Waist": {
+        "Set_Skill_1": 181,
+        "Skill_1": 22,
+        "Skill_2": 73
+      },
+      "407|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 181,
+        "Skill_1": 22
+      },
+      "413|Alpha|Regular|Waist": {
+        "Set_Skill_1": 191,
+        "Skill_1": 79,
+        "Skill_2": 52
+      },
+      "414|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 191,
+        "Skill_1": 79
+      },
+      "415|Alpha|Regular|Waist": {
+        "Set_Skill_1": 189,
+        "Skill_1": 12,
+        "Skill_2": 40
+      },
+      "416|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 189,
+        "Skill_1": 12
+      },
+      "417|Alpha|Regular|Waist": {
+        "Set_Skill_1": 190,
+        "Skill_1": 57,
+        "Skill_2": 56
+      },
+      "418|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 190,
+        "Skill_1": 57
+      },
+      "419|Alpha|Regular|Waist": {
+        "Set_Skill_1": 192,
+        "Skill_1": 34,
+        "Skill_2": 61
+      },
+      "420|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 192,
+        "Skill_1": 34
+      },
+      "421|Alpha|Regular|Waist": {
+        "Set_Skill_1": 173,
+        "Skill_1": 54,
+        "Skill_2": 8
+      },
+      "422|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 173,
+        "Skill_1": 54
+      },
+      "423|Alpha|Regular|Waist": {
+        "Set_Skill_1": 179,
+        "Skill_1": 120,
+        "Skill_2": 48
+      },
+      "424|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 179,
+        "Skill_1": 120,
+        "Skill_2": 48
+      },
+      "428|Alpha|Regular|Waist": {
+        "Skill_1": 19,
+        "Skill_2": 4
+      },
+      "429|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 19,
+        "Skill_2": 4
+      },
+      "430|Alpha|Regular|Waist": {
+        "Skill_1": 52,
+        "Skill_2": 80
+      },
+      "431|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 52
+      },
+      "432|Alpha|Regular|Waist": {
+        "Set_Skill_1": 178,
+        "Skill_1": 104,
+        "Skill_2": 186
+      },
+      "433|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 178,
+        "Skill_1": 104
+      },
+      "434|Alpha|Regular|Waist": {
+        "Set_Skill_1": 194,
+        "Skill_1": 88,
+        "Skill_2": 55
+      },
+      "435|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 194,
+        "Skill_1": 88
+      },
+      "436|Alpha|Regular|Waist": {
+        "Set_Skill_1": 196,
+        "Skill_1": 85,
+        "Skill_2": 63
+      },
+      "437|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 196,
+        "Skill_1": 85
+      },
+      "438|Alpha|Regular|Waist": {
+        "Set_Skill_1": 143,
+        "Skill_1": 38,
+        "Skill_2": 50
+      },
+      "439|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 143,
+        "Skill_1": 38
+      },
+      "440|Alpha|Regular|Waist": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32,
+        "Skill_2": 79
+      },
+      "441|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 144,
+        "Skill_1": 32
+      },
+      "442|Alpha|Regular|Waist": {
+        "Set_Skill_1": 199,
+        "Skill_1": 29,
+        "Skill_2": 47
+      },
+      "443|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 199,
+        "Skill_1": 29
+      },
+      "444|Alpha|Regular|Waist": {
+        "Set_Skill_1": 177,
+        "Skill_1": 74,
+        "Skill_2": 76
+      },
+      "445|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 177,
+        "Skill_1": 74,
+        "Skill_2": 76
+      },
+      "448|Alpha|Regular|Waist": {
+        "Set_Skill_1": 200,
+        "Skill_1": 62,
+        "Skill_2": 67
+      },
+      "449|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 200,
+        "Skill_1": 62,
+        "Skill_2": 67
+      },
+      "450|Alpha|Regular|Waist": {
+        "Set_Skill_1": 180,
+        "Skill_1": 56,
+        "Skill_2": 44
+      },
+      "451|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 180,
+        "Skill_1": 56
+      },
+      "453|Alpha|Regular|Waist": {
+        "Set_Skill_1": 203,
+        "Skill_1": 19,
+        "Skill_2": 11
+      },
+      "454|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 203,
+        "Skill_1": 19,
+        "Skill_2": 11
+      },
+      "455|Alpha|Regular|Waist": {
+        "Set_Skill_1": 176,
+        "Skill_1": 21,
+        "Skill_2": 22
+      },
+      "456|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 176,
+        "Skill_1": 21
+      },
+      "457|Alpha|Regular|Waist": {
+        "Set_Skill_1": 195,
+        "Skill_1": 58,
+        "Skill_2": 54
+      },
+      "458|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 195,
+        "Skill_1": 58
+      },
+      "461|Alpha|Regular|Waist": {
+        "Set_Skill_1": 200,
+        "Skill_1": 118,
+        "Skill_2": 119
+      },
+      "462|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 200,
+        "Skill_1": 118
+      },
+      "464|Alpha|Regular|Waist": {
+        "Set_Skill_1": 175,
+        "Skill_1": 97,
+        "Skill_2": 21
+      },
+      "465|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 175,
+        "Skill_1": 97
+      },
+      "466|Alpha|Regular|Waist": {
+        "Set_Skill_1": 174,
+        "Skill_1": 12,
+        "Skill_2": 49
+      },
+      "467|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 174,
+        "Skill_1": 12,
+        "Skill_2": 49
+      },
+      "470|Alpha|Regular|Waist": {
+        "Set_Skill_1": 169,
+        "Skill_1": 53,
+        "Skill_2": 33
+      },
+      "471|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 169,
+        "Skill_1": 53
+      },
+      "472|Alpha|Regular|Waist": {
+        "Set_Skill_1": 169,
+        "Skill_1": 61,
+        "Skill_2": 11
+      },
+      "473|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 169,
+        "Skill_1": 61,
+        "Skill_2": 11
+      },
+      "474|Alpha|Regular|Waist": {
+        "Skill_1": 66,
+        "Skill_2": 35
+      },
+      "475|Beta_or_Gamma|Regular|Waist": {
+        "Skill_1": 66
+      },
+      "476|Alpha|Regular|Waist": {
+        "Set_Skill_1": 201,
+        "Skill_1": 13,
+        "Skill_2": 71
+      },
+      "477|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 201,
+        "Skill_1": 13
+      },
+      "478|Alpha|Regular|Waist": {
+        "Set_Skill_1": 208,
+        "Skill_1": 50,
+        "Skill_2": 54
+      },
+      "479|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 208,
+        "Skill_1": 50
+      },
+      "480|Alpha|Regular|Waist": {
+        "Set_Skill_1": 217,
+        "Skill_1": 101,
+        "Skill_2": 64
+      },
+      "481|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 217,
+        "Skill_1": 101
+      },
+      "482|Alpha|Regular|Waist": {
+        "Set_Skill_1": 218,
+        "Skill_1": 62,
+        "Skill_2": 71
+      },
+      "483|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 218,
+        "Skill_1": 62
+      },
+      "484|Alpha|Regular|Waist": {
+        "Set_Skill_1": 211,
+        "Skill_1": 78,
+        "Skill_2": 101
+      },
+      "485|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 211,
+        "Skill_1": 78
+      },
+      "486|Alpha|Regular|Waist": {
+        "Set_Skill_1": 221,
+        "Skill_1": 19,
+        "Skill_2": 28
+      },
+      "487|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 221,
+        "Skill_1": 19,
+        "Skill_2": 28
+      },
+      "492|Alpha|Regular|Waist": {
+        "Set_Skill_1": 202,
+        "Skill_1": 21,
+        "Skill_2": 38
+      },
+      "493|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 202,
+        "Skill_1": 21
+      },
+      "494|Alpha|Regular|Waist": {
+        "Set_Skill_1": 219,
+        "Skill_1": 63,
+        "Skill_2": 84
+      },
+      "495|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 219,
+        "Skill_1": 63
+      },
+      "496|Alpha|Regular|Waist": {
+        "Set_Skill_1": 214,
+        "Skill_1": 66
+      },
+      "498|Alpha|Regular|Waist": {
+        "Set_Skill_1": 215,
+        "Skill_1": 99
+      },
+      "502|Alpha|Regular|Waist": {
+        "Set_Skill_1": 212,
+        "Skill_1": 74
+      },
+      "504|Alpha|Regular|Waist": {
+        "Set_Skill_1": 213,
+        "Skill_1": 104
+      },
+      "517|Alpha|Regular|Waist": {
+        "Skill_1": 62,
+        "Skill_2": 64
+      },
+      "518|Alpha|Regular|Waist": {
+        "Set_Skill_1": 170,
+        "Skill_1": 22,
+        "Skill_2": 50
+      },
+      "519|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 170,
+        "Skill_1": 22,
+        "Skill_2": 50
+      },
+      "520|Alpha|Regular|Waist": {
+        "Skill_1": 21,
+        "Skill_2": 97
+      },
+      "523|Alpha|Unknown|Waist": {
+        "Set_Skill_1": 209,
+        "Skill_1": 66
+      },
+      "524|Alpha|Regular|Waist": {
+        "Set_Skill_1": 177,
+        "Skill_1": 79,
+        "Skill_2": 23
+      },
+      "526|Alpha|Regular|Waist": {
+        "Set_Skill_1": 174,
+        "Skill_1": 102,
+        "Skill_2": 31
+      },
+      "528|Alpha|Regular|Waist": {
+        "Set_Skill_1": 220,
+        "Skill_1": 81,
+        "Skill_2": 55
+      },
+      "529|Beta_or_Gamma|Regular|Waist": {
+        "Set_Skill_1": 220,
+        "Skill_1": 81
+      },
+      "532|Alpha|Regular|Waist": {
+        "Set_Skill_1": 182,
+        "Skill_1": 73,
+        "Skill_2": 109
+      },
+      "534|Alpha|Unknown|Waist": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 19
+      },
+      "535|Beta_or_Gamma|Unknown|Waist": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 76
+      },
+      "1|Low_Rank|Regular|Legs": {
+        "Skill_1": 92
+      },
+      "5|Low_Rank|Regular|Legs": {
+        "Skill_1": 115
+      },
+      "6|Low_Rank|Regular|Legs": {
+        "Skill_1": 86
+      },
+      "9|Low_Rank|Regular|Legs": {
+        "Skill_1": 95
+      },
+      "8|Low_Rank|Regular|Legs": {
+        "Skill_1": 109
+      },
+      "4|Low_Rank|Regular|Legs": {
+        "Skill_1": 106
+      },
+      "10|Low_Rank|Regular|Legs": {
+        "Skill_1": 48
+      },
+      "11|Low_Rank|Regular|Legs": {
+        "Skill_1": 99
+      },
+      "13|Low_Rank|Regular|Legs": {
+        "Skill_1": 4
+      },
+      "12|Low_Rank|Regular|Legs": {
+        "Skill_1": 52
+      },
+      "14|Low_Rank|Regular|Legs": {
+        "Skill_1": 27
+      },
+      "25|Low_Rank|Regular|Legs": {
+        "Skill_1": 72
+      },
+      "18|Low_Rank|Regular|Legs": {
+        "Skill_1": 54
+      },
+      "3|Low_Rank|Regular|Legs": {
+        "Set_Skill_1": 125,
+        "Skill_1": 71
+      },
+      "21|Low_Rank|Regular|Legs": {
+        "Skill_1": 22
+      },
+      "23|Low_Rank|Regular|Legs": {
+        "Skill_1": 3
+      },
+      "24|Low_Rank|Regular|Legs": {
+        "Skill_1": 12
+      },
+      "22|Low_Rank|Regular|Legs": {
+        "Skill_1": 36
+      },
+      "28|Low_Rank|Regular|Legs": {
+        "Skill_1": 7
+      },
+      "20|Low_Rank|Regular|Legs": {
+        "Skill_1": 118
+      },
+      "159|Low_Rank|Regular|Legs": {
+        "Skill_1": 118
+      },
+      "31|Low_Rank|Regular|Legs": {
+        "Skill_1": 20
+      },
+      "27|Low_Rank|Regular|Legs": {
+        "Set_Skill_1": 151,
+        "Skill_1": 26
+      },
+      "29|Low_Rank|Regular|Legs": {
+        "Set_Skill_1": 153,
+        "Skill_1": 81
+      },
+      "33|Low_Rank|Regular|Legs": {
+        "Set_Skill_1": 128,
+        "Skill_1": 107
+      },
+      "34|Low_Rank|Regular|Legs": {
+        "Set_Skill_1": 129,
+        "Skill_1": 13
+      },
+      "35|Low_Rank|Regular|Legs": {
+        "Set_Skill_1": 130,
+        "Skill_1": 27
+      },
+      "26|Low_Rank|Regular|Legs": {
+        "Skill_1": 54
+      },
+      "36|Low_Rank|Regular|Legs": {
+        "Skill_1": 114
+      },
+      "39|Alpha|Regular|Legs": {
+        "Skill_1": 111
+      },
+      "147|Alpha|Regular|Legs": {
+        "Skill_1": 22
+      },
+      "41|Alpha|Regular|Legs": {
+        "Skill_1": 117,
+        "Skill_2": 102
+      },
+      "42|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 117
+      },
+      "43|Alpha|Regular|Legs": {
+        "Skill_1": 115
+      },
+      "44|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 115
+      },
+      "45|Alpha|Regular|Legs": {
+        "Skill_1": 86
+      },
+      "46|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 86
+      },
+      "51|Alpha|Regular|Legs": {
+        "Skill_1": 95,
+        "Skill_2": 2
+      },
+      "52|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 95
+      },
+      "57|Alpha|Regular|Legs": {
+        "Skill_1": 54,
+        "Skill_2": 34
+      },
+      "58|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 54
+      },
+      "49|Alpha|Regular|Legs": {
+        "Skill_1": 109,
+        "Skill_2": 31
+      },
+      "50|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 109,
+        "Skill_2": 31
+      },
+      "61|Alpha|Regular|Legs": {
+        "Skill_1": 106,
+        "Skill_2": 84
+      },
+      "62|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 106
+      },
+      "63|Alpha|Regular|Legs": {
+        "Skill_1": 48,
+        "Skill_2": 83
+      },
+      "64|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 48
+      },
+      "65|Alpha|Regular|Legs": {
+        "Skill_1": 99,
+        "Skill_2": 108
+      },
+      "66|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 99
+      },
+      "69|Alpha|Regular|Legs": {
+        "Skill_1": 4,
+        "Skill_2": 73
+      },
+      "70|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 4
+      },
+      "67|Alpha|Regular|Legs": {
+        "Skill_1": 52
+      },
+      "68|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 52
+      },
+      "71|Alpha|Regular|Legs": {
+        "Skill_1": 27,
+        "Skill_2": 74
+      },
+      "72|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 27
+      },
+      "93|Alpha|Regular|Legs": {
+        "Set_Skill_1": 132,
+        "Skill_1": 71
+      },
+      "94|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 132,
+        "Skill_1": 71
+      },
+      "73|Alpha|Regular|Legs": {
+        "Skill_1": 22
+      },
+      "74|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 22
+      },
+      "77|Alpha|Regular|Legs": {
+        "Skill_1": 3
+      },
+      "78|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 3
+      },
+      "79|Alpha|Regular|Legs": {
+        "Skill_1": 12,
+        "Skill_2": 76
+      },
+      "80|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 12
+      },
+      "75|Alpha|Regular|Legs": {
+        "Skill_1": 36
+      },
+      "76|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 36
+      },
+      "97|Alpha|Regular|Legs": {
+        "Skill_1": 7
+      },
+      "98|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 7
+      },
+      "89|Alpha|Regular|Legs": {
+        "Skill_1": 72,
+        "Skill_2": 26
+      },
+      "90|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 72
+      },
+      "91|Alpha|Regular|Legs": {
+        "Skill_1": 20,
+        "Skill_2": 12
+      },
+      "92|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 20
+      },
+      "87|Alpha|Regular|Legs": {
+        "Set_Skill_1": 131,
+        "Skill_1": 120,
+        "Skill_2": 12
+      },
+      "88|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 131,
+        "Skill_1": 120
+      },
+      "95|Alpha|Regular|Legs": {
+        "Set_Skill_1": 152,
+        "Skill_1": 26,
+        "Skill_2": 55
+      },
+      "96|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 152,
+        "Skill_1": 26
+      },
+      "81|Alpha|Regular|Legs": {
+        "Set_Skill_1": 154,
+        "Skill_1": 81,
+        "Skill_2": 48
+      },
+      "82|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 154,
+        "Skill_1": 81
+      },
+      "101|Alpha|Regular|Legs": {
+        "Set_Skill_1": 135,
+        "Skill_1": 107,
+        "Skill_2": 50
+      },
+      "102|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 135,
+        "Skill_1": 107
+      },
+      "111|Alpha|Regular|Legs": {
+        "Set_Skill_1": 135,
+        "Skill_1": 52,
+        "Skill_2": 111
+      },
+      "112|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 135,
+        "Skill_1": 52
+      },
+      "103|Alpha|Regular|Legs": {
+        "Set_Skill_1": 136,
+        "Skill_1": 13,
+        "Skill_2": 57
+      },
+      "104|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 136,
+        "Skill_1": 13
+      },
+      "113|Alpha|Regular|Legs": {
+        "Set_Skill_1": 136,
+        "Skill_1": 39,
+        "Skill_2": 64
+      },
+      "114|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 136,
+        "Skill_1": 39
+      },
+      "83|Alpha|Regular|Legs": {
+        "Skill_1": 69,
+        "Skill_2": 38
+      },
+      "84|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 69
+      },
+      "85|Alpha|Regular|Legs": {
+        "Skill_1": 41,
+        "Skill_2": 30
+      },
+      "86|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 41
+      },
+      "109|Alpha|Regular|Legs": {
+        "Set_Skill_1": 138,
+        "Skill_1": 80
+      },
+      "110|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 138,
+        "Skill_1": 80
+      },
+      "107|Alpha|Regular|Legs": {
+        "Set_Skill_1": 126,
+        "Skill_1": 101,
+        "Skill_2": 62
+      },
+      "108|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 126,
+        "Skill_1": 101
+      },
+      "117|Alpha|Regular|Legs": {
+        "Skill_1": 118,
+        "Skill_2": 78
+      },
+      "118|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 118
+      },
+      "160|Alpha|Regular|Legs": {
+        "Skill_1": 118,
+        "Skill_2": 78
+      },
+      "161|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 118
+      },
+      "119|Alpha|Regular|Legs": {
+        "Skill_1": 114,
+        "Skill_2": 100
+      },
+      "120|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 114
+      },
+      "121|Alpha|Regular|Legs": {
+        "Skill_1": 20,
+        "Skill_2": 8
+      },
+      "122|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 20
+      },
+      "123|Alpha|Regular|Legs": {
+        "Skill_1": 19,
+        "Skill_2": 76
+      },
+      "124|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 19
+      },
+      "129|Alpha|Regular|Legs": {
+        "Set_Skill_1": 144,
+        "Skill_1": 79,
+        "Skill_2": 54
+      },
+      "130|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 144,
+        "Skill_1": 79
+      },
+      "127|Alpha|Regular|Legs": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61,
+        "Skill_2": 38
+      },
+      "128|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61
+      },
+      "105|Alpha|Regular|Legs": {
+        "Set_Skill_1": 137,
+        "Skill_1": 47,
+        "Skill_2": 27
+      },
+      "106|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 137,
+        "Skill_1": 47
+      },
+      "99|Alpha|Regular|Legs": {
+        "Set_Skill_1": 127,
+        "Skill_1": 116,
+        "Skill_2": 34
+      },
+      "100|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 127,
+        "Skill_1": 116
+      },
+      "115|Alpha|Regular|Legs": {
+        "Set_Skill_1": 142,
+        "Skill_1": 88,
+        "Skill_2": 55
+      },
+      "116|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 142,
+        "Skill_1": 88
+      },
+      "131|Alpha|Regular|Legs": {
+        "Skill_1": 54,
+        "Skill_2": 34
+      },
+      "132|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 54
+      },
+      "133|Alpha|Regular|Legs": {
+        "Set_Skill_1": 149,
+        "Skill_1": 60,
+        "Skill_2": 24
+      },
+      "134|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 149,
+        "Skill_1": 60
+      },
+      "125|Alpha|Regular|Legs": {
+        "Set_Skill_1": 145,
+        "Skill_1": 104,
+        "Skill_2": 53
+      },
+      "126|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 145,
+        "Skill_1": 104
+      },
+      "137|Alpha|Regular|Legs": {
+        "Set_Skill_1": 147,
+        "Skill_1": 88,
+        "Skill_2": 11
+      },
+      "138|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 147,
+        "Skill_1": 88
+      },
+      "149|Alpha|Regular|Legs": {
+        "Set_Skill_1": 150,
+        "Skill_1": 103,
+        "Skill_2": 122
+      },
+      "150|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 150,
+        "Skill_1": 103
+      },
+      "191|Alpha|Regular|Legs": {
+        "Skill_1": 82,
+        "Skill_2": 63
+      },
+      "192|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 82,
+        "Skill_2": 63
+      },
+      "193|Low_Rank|Regular|Legs": {
+        "Skill_1": 23
+      },
+      "194|Low_Rank|Regular|Legs": {
+        "Skill_1": 77
+      },
+      "195|Low_Rank|Regular|Legs": {
+        "Skill_1": 90
+      },
+      "196|Low_Rank|Regular|Legs": {
+        "Skill_1": 64
+      },
+      "197|Low_Rank|Regular|Legs": {
+        "Set_Skill_1": 168,
+        "Skill_1": 97
+      },
+      "201|Alpha|Regular|Legs": {
+        "Skill_1": 85,
+        "Skill_2": 56
+      },
+      "202|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 85
+      },
+      "206|Alpha|Regular|Legs": {
+        "Set_Skill_1": 164,
+        "Skill_1": 19,
+        "Skill_2": 49
+      },
+      "207|Alpha|Regular|Legs": {
+        "Skill_1": 23
+      },
+      "208|Alpha|Regular|Legs": {
+        "Skill_1": 77
+      },
+      "209|Alpha|Regular|Legs": {
+        "Skill_1": 90
+      },
+      "210|Alpha|Regular|Legs": {
+        "Skill_1": 64
+      },
+      "211|Alpha|Regular|Legs": {
+        "Set_Skill_1": 168,
+        "Skill_1": 97
+      },
+      "212|Low_Rank|Regular|Legs": {
+        "Skill_1": 73
+      },
+      "213|Alpha|Regular|Legs": {
+        "Skill_1": 73,
+        "Skill_2": 48
+      },
+      "214|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 73
+      },
+      "215|Low_Rank|Regular|Legs": {
+        "Skill_1": 73
+      },
+      "216|Alpha|Regular|Legs": {
+        "Skill_1": 73,
+        "Skill_2": 48
+      },
+      "217|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 73
+      },
+      "218|Alpha|Regular|Legs": {
+        "Set_Skill_1": 127,
+        "Skill_1": 63,
+        "Skill_2": 23
+      },
+      "219|Alpha|Regular|Legs": {
+        "Set_Skill_1": 137,
+        "Skill_1": 29,
+        "Skill_2": 33
+      },
+      "220|Alpha|Regular|Legs": {
+        "Set_Skill_1": 143,
+        "Skill_1": 48
+      },
+      "221|Alpha|Regular|Legs": {
+        "Set_Skill_1": 144,
+        "Skill_1": 78
+      },
+      "222|Alpha|Regular|Legs": {
+        "Set_Skill_1": 126,
+        "Skill_1": 19
+      },
+      "223|Alpha|Regular|Legs": {
+        "Set_Skill_1": 147,
+        "Skill_1": 38,
+        "Skill_2": 48
+      },
+      "224|Alpha|Regular|Legs": {
+        "Set_Skill_1": 145,
+        "Skill_1": 49
+      },
+      "225|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 132,
+        "Skill_1": 102
+      },
+      "226|Low_Rank|Unknown|Legs": {
+        "Skill_1": 20
+      },
+      "227|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 135,
+        "Skill_1": 20,
+        "Skill_2": 74
+      },
+      "228|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 131,
+        "Skill_1": 20,
+        "Skill_2": 78
+      },
+      "229|Alpha|Regular|Legs": {
+        "Set_Skill_1": 135,
+        "Skill_1": 49
+      },
+      "230|Alpha|Regular|Legs": {
+        "Skill_1": 50
+      },
+      "231|Alpha|Regular|Legs": {
+        "Set_Skill_1": 163,
+        "Skill_1": 21,
+        "Skill_2": 82
+      },
+      "232|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 163,
+        "Skill_1": 21
+      },
+      "298|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 132,
+        "Skill_1": 102,
+        "Skill_2": 73
+      },
+      "242|Alpha|Regular|Legs": {
+        "Set_Skill_1": 163,
+        "Skill_1": 11,
+        "Skill_2": 62
+      },
+      "293|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 167,
+        "Skill_1": 73,
+        "Skill_2": 48
+      },
+      "294|Alpha|Unknown|Legs": {
+        "Skill_1": 78,
+        "Skill_2": 74
+      },
+      "247|Alpha|Regular|Legs": {
+        "Skill_1": 62,
+        "Skill_2": 17
+      },
+      "248|Alpha|Regular|Legs": {
+        "Skill_1": 73,
+        "Skill_2": 97
+      },
+      "302|Alpha|Regular|Legs": {
+        "Skill_1": 57,
+        "Skill_2": 68
+      },
+      "303|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 57
+      },
+      "304|Alpha|Regular|Legs": {
+        "Skill_1": 86,
+        "Skill_2": 12
+      },
+      "305|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 86,
+        "Skill_2": 12
+      },
+      "306|Alpha|Regular|Legs": {
+        "Skill_1": 55,
+        "Skill_2": 2
+      },
+      "307|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 55
+      },
+      "308|Alpha|Regular|Legs": {
+        "Skill_1": 54,
+        "Skill_2": 34
+      },
+      "309|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 54
+      },
+      "312|Alpha|Regular|Legs": {
+        "Skill_1": 109,
+        "Skill_2": 31
+      },
+      "313|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 109,
+        "Skill_2": 31
+      },
+      "324|Alpha|Regular|Legs": {
+        "Skill_1": 84,
+        "Skill_2": 22
+      },
+      "325|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 84
+      },
+      "326|Alpha|Regular|Legs": {
+        "Skill_1": 3,
+        "Skill_2": 82
+      },
+      "327|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 3,
+        "Skill_2": 82
+      },
+      "328|Alpha|Regular|Legs": {
+        "Skill_1": 36,
+        "Skill_2": 47
+      },
+      "329|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 36
+      },
+      "330|Alpha|Regular|Legs": {
+        "Skill_1": 69,
+        "Skill_2": 38
+      },
+      "331|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 69
+      },
+      "332|Alpha|Regular|Legs": {
+        "Skill_1": 48,
+        "Skill_2": 83
+      },
+      "333|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 48,
+        "Skill_2": 83
+      },
+      "334|Alpha|Regular|Legs": {
+        "Skill_1": 1,
+        "Skill_2": 35
+      },
+      "335|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 1
+      },
+      "336|Alpha|Regular|Legs": {
+        "Skill_1": 4,
+        "Skill_2": 73
+      },
+      "337|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 4
+      },
+      "338|Alpha|Regular|Legs": {
+        "Skill_1": 52,
+        "Skill_2": 31
+      },
+      "339|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 52,
+        "Skill_2": 31
+      },
+      "340|Alpha|Regular|Legs": {
+        "Skill_1": 11,
+        "Skill_2": 32
+      },
+      "341|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 11
+      },
+      "342|Alpha|Regular|Legs": {
+        "Skill_1": 27,
+        "Skill_2": 74
+      },
+      "343|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 27
+      },
+      "344|Alpha|Regular|Legs": {
+        "Skill_1": 72,
+        "Skill_2": 26
+      },
+      "345|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 72,
+        "Skill_2": 26
+      },
+      "346|Alpha|Regular|Legs": {
+        "Skill_1": 90,
+        "Skill_2": 85
+      },
+      "347|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 90
+      },
+      "348|Alpha|Regular|Legs": {
+        "Set_Skill_1": 182,
+        "Skill_1": 71,
+        "Skill_2": 73
+      },
+      "349|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 182,
+        "Skill_1": 71
+      },
+      "350|Alpha|Regular|Legs": {
+        "Set_Skill_1": 183,
+        "Skill_1": 22,
+        "Skill_2": 1
+      },
+      "351|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 183,
+        "Skill_1": 22
+      },
+      "352|Alpha|Regular|Legs": {
+        "Set_Skill_1": 183,
+        "Skill_1": 120,
+        "Skill_2": 12
+      },
+      "353|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 183,
+        "Skill_1": 120
+      },
+      "354|Alpha|Regular|Legs": {
+        "Skill_1": 12,
+        "Skill_2": 76
+      },
+      "355|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 12
+      },
+      "356|Alpha|Regular|Legs": {
+        "Skill_1": 3,
+        "Skill_2": 82
+      },
+      "357|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 3
+      },
+      "358|Alpha|Regular|Legs": {
+        "Skill_1": 83,
+        "Skill_2": 31
+      },
+      "359|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 83
+      },
+      "360|Alpha|Regular|Legs": {
+        "Skill_1": 78,
+        "Skill_2": 74
+      },
+      "361|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 78
+      },
+      "362|Alpha|Regular|Legs": {
+        "Skill_1": 7,
+        "Skill_2": 80
+      },
+      "363|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 7
+      },
+      "378|Alpha|Regular|Legs": {
+        "Skill_1": 20,
+        "Skill_2": 47
+      },
+      "379|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 20,
+        "Skill_2": 47
+      },
+      "380|Alpha|Regular|Legs": {
+        "Set_Skill_1": 188,
+        "Skill_1": 74,
+        "Skill_2": 81
+      },
+      "381|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 188,
+        "Skill_1": 74,
+        "Skill_2": 81
+      },
+      "382|Alpha|Regular|Legs": {
+        "Set_Skill_1": 189,
+        "Skill_1": 102,
+        "Skill_2": 19
+      },
+      "383|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 189,
+        "Skill_1": 102,
+        "Skill_2": 19
+      },
+      "384|Alpha|Regular|Legs": {
+        "Set_Skill_1": 190,
+        "Skill_1": 13,
+        "Skill_2": 57
+      },
+      "385|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 190,
+        "Skill_1": 13,
+        "Skill_2": 57
+      },
+      "386|Alpha|Regular|Legs": {
+        "Set_Skill_1": 191,
+        "Skill_1": 26,
+        "Skill_2": 55
+      },
+      "387|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 191,
+        "Skill_1": 26
+      },
+      "388|Alpha|Regular|Legs": {
+        "Set_Skill_1": 192,
+        "Skill_1": 81,
+        "Skill_2": 48
+      },
+      "389|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 192,
+        "Skill_1": 81,
+        "Skill_2": 48
+      },
+      "390|Alpha|Regular|Legs": {
+        "Skill_1": 41,
+        "Skill_2": 30
+      },
+      "391|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 41,
+        "Skill_2": 30
+      },
+      "392|Alpha|Regular|Legs": {
+        "Set_Skill_1": 193,
+        "Skill_1": 80,
+        "Skill_2": 185
+      },
+      "393|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 193,
+        "Skill_1": 80
+      },
+      "394|Alpha|Regular|Legs": {
+        "Set_Skill_1": 171,
+        "Skill_1": 78,
+        "Skill_2": 63
+      },
+      "395|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 171,
+        "Skill_1": 78
+      },
+      "396|Alpha|Regular|Legs": {
+        "Set_Skill_1": 173,
+        "Skill_1": 54,
+        "Skill_2": 17
+      },
+      "397|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 173,
+        "Skill_1": 54
+      },
+      "398|Alpha|Regular|Legs": {
+        "Set_Skill_1": 172,
+        "Skill_1": 62,
+        "Skill_2": 71
+      },
+      "399|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 172,
+        "Skill_1": 62,
+        "Skill_2": 71
+      },
+      "400|Alpha|Regular|Legs": {
+        "Set_Skill_1": 170,
+        "Skill_1": 85,
+        "Skill_2": 84
+      },
+      "401|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 170,
+        "Skill_1": 85
+      },
+      "402|Alpha|Regular|Legs": {
+        "Set_Skill_1": 182,
+        "Skill_1": 33,
+        "Skill_2": 70
+      },
+      "403|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 182,
+        "Skill_1": 33
+      },
+      "406|Alpha|Regular|Legs": {
+        "Set_Skill_1": 181,
+        "Skill_1": 82,
+        "Skill_2": 22
+      },
+      "407|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 181,
+        "Skill_1": 82
+      },
+      "413|Alpha|Regular|Legs": {
+        "Set_Skill_1": 191,
+        "Skill_1": 73,
+        "Skill_2": 41
+      },
+      "414|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 191,
+        "Skill_1": 73
+      },
+      "415|Alpha|Regular|Legs": {
+        "Set_Skill_1": 189,
+        "Skill_1": 49,
+        "Skill_2": 12
+      },
+      "416|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 189,
+        "Skill_1": 49,
+        "Skill_2": 12
+      },
+      "417|Alpha|Regular|Legs": {
+        "Set_Skill_1": 190,
+        "Skill_1": 66,
+        "Skill_2": 57
+      },
+      "418|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 190,
+        "Skill_1": 66
+      },
+      "419|Alpha|Regular|Legs": {
+        "Set_Skill_1": 192,
+        "Skill_1": 120,
+        "Skill_2": 53
+      },
+      "420|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 192,
+        "Skill_1": 120
+      },
+      "421|Alpha|Regular|Legs": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101,
+        "Skill_2": 76
+      },
+      "422|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 173,
+        "Skill_1": 101
+      },
+      "423|Alpha|Regular|Legs": {
+        "Set_Skill_1": 179,
+        "Skill_1": 63,
+        "Skill_2": 102
+      },
+      "424|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 179,
+        "Skill_1": 63
+      },
+      "428|Alpha|Regular|Legs": {
+        "Skill_1": 19,
+        "Skill_2": 90
+      },
+      "429|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 19,
+        "Skill_2": 90
+      },
+      "430|Alpha|Regular|Legs": {
+        "Skill_1": 20,
+        "Skill_2": 80
+      },
+      "431|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 20,
+        "Skill_2": 80
+      },
+      "432|Alpha|Regular|Legs": {
+        "Set_Skill_1": 178,
+        "Skill_1": 55,
+        "Skill_2": 186
+      },
+      "433|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 178,
+        "Skill_1": 55
+      },
+      "434|Alpha|Regular|Legs": {
+        "Set_Skill_1": 194,
+        "Skill_1": 11,
+        "Skill_2": 107
+      },
+      "435|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 194,
+        "Skill_1": 11,
+        "Skill_2": 107
+      },
+      "436|Alpha|Regular|Legs": {
+        "Set_Skill_1": 196,
+        "Skill_1": 116,
+        "Skill_2": 34
+      },
+      "437|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 196,
+        "Skill_1": 116
+      },
+      "438|Alpha|Regular|Legs": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61,
+        "Skill_2": 38
+      },
+      "439|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 143,
+        "Skill_1": 61,
+        "Skill_2": 38
+      },
+      "440|Alpha|Regular|Legs": {
+        "Set_Skill_1": 144,
+        "Skill_1": 79,
+        "Skill_2": 54
+      },
+      "441|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 144,
+        "Skill_1": 79
+      },
+      "442|Alpha|Regular|Legs": {
+        "Set_Skill_1": 199,
+        "Skill_1": 47,
+        "Skill_2": 48
+      },
+      "443|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 199,
+        "Skill_1": 47
+      },
+      "444|Alpha|Regular|Legs": {
+        "Set_Skill_1": 177,
+        "Skill_1": 76,
+        "Skill_2": 29
+      },
+      "445|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 177,
+        "Skill_1": 76
+      },
+      "448|Alpha|Regular|Legs": {
+        "Set_Skill_1": 200,
+        "Skill_1": 64,
+        "Skill_2": 21
+      },
+      "449|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 200,
+        "Skill_1": 64,
+        "Skill_2": 21
+      },
+      "450|Alpha|Regular|Legs": {
+        "Set_Skill_1": 180,
+        "Skill_1": 49,
+        "Skill_2": 88
+      },
+      "451|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 180,
+        "Skill_1": 49,
+        "Skill_2": 88
+      },
+      "453|Alpha|Regular|Legs": {
+        "Set_Skill_1": 203,
+        "Skill_1": 11,
+        "Skill_2": 62
+      },
+      "454|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 203,
+        "Skill_1": 11
+      },
+      "455|Alpha|Regular|Legs": {
+        "Set_Skill_1": 176,
+        "Skill_1": 56,
+        "Skill_2": 20
+      },
+      "456|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 176,
+        "Skill_1": 56,
+        "Skill_2": 20
+      },
+      "457|Alpha|Regular|Legs": {
+        "Set_Skill_1": 195,
+        "Skill_1": 85,
+        "Skill_2": 58
+      },
+      "458|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 195,
+        "Skill_1": 85,
+        "Skill_2": 58
+      },
+      "461|Alpha|Regular|Legs": {
+        "Set_Skill_1": 200,
+        "Skill_1": 104,
+        "Skill_2": 100
+      },
+      "462|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 200,
+        "Skill_1": 104
+      },
+      "464|Alpha|Regular|Legs": {
+        "Set_Skill_1": 175,
+        "Skill_1": 50,
+        "Skill_2": 41
+      },
+      "465|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 175,
+        "Skill_1": 50
+      },
+      "466|Alpha|Regular|Legs": {
+        "Set_Skill_1": 174,
+        "Skill_1": 102,
+        "Skill_2": 30
+      },
+      "467|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 174,
+        "Skill_1": 102
+      },
+      "470|Alpha|Regular|Legs": {
+        "Set_Skill_1": 169,
+        "Skill_1": 33,
+        "Skill_2": 61
+      },
+      "471|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 169,
+        "Skill_1": 33,
+        "Skill_2": 61
+      },
+      "472|Alpha|Regular|Legs": {
+        "Set_Skill_1": 169,
+        "Skill_1": 52,
+        "Skill_2": 123
+      },
+      "473|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 169,
+        "Skill_1": 52
+      },
+      "474|Alpha|Regular|Legs": {
+        "Skill_1": 48,
+        "Skill_2": 40
+      },
+      "475|Beta_or_Gamma|Regular|Legs": {
+        "Skill_1": 48
+      },
+      "476|Alpha|Regular|Legs": {
+        "Set_Skill_1": 201,
+        "Skill_1": 11,
+        "Skill_2": 54
+      },
+      "477|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 201,
+        "Skill_1": 11
+      },
+      "478|Alpha|Regular|Legs": {
+        "Set_Skill_1": 208,
+        "Skill_1": 66,
+        "Skill_2": 19
+      },
+      "479|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 208,
+        "Skill_1": 66,
+        "Skill_2": 19
+      },
+      "480|Alpha|Regular|Legs": {
+        "Set_Skill_1": 217,
+        "Skill_1": 21,
+        "Skill_2": 64
+      },
+      "481|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 217,
+        "Skill_1": 21
+      },
+      "482|Alpha|Regular|Legs": {
+        "Set_Skill_1": 218,
+        "Skill_1": 50,
+        "Skill_2": 86
+      },
+      "483|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 218,
+        "Skill_1": 50
+      },
+      "484|Alpha|Regular|Legs": {
+        "Set_Skill_1": 211,
+        "Skill_1": 49,
+        "Skill_2": 101
+      },
+      "485|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 211,
+        "Skill_1": 49
+      },
+      "486|Alpha|Regular|Legs": {
+        "Set_Skill_1": 221,
+        "Skill_1": 20,
+        "Skill_2": 34
+      },
+      "487|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 221,
+        "Skill_1": 20
+      },
+      "492|Alpha|Regular|Legs": {
+        "Set_Skill_1": 202,
+        "Skill_1": 82,
+        "Skill_2": 120
+      },
+      "493|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 202,
+        "Skill_1": 82,
+        "Skill_2": 120
+      },
+      "494|Alpha|Regular|Legs": {
+        "Set_Skill_1": 219,
+        "Skill_1": 49,
+        "Skill_2": 63
+      },
+      "495|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 219,
+        "Skill_1": 49
+      },
+      "496|Alpha|Regular|Legs": {
+        "Set_Skill_1": 214,
+        "Skill_1": 56
+      },
+      "498|Alpha|Regular|Legs": {
+        "Set_Skill_1": 215,
+        "Skill_1": 100
+      },
+      "502|Alpha|Regular|Legs": {
+        "Set_Skill_1": 212,
+        "Skill_1": 21
+      },
+      "504|Alpha|Regular|Legs": {
+        "Set_Skill_1": 213,
+        "Skill_1": 50
+      },
+      "517|Alpha|Regular|Legs": {
+        "Skill_1": 19,
+        "Skill_2": 64
+      },
+      "518|Alpha|Regular|Legs": {
+        "Set_Skill_1": 170,
+        "Skill_1": 62,
+        "Skill_2": 50
+      },
+      "519|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 170,
+        "Skill_1": 62,
+        "Skill_2": 50
+      },
+      "520|Alpha|Regular|Legs": {
+        "Skill_1": 73,
+        "Skill_2": 97
+      },
+      "523|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 209,
+        "Skill_1": 50
+      },
+      "524|Alpha|Regular|Legs": {
+        "Set_Skill_1": 177,
+        "Skill_1": 74,
+        "Skill_2": 33
+      },
+      "526|Alpha|Regular|Legs": {
+        "Set_Skill_1": 174,
+        "Skill_1": 74,
+        "Skill_2": 50
+      },
+      "528|Alpha|Regular|Legs": {
+        "Set_Skill_1": 220,
+        "Skill_1": 19,
+        "Skill_2": 57
+      },
+      "529|Beta_or_Gamma|Regular|Legs": {
+        "Set_Skill_1": 220,
+        "Skill_1": 19
+      },
+      "532|Alpha|Regular|Legs": {
+        "Set_Skill_1": 182,
+        "Skill_1": 76,
+        "Skill_2": 67
+      },
+      "534|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 210,
+        "Skill_1": 62,
+        "Skill_2": 41
+      },
+      "535|Alpha|Unknown|Legs": {
+        "Set_Skill_1": 210,
+        "Skill_1": 76,
+        "Skill_2": 39
+      },
+      "203|Low_Rank|Regular|Charm": {
+        "Skill_1": 19,
+        "Skill_2": 97
+      },
+      "0|Low_Rank|Regular|Charm": {
+        "Skill_1": 1
+      },
+      "1|Alpha|Regular|Charm": {
+        "Skill_1": 1
+      },
+      "2|Alpha|Regular|Charm": {
+        "Skill_1": 1
+      },
+      "3|Low_Rank|Regular|Charm": {
+        "Skill_1": 19
+      },
+      "4|Alpha|Regular|Charm": {
+        "Skill_1": 19
+      },
+      "5|Alpha|Regular|Charm": {
+        "Skill_1": 19
+      },
+      "6|Low_Rank|Regular|Charm": {
+        "Skill_1": 20,
+        "Skill_2": 114,
+        "Skill_2_Level": 1
+      },
+      "7|Alpha|Regular|Charm": {
+        "Skill_1": 20,
+        "Skill_2": 114,
+        "Skill_2_Level": 1
+      },
+      "8|Alpha|Regular|Charm": {
+        "Skill_1": 20,
+        "Skill_2": 114,
+        "Skill_2_Level": 1
+      },
+      "9|Low_Rank|Regular|Charm": {
+        "Skill_1": 2
+      },
+      "10|Alpha|Regular|Charm": {
+        "Skill_1": 2
+      },
+      "11|Alpha|Regular|Charm": {
+        "Skill_1": 2
+      },
+      "12|Low_Rank|Regular|Charm": {
+        "Skill_1": 3
+      },
+      "13|Alpha|Regular|Charm": {
+        "Skill_1": 3
+      },
+      "14|Alpha|Regular|Charm": {
+        "Skill_1": 3
+      },
+      "15|Low_Rank|Regular|Charm": {
+        "Skill_1": 4
+      },
+      "16|Alpha|Regular|Charm": {
+        "Skill_1": 4
+      },
+      "17|Alpha|Regular|Charm": {
+        "Skill_1": 4
+      },
+      "18|Alpha|Regular|Charm": {
+        "Skill_1": 6
+      },
+      "19|Alpha|Regular|Charm": {
+        "Skill_1": 6
+      },
+      "20|Alpha|Regular|Charm": {
+        "Skill_1": 6
+      },
+      "21|Low_Rank|Regular|Charm": {
+        "Skill_1": 7
+      },
+      "22|Alpha|Regular|Charm": {
+        "Skill_1": 7
+      },
+      "23|Alpha|Regular|Charm": {
+        "Skill_1": 7
+      },
+      "24|Alpha|Regular|Charm": {
+        "Skill_1": 8
+      },
+      "25|Alpha|Regular|Charm": {
+        "Skill_1": 8
+      },
+      "26|Alpha|Regular|Charm": {
+        "Skill_1": 8
+      },
+      "30|Alpha|Regular|Charm": {
+        "Skill_1": 11
+      },
+      "258|Alpha|Regular|Charm": {
+        "Skill_1": 11
+      },
+      "259|Alpha|Regular|Charm": {
+        "Skill_1": 11
+      },
+      "31|Low_Rank|Regular|Charm": {
+        "Skill_1": 12
+      },
+      "260|Alpha|Regular|Charm": {
+        "Skill_1": 12
+      },
+      "261|Alpha|Regular|Charm": {
+        "Skill_1": 12
+      },
+      "32|Alpha|Regular|Charm": {
+        "Skill_1": 13
+      },
+      "33|Alpha|Regular|Charm": {
+        "Skill_1": 13
+      },
+      "34|Low_Rank|Regular|Charm": {
+        "Skill_1": 21
+      },
+      "35|Alpha|Regular|Charm": {
+        "Skill_1": 21
+      },
+      "36|Alpha|Regular|Charm": {
+        "Skill_1": 21
+      },
+      "37|Low_Rank|Regular|Charm": {
+        "Skill_1": 22
+      },
+      "38|Alpha|Regular|Charm": {
+        "Skill_1": 22
+      },
+      "39|Alpha|Regular|Charm": {
+        "Skill_1": 22
+      },
+      "40|Low_Rank|Regular|Charm": {
+        "Skill_1": 23
+      },
+      "264|Alpha|Regular|Charm": {
+        "Skill_1": 23
+      },
+      "41|Alpha|Regular|Charm": {
+        "Skill_1": 23
+      },
+      "42|Low_Rank|Regular|Charm": {
+        "Skill_1": 24
+      },
+      "43|Alpha|Regular|Charm": {
+        "Skill_1": 24
+      },
+      "44|Alpha|Regular|Charm": {
+        "Skill_1": 24
+      },
+      "45|Low_Rank|Regular|Charm": {
+        "Skill_1": 25
+      },
+      "46|Alpha|Regular|Charm": {
+        "Skill_1": 25
+      },
+      "47|Alpha|Regular|Charm": {
+        "Skill_1": 25
+      },
+      "48|Low_Rank|Regular|Charm": {
+        "Skill_1": 26
+      },
+      "49|Alpha|Regular|Charm": {
+        "Skill_1": 26
+      },
+      "50|Alpha|Regular|Charm": {
+        "Skill_1": 26
+      },
+      "51|Low_Rank|Regular|Charm": {
+        "Skill_1": 27
+      },
+      "52|Alpha|Regular|Charm": {
+        "Skill_1": 27
+      },
+      "53|Alpha|Regular|Charm": {
+        "Skill_1": 27
+      },
+      "54|Alpha|Regular|Charm": {
+        "Skill_1": 28
+      },
+      "55|Alpha|Regular|Charm": {
+        "Skill_1": 28
+      },
+      "56|Alpha|Regular|Charm": {
+        "Skill_1": 28
+      },
+      "57|Low_Rank|Regular|Charm": {
+        "Skill_1": 29
+      },
+      "58|Alpha|Regular|Charm": {
+        "Skill_1": 29
+      },
+      "59|Alpha|Regular|Charm": {
+        "Skill_1": 29
+      },
+      "60|Low_Rank|Regular|Charm": {
+        "Skill_1": 30
+      },
+      "61|Alpha|Regular|Charm": {
+        "Skill_1": 30
+      },
+      "62|Alpha|Regular|Charm": {
+        "Skill_1": 30
+      },
+      "63|Low_Rank|Regular|Charm": {
+        "Skill_1": 31
+      },
+      "64|Alpha|Regular|Charm": {
+        "Skill_1": 31
+      },
+      "65|Alpha|Regular|Charm": {
+        "Skill_1": 31
+      },
+      "66|Low_Rank|Regular|Charm": {
+        "Skill_1": 32
+      },
+      "67|Alpha|Regular|Charm": {
+        "Skill_1": 32
+      },
+      "68|Alpha|Regular|Charm": {
+        "Skill_1": 32
+      },
+      "69|Low_Rank|Regular|Charm": {
+        "Skill_1": 33
+      },
+      "70|Alpha|Regular|Charm": {
+        "Skill_1": 33
+      },
+      "71|Alpha|Regular|Charm": {
+        "Skill_1": 33
+      },
+      "72|Alpha|Regular|Charm": {
+        "Skill_1": 34
+      },
+      "73|Alpha|Regular|Charm": {
+        "Skill_1": 34
+      },
+      "74|Alpha|Regular|Charm": {
+        "Skill_1": 34
+      },
+      "75|Low_Rank|Regular|Charm": {
+        "Skill_1": 35
+      },
+      "76|Alpha|Regular|Charm": {
+        "Skill_1": 35
+      },
+      "77|Alpha|Regular|Charm": {
+        "Skill_1": 35
+      },
+      "78|Low_Rank|Regular|Charm": {
+        "Skill_1": 36
+      },
+      "79|Alpha|Regular|Charm": {
+        "Skill_1": 36
+      },
+      "80|Alpha|Regular|Charm": {
+        "Skill_1": 36
+      },
+      "81|Low_Rank|Regular|Charm": {
+        "Skill_1": 37
+      },
+      "82|Alpha|Regular|Charm": {
+        "Skill_1": 37
+      },
+      "83|Alpha|Regular|Charm": {
+        "Skill_1": 37
+      },
+      "84|Alpha|Regular|Charm": {
+        "Skill_1": 38
+      },
+      "85|Alpha|Regular|Charm": {
+        "Skill_1": 38
+      },
+      "86|Alpha|Regular|Charm": {
+        "Skill_1": 38
+      },
+      "87|Low_Rank|Regular|Charm": {
+        "Skill_1": 48
+      },
+      "88|Alpha|Regular|Charm": {
+        "Skill_1": 48
+      },
+      "89|Alpha|Regular|Charm": {
+        "Skill_1": 48
+      },
+      "90|Alpha|Regular|Charm": {
+        "Skill_1": 49
+      },
+      "92|Alpha|Regular|Charm": {
+        "Skill_1": 50
+      },
+      "93|Alpha|Regular|Charm": {
+        "Skill_1": 50
+      },
+      "94|Alpha|Regular|Charm": {
+        "Skill_1": 52
+      },
+      "95|Alpha|Regular|Charm": {
+        "Skill_1": 52
+      },
+      "96|Alpha|Regular|Charm": {
+        "Skill_1": 53
+      },
+      "97|Alpha|Regular|Charm": {
+        "Skill_1": 53
+      },
+      "99|Alpha|Regular|Charm": {
+        "Skill_1": 55
+      },
+      "100|Alpha|Regular|Charm": {
+        "Skill_1": 55
+      },
+      "101|Alpha|Regular|Charm": {
+        "Skill_1": 56
+      },
+      "102|Alpha|Regular|Charm": {
+        "Skill_1": 56
+      },
+      "103|Low_Rank|Regular|Charm": {
+        "Skill_1": 57
+      },
+      "104|Alpha|Regular|Charm": {
+        "Skill_1": 57
+      },
+      "263|Alpha|Regular|Charm": {
+        "Skill_1": 57
+      },
+      "105|Low_Rank|Regular|Charm": {
+        "Skill_1": 58
+      },
+      "106|Alpha|Regular|Charm": {
+        "Skill_1": 58
+      },
+      "107|Alpha|Regular|Charm": {
+        "Skill_1": 58
+      },
+      "108|Alpha|Regular|Charm": {
+        "Skill_1": 61
+      },
+      "109|Alpha|Regular|Charm": {
+        "Skill_1": 61
+      },
+      "110|Alpha|Regular|Charm": {
+        "Skill_1": 62
+      },
+      "111|Alpha|Regular|Charm": {
+        "Skill_1": 62
+      },
+      "112|Alpha|Regular|Charm": {
+        "Skill_1": 63
+      },
+      "113|Alpha|Regular|Charm": {
+        "Skill_1": 63
+      },
+      "116|Alpha|Regular|Charm": {
+        "Skill_1": 66
+      },
+      "117|Alpha|Regular|Charm": {
+        "Skill_1": 66
+      },
+      "121|Alpha|Regular|Charm": {
+        "Skill_1": 70
+      },
+      "122|Alpha|Regular|Charm": {
+        "Skill_1": 70
+      },
+      "123|Low_Rank|Regular|Charm": {
+        "Skill_1": 71
+      },
+      "124|Alpha|Regular|Charm": {
+        "Skill_1": 71
+      },
+      "125|Alpha|Regular|Charm": {
+        "Skill_1": 71
+      },
+      "128|Alpha|Regular|Charm": {
+        "Skill_1": 73
+      },
+      "129|Alpha|Regular|Charm": {
+        "Skill_1": 73
+      },
+      "130|Alpha|Regular|Charm": {
+        "Skill_1": 74
+      },
+      "131|Alpha|Regular|Charm": {
+        "Skill_1": 74
+      },
+      "132|Alpha|Regular|Charm": {
+        "Skill_1": 76
+      },
+      "133|Alpha|Regular|Charm": {
+        "Skill_1": 76
+      },
+      "134|Low_Rank|Regular|Charm": {
+        "Skill_1": 77
+      },
+      "135|Alpha|Regular|Charm": {
+        "Skill_1": 77
+      },
+      "136|Alpha|Regular|Charm": {
+        "Skill_1": 77
+      },
+      "137|Low_Rank|Regular|Charm": {
+        "Skill_1": 78
+      },
+      "138|Alpha|Regular|Charm": {
+        "Skill_1": 78
+      },
+      "262|Alpha|Regular|Charm": {
+        "Skill_1": 78
+      },
+      "139|Alpha|Regular|Charm": {
+        "Skill_1": 79
+      },
+      "140|Alpha|Regular|Charm": {
+        "Skill_1": 79
+      },
+      "141|Low_Rank|Regular|Charm": {
+        "Skill_1": 80
+      },
+      "142|Alpha|Regular|Charm": {
+        "Skill_1": 80
+      },
+      "143|Alpha|Regular|Charm": {
+        "Skill_1": 80
+      },
+      "144|Low_Rank|Regular|Charm": {
+        "Skill_1": 81
+      },
+      "145|Alpha|Regular|Charm": {
+        "Skill_1": 81
+      },
+      "146|Alpha|Regular|Charm": {
+        "Skill_1": 81
+      },
+      "147|Low_Rank|Regular|Charm": {
+        "Skill_1": 82
+      },
+      "148|Alpha|Regular|Charm": {
+        "Skill_1": 82
+      },
+      "149|Alpha|Regular|Charm": {
+        "Skill_1": 82
+      },
+      "150|Low_Rank|Regular|Charm": {
+        "Skill_1": 83
+      },
+      "151|Alpha|Regular|Charm": {
+        "Skill_1": 83
+      },
+      "152|Alpha|Regular|Charm": {
+        "Skill_1": 83
+      },
+      "153|Low_Rank|Regular|Charm": {
+        "Skill_1": 85
+      },
+      "154|Alpha|Regular|Charm": {
+        "Skill_1": 85
+      },
+      "155|Alpha|Regular|Charm": {
+        "Skill_1": 85
+      },
+      "156|Low_Rank|Regular|Charm": {
+        "Skill_1": 86
+      },
+      "157|Alpha|Regular|Charm": {
+        "Skill_1": 86
+      },
+      "158|Alpha|Regular|Charm": {
+        "Skill_1": 86
+      },
+      "159|Alpha|Regular|Charm": {
+        "Skill_1": 88
+      },
+      "160|Alpha|Regular|Charm": {
+        "Skill_1": 88
+      },
+      "161|Alpha|Regular|Charm": {
+        "Skill_1": 88
+      },
+      "162|Alpha|Regular|Charm": {
+        "Skill_1": 90
+      },
+      "163|Alpha|Regular|Charm": {
+        "Skill_1": 90
+      },
+      "165|Low_Rank|Regular|Charm": {
+        "Skill_1": 97
+      },
+      "166|Alpha|Regular|Charm": {
+        "Skill_1": 97
+      },
+      "167|Alpha|Regular|Charm": {
+        "Skill_1": 97
+      },
+      "168|Low_Rank|Regular|Charm": {
+        "Skill_1": 98
+      },
+      "169|Alpha|Regular|Charm": {
+        "Skill_1": 98
+      },
+      "170|Alpha|Regular|Charm": {
+        "Skill_1": 98
+      },
+      "171|Low_Rank|Regular|Charm": {
+        "Skill_1": 99
+      },
+      "172|Alpha|Regular|Charm": {
+        "Skill_1": 99
+      },
+      "173|Alpha|Regular|Charm": {
+        "Skill_1": 99
+      },
+      "174|Low_Rank|Regular|Charm": {
+        "Skill_1": 100
+      },
+      "175|Alpha|Regular|Charm": {
+        "Skill_1": 100
+      },
+      "176|Alpha|Regular|Charm": {
+        "Skill_1": 100
+      },
+      "177|Alpha|Regular|Charm": {
+        "Skill_1": 101
+      },
+      "178|Alpha|Regular|Charm": {
+        "Skill_1": 101
+      },
+      "179|Low_Rank|Regular|Charm": {
+        "Skill_1": 102
+      },
+      "180|Alpha|Regular|Charm": {
+        "Skill_1": 102
+      },
+      "181|Alpha|Regular|Charm": {
+        "Skill_1": 102
+      },
+      "182|Low_Rank|Regular|Charm": {
+        "Skill_1": 103
+      },
+      "183|Alpha|Regular|Charm": {
+        "Skill_1": 103
+      },
+      "184|Alpha|Regular|Charm": {
+        "Skill_1": 103
+      },
+      "185|Alpha|Regular|Charm": {
+        "Skill_1": 104
+      },
+      "186|Alpha|Regular|Charm": {
+        "Skill_1": 104
+      },
+      "188|Low_Rank|Regular|Charm": {
+        "Skill_1": 108
+      },
+      "189|Alpha|Regular|Charm": {
+        "Skill_1": 108
+      },
+      "190|Alpha|Regular|Charm": {
+        "Skill_1": 108
+      },
+      "191|Low_Rank|Regular|Charm": {
+        "Skill_1": 109
+      },
+      "192|Alpha|Regular|Charm": {
+        "Skill_1": 109
+      },
+      "193|Alpha|Regular|Charm": {
+        "Skill_1": 109
+      },
+      "194|Low_Rank|Regular|Charm": {
+        "Skill_1": 115
+      },
+      "195|Alpha|Regular|Charm": {
+        "Skill_1": 115
+      },
+      "196|Alpha|Regular|Charm": {
+        "Skill_1": 115
+      },
+      "197|Alpha|Regular|Charm": {
+        "Skill_1": 116
+      },
+      "198|Alpha|Regular|Charm": {
+        "Skill_1": 116
+      },
+      "199|Alpha|Regular|Charm": {
+        "Skill_1": 116
+      },
+      "200|Low_Rank|Regular|Charm": {
+        "Skill_1": 124
+      },
+      "201|Alpha|Regular|Charm": {
+        "Skill_1": 124
+      },
+      "202|Alpha|Regular|Charm": {
+        "Skill_1": 124
+      },
+      "248|Alpha|Regular|Charm": {
+        "Skill_1": 47
+      },
+      "249|Alpha|Regular|Charm": {
+        "Skill_1": 47
+      },
+      "250|Alpha|Regular|Charm": {
+        "Skill_1": 54
+      },
+      "251|Alpha|Regular|Charm": {
+        "Skill_1": 54
+      },
+      "252|Alpha|Regular|Charm": {
+        "Skill_1": 54
+      },
+      "253|Alpha|Regular|Charm": {
+        "Skill_1": 64
+      },
+      "254|Alpha|Regular|Charm": {
+        "Skill_1": 64
+      },
+      "255|Alpha|Regular|Charm": {
+        "Skill_1": 120
+      },
+      "256|Alpha|Regular|Charm": {
+        "Skill_1": 120
+      },
+      "257|Alpha|Regular|Charm": {
+        "Skill_1": 120
+      },
+      "229|Low_Rank|Regular|Charm": {
+        "Skill_1": 72
+      },
+      "230|Alpha|Regular|Charm": {
+        "Skill_1": 72
+      },
+      "231|Low_Rank|Regular|Charm": {
+        "Skill_1": 84
+      },
+      "217|Alpha|Regular|Charm": {
+        "Skill_1": 39
+      },
+      "218|Alpha|Regular|Charm": {
+        "Skill_1": 40
+      },
+      "219|Alpha|Regular|Charm": {
+        "Skill_1": 41
+      },
+      "220|Alpha|Regular|Charm": {
+        "Skill_1": 42
+      },
+      "221|Alpha|Regular|Charm": {
+        "Skill_1": 43
+      },
+      "222|Alpha|Regular|Charm": {
+        "Skill_1": 44
+      },
+      "223|Alpha|Regular|Charm": {
+        "Skill_1": 46
+      },
+      "225|Low_Rank|Regular|Charm": {
+        "Skill_1": 65
+      },
+      "227|Low_Rank|Regular|Charm": {
+        "Skill_1": 68
+      },
+      "228|Low_Rank|Regular|Charm": {
+        "Skill_1": 69
+      },
+      "208|Alpha|Regular|Charm": {
+        "Skill_1": 5,
+        "Skill_2": 75
+      },
+      "209|Alpha|Regular|Charm": {
+        "Skill_1": 14,
+        "Skill_2": 112
+      },
+      "212|Alpha|Regular|Charm": {
+        "Skill_1": 92,
+        "Skill_2": 91
+      },
+      "213|Alpha|Regular|Charm": {
+        "Skill_1": 93,
+        "Skill_2": 95
+      },
+      "214|Alpha|Regular|Charm": {
+        "Skill_1": 94,
+        "Skill_2": 96
+      },
+      "210|Alpha|Regular|Charm": {
+        "Skill_1": 17,
+        "Skill_2": 16
+      },
+      "211|Alpha|Regular|Charm": {
+        "Skill_1": 59,
+        "Skill_2": 107
+      },
+      "215|Alpha|Regular|Charm": {
+        "Skill_1": 105,
+        "Skill_2": 114
+      },
+      "232|Low_Rank|Regular|Charm": {
+        "Skill_1": 117
+      },
+      "216|Alpha|Regular|Charm": {
+        "Skill_1": 118,
+        "Skill_2": 119
+      },
+      "233|Alpha|Regular|Charm": {
+        "Skill_1": 122,
+        "Skill_2": 60
+      },
+      "234|Alpha|Regular|Charm": {
+        "Skill_1": 123,
+        "Skill_2": 34
+      },
+      "235|Alpha|Regular|Charm": {
+        "Skill_1": 157,
+        "Skill_2": 67
+      },
+      "236|Alpha|Regular|Charm": {
+        "Skill_1": 74
+      },
+      "300|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 19
+      },
+      "301|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 19
+      },
+      "302|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 20,
+        "Skill_2": 114,
+        "Skill_2_Level": 1
+      },
+      "303|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 20,
+        "Skill_2": 114,
+        "Skill_2_Level": 1
+      },
+      "304|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 12
+      },
+      "305|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 12
+      },
+      "306|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 30
+      },
+      "307|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 30
+      },
+      "308|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 31
+      },
+      "309|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 31
+      },
+      "310|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 33
+      },
+      "311|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 33
+      },
+      "312|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 80
+      },
+      "313|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 80
+      },
+      "314|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 82
+      },
+      "315|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 82
+      },
+      "316|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 98
+      },
+      "317|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 98
+      },
+      "318|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 99
+      },
+      "319|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 32
+      },
+      "320|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 32
+      },
+      "321|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 48
+      },
+      "323|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 78
+      },
+      "324|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 78
+      },
+      "325|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 34
+      },
+      "326|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 34
+      },
+      "327|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 55
+      },
+      "328|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 73
+      },
+      "329|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 74
+      },
+      "330|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 74
+      },
+      "331|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 76
+      },
+      "332|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 79
+      },
+      "333|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 90
+      },
+      "334|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 47
+      },
+      "335|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 54
+      },
+      "337|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 11
+      },
+      "339|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 13
+      },
+      "341|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 52
+      },
+      "342|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 56
+      },
+      "343|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 66
+      },
+      "344|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 66
+      },
+      "345|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 66
+      },
+      "346|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 64
+      },
+      "347|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 64
+      },
+      "348|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 64
+      },
+      "349|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 61
+      },
+      "350|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 61
+      },
+      "351|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 61
+      },
+      "352|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 62
+      },
+      "353|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 62
+      },
+      "354|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 62
+      },
+      "355|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 63
+      },
+      "356|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 101
+      },
+      "357|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 104
+      },
+      "358|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 49
+      },
+      "360|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 53
+      },
+      "361|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 186
+      },
+      "362|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 186
+      },
+      "363|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 186
+      },
+      "364|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 185
+      },
+      "365|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 185
+      },
+      "366|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 185
+      },
+      "367|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 159,
+        "Skill_2": 205
+      },
+      "368|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 162
+      },
+      "369|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 123,
+        "Skill_2": 206
+      },
+      "370|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 160
+      },
+      "371|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 35
+      },
+      "372|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 36
+      },
+      "373|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 37
+      },
+      "374|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 38
+      },
+      "375|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 39
+      },
+      "376|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 40
+      },
+      "377|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 41
+      },
+      "378|Beta_or_Gamma|Regular|Charm": {
+        "Skill_1": 68
+      }
+    }
+  }
+}

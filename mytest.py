@@ -236,10 +236,10 @@ def encrypt(file_path, output_path):
     return(output_path)
             
 def main():
-    #edit_monsters()
+    edit_monsters()
     #edit_quest()
-    decrypt_quest()
-    encrypt_quest()
+    #decrypt_quest()
+    # encrypt_quest()
     print('done')
 
 main()

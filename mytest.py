@@ -19,20 +19,18 @@ if __name__=="__main__":
     native = path + "\\" + 'nativepc'
 
     #messy stuff from my old code
-    high=['questData_00601','questData_00605', 'questData_00607','questData_00701','questData_00801','questData_00802','questData_00803']
-    base_game= ['questData_00101','questData_00103','questData_00201','questData_00205','questData_00301','questData_00302','questData_00305','questData_00306','questData_00401',
-                'questData_00405','questData_00407','questData_00408','questData_00501','questData_00502','questData_00503']
-    iceborn=['questData_01101','questData_01102','questData_01201','questData_01202','questData_01203','questData_01301','questData_01302',
-            'questData_01303','questData_01304','questData_01305','questData_01401','questData_01402',
-            'questData_01403','questData_01405','questData_01502','questData_01503',
-            'questData_01504']
-    base=['nerg.mib','vaal.mib','teo.mib','kushala.mib','kirin.mib','luna.mib','bazel.mib','jho.mib','azure.mib','black.mib','dodo.mib','diablos.mib','rathalos.mib','odo.mib','legiana.mib',
-    'rathian.mib','rado.mib','pukei.mib','tobi.mib','kulu.mib','tzizi.mib','barroth.mib','great jagras.mib','great girros.mib','paolumu.mib','jyura.mib','pink.mib','anjanath.mib','uragaan.mib','lavasioth.mib']
-
-    dlc=['coral.mib','beo.mib','banbaro.mib','acid.mib','glav.mib','tigrex.mib','narga.mib','barioth.mib','savage.mib','brachy.mib',
-    'fulgur.mib','ruiner.mib','viper.mib','nightshade.mib','shrieking.mib',
-    'ebony.mib','blackveil.mib','seething.mib','gold.mib','silver.mib','brute.mib',
-    'rajang.mib','scarred.mib','zin.mib','nami.mib','velk.mib',"stygian.mib",'furious.mib','frostfang.mib','behemoth.mib',]
+    high=['00601','00605', '00607','00701','00801','00802','00803']
+    base_game= ['00101','00103','00201','00205','00301','00302','00305','00306','00401',
+                '00405','00407','00408','00501','00502','00503']
+    iceborn=['01101','01102','01201','01202','01203','01301','01302',
+            '01303','01304','01305','01401','01402',
+            '01403','01405','01502','01503',
+            '01504']
+    base=[7, 9, 10, 1, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 39]
+    random.shuffle(base)
+    print(base)
+    base_done=len(base)-24
+    dlc=[87, 88, 89, 90, 91, 93, 94, 95, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80,  92, 100]
 
     em_id = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00", "em018_05", "em023_00", "em023_05",
     "em024_00", "em026_00", "em027_00", "em032_00", "em032_01", "em036_00", "em037_00", "em042_00", "em042_05", "em043_00", "em043_05", "em044_00", "em045_00", "em050_00",
@@ -50,6 +48,9 @@ if __name__=="__main__":
     "em107_00", "em108_00", "em109_00", "em109_01", "em110_00", "em110_01", "em111_00", "em111_05", "em112_00", "em113_00", "em113_01", "em114_00", "em115_00",
     "em115_05", "em116_00", "em118_00", "em118_05", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00", "em126_00"]
 
+    murder_quests=['00306','00401','00503', '00504',]
+
+    murder_monsters=[22, 7, 21 , 25]
 
     special_arena=bytearray.fromhex("D4 3B 7A EB 03 C2 99 AF")
     challenge_arena=bytearray.fromhex("C7 12 14 83 70 2A EB 43")
@@ -69,7 +70,7 @@ if __name__=="__main__":
         else:
             temp=[special_arena]
             maps=temp
-    murder_quests=['questData_00306.mib','questData_00401.mib','questData_00503.mib', 'questData_00504.mib',]
+    murder_quests=['00306.mib','00401.mib','00503.mib', '00504.mib',]
     murder_monsters=["uragaan.mib", "great jagras.mib", "barroth.mib" , "nerg.mib"]
 
 def edit_monsters():
@@ -99,13 +100,43 @@ def edit_monsters():
                     mID_2 = replacement[0:5]
                 switch_shells(item, replacement)
 
-def edit_quest():
-    files=next(os.walk(clean))[2]
+def edit_quests():
+    #monster objective at 91
+    #monster spawn at 176
+    files=next(os.walk(clean +"\\" + 'de_quest'))[2]
     file_paths=[]
-    output_paths=[]
     for item in files:
-        file_paths.append(clean +"\\" +'quest\\' + item)
-        output_paths.append(native +"\\" +'quest\\' + item)
+        if (item.endswith('.mib')):
+            file_paths.append(clean +"\\" +'de_quest\\' + item)
+        
+    for item in file_paths:
+        qid=item[-9:]
+        qid=qid[0:5]
+        if (len(base) == base_done):
+            base.extend(dlc)
+        if(qid in murder_monsters):
+            for monstie in base:
+                if monstie not in murder_monsters:
+                    monster=monstie
+                    base.remove(monstie)
+                    break
+        else:
+            monster=base.pop(0)
+        edit_mib(item, monster)
+
+def edit_mib(path, monster):
+    output_path = native +"\\" +'quest\\' + path[-19:]
+    #print(path)
+    #print(output_path)
+    with open(path, 'rb+') as file:
+        file.seek(91)
+        file.write(monster.to_bytes(1, 'big'))
+        file.seek(176)
+        file.write(monster.to_bytes(1, 'big'))
+    encrypt(path, output_path)
+
+
+
 
 def decrypt_quest():
     files=next(os.walk(clean + "\\quest"))[2]
@@ -117,6 +148,19 @@ def decrypt_quest():
        # print(file_paths[-1], output_paths[-1])
         decrypt(file_paths[-1], output_paths[-1])
     #print(output_paths)
+
+def decrypt_shells():
+    """
+    very slow, exists only for science
+    """
+    file_paths=[]
+    for path, subdirs, files in os.walk(clean + "\\em"):
+        for name in files:
+            if name.endswith('.shlp'):
+                file_paths.append(os.path.join(path, name))
+    for item in file_paths:
+        decrypt(item, item+"_de")
+        print('decrypted something')
 
 def encrypt_quest():
     files=next(os.walk(clean + "\\quest"))[2]
@@ -222,7 +266,6 @@ def switch_shells(id1, id2):
 
 
 
-
 def decrypt(file_path, output_path, key=""):
     """
     take file path, decrypt it and send to output path
@@ -232,14 +275,14 @@ def decrypt(file_path, output_path, key=""):
     return('decrypted\\' + file_path)
 
 def encrypt(file_path, output_path):
-    os.system('MHW-Editor.exe ' + '-decrypt ' + file_path + ' ' + output_path)
+    os.system('MHW-Editor.exe ' + '-encrypt ' + file_path + ' ' + output_path)
     return(output_path)
             
 def main():
-    edit_monsters()
-    #edit_quest()
+    #edit_monsters()
     #decrypt_quest()
-    # encrypt_quest()
+    #encrypt_quest()
+    edit_quests()
     print('done')
 
 main()

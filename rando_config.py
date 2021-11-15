@@ -16,11 +16,11 @@ opt_arena = True
 #Randomize enrage speed?
 speed = False
 #Randomize physical attack properties(element/status)?
-random_phys = False
+random_phys = True
 #randomize monster projectiles?
 random_shell = True
 #Add element to attacks that would not normally have it?
-adding_element = False
+adding_element = True
 #what percentage of moves should have element:
 element_percent=4
 #Add status to attacks that would not normally have it?

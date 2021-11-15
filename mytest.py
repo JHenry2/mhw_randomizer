@@ -62,14 +62,14 @@ if __name__=="__main__":
     vale=bytearray.fromhex("E5 1C D5 0E 67 A3 5E 0F")
     recess=bytearray.fromhex("C8 6A 73 EA D2 E7 98 02")
     non_arena=[forest, spire, coral, recess, challenge_arena]
-    maps=[special_arena, alat_arena, seliana]
+    maps=[201,202]
     #icemaps=[alat_arena, seliana]
-    if opt_arena == False:
-        for item in non_arena:
-            maps.append(item)
-        else:
-            temp=[special_arena]
-            maps=temp
+    #if opt_arena == False:
+     #   for item in non_arena:
+      #      maps.append(item)
+       # else:
+        #    temp=[special_arena]
+         #   maps=temp
     murder_quests=['00306.mib','00401.mib','00503.mib', '00504.mib',]
     murder_monsters=["uragaan.mib", "great jagras.mib", "barroth.mib" , "nerg.mib"]
 
@@ -101,6 +101,7 @@ def edit_monsters():
                 switch_shells(item, replacement)
 
 def edit_quests():
+    #map id at 27
     #monster objective at 91
     #monster spawn at 176
     files=next(os.walk(clean +"\\" + 'de_quest'))[2]
@@ -114,7 +115,7 @@ def edit_quests():
         qid=qid[0:5]
         if (len(base) == base_done):
             base.extend(dlc)
-        if(qid in murder_monsters):
+        if(qid in murder_quests):
             for monstie in base:
                 if monstie not in murder_monsters:
                     monster=monstie
@@ -129,6 +130,8 @@ def edit_mib(path, monster):
     #print(path)
     #print(output_path)
     with open(path, 'rb+') as file:
+        file.seek(27)
+        file.write(random.choice(maps).to_bytes(1, "big"))
         file.seek(91)
         file.write(monster.to_bytes(1, 'big'))
         file.seek(176)
@@ -279,7 +282,7 @@ def encrypt(file_path, output_path):
     return(output_path)
             
 def main():
-    #edit_monsters()
+    edit_monsters()
     #decrypt_quest()
     #encrypt_quest()
     edit_quests()

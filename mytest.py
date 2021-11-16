@@ -38,15 +38,27 @@ if __name__=="__main__":
     "em107_00", "em108_00", "em109_00", "em109_01", "em110_00", "em110_01", "em111_00", "em111_05", "em112_00", "em113_00", "em113_01", "em114_00", "em115_00",
     "em115_05", "em116_00", "em118_00", "em118_05", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00", "em126_00"]
     #leshen em127_00 ?
-    #"em102_00",	"em102_01", pukeis?
-    em_good_projectiles = ["em013_00", "em024_00",  "em026_00", "em027_00", "em032_01", "em036_00", "em042_00" "em042_05", "em050_00", "em057_00", "em057_01",	 
-                           "em100_00", 	"em102_00",	"em102_01", "em115_00", "em124_00",  "em126_00", "em127_00"]                          
+    #"em102_00",	"em102_01", pukeis? frostfang? "em42_05"
+
+    #needs to be tested
+    #em_good_projectiles = ["em013_00", "em024_00",  "em026_00", "em027_00", "em032_01", "em036_00", "em042_00",  "em050_00", "em057_00", "em057_01",	 
+    #                       "em100_00", 	"em102_00",	"em102_01", "em105_00"] 
+
+    #paused = "em126_00", "em127_00",  "em124_00" # "em042_00", try frostfang instead
+    #tested to a mostly working degree
+    em_good_projectiles = ["em115_00", "em102_00"]
+    # tested, needs garbage filtered might have unlucky crashes
+    #em_good_projectiles = ["em027_00"]                       
+
+    #active
+    #em_good_projectiles=["em102_00"]
+
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
     "em024_00", "em026_00", "em027_00", "em032_00", "em032_01", "em036_00", "em037_00", "em042_00", "em042_05", "em043_00", "em043_05", "em044_00", "em045_00", "em050_00",
     "em057_00", "em057_01", "em063_00", "em063_05", "em080_00", "em080_01", "em100_00", "em100_01", "em102_00", "em102_01", "em103_00", "em103_05",
     "em107_00", "em108_00", "em109_00", "em109_01", "em110_00", "em110_01", "em111_00", "em111_05", "em112_00", "em113_00", "em113_01", "em114_00", "em115_00",
-    "em115_05", "em116_00", "em118_00", "em118_05", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00", "em126_00"]
+    "em115_05", "em116_00", "em118_00", "em118_05", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00"]
 
     murder_quests=['00306','00401','00503', '00504',]
 
@@ -61,8 +73,9 @@ if __name__=="__main__":
     coral=bytearray.fromhex("23 8C 88 0D C4 45 D0 60")
     vale=bytearray.fromhex("E5 1C D5 0E 67 A3 5E 0F")
     recess=bytearray.fromhex("C8 6A 73 EA D2 E7 98 02")
-    non_arena=[forest, spire, coral, recess, challenge_arena]
-    maps=[201,202]
+    non_arena=[forest, spire, coral, recess, ]
+    maps=[201, 412, 416]
+    maps=[412]
     #icemaps=[alat_arena, seliana]
     #if opt_arena == False:
      #   for item in non_arena:
@@ -99,6 +112,13 @@ def edit_monsters():
                     replacement = random.choice(em_good_projectiles)
                     mID_2 = replacement[0:5]
                 switch_shells(item, replacement)
+        else:
+            if item in em_has_projectiles:
+                #random.choice(em_id)
+                replacement = random.choice(em_good_projectiles)
+                mID_2 = replacement[0:5]
+
+                switch_shells(item, item)
 
 def edit_quests():
     #map id at 27
@@ -131,14 +151,12 @@ def edit_mib(path, monster):
     #print(output_path)
     with open(path, 'rb+') as file:
         file.seek(27)
-        file.write(random.choice(maps).to_bytes(1, "big"))
+        file.write(random.choice(maps).to_bytes(2, "little"))
         file.seek(91)
-        file.write(monster.to_bytes(1, 'big'))
+        file.write(monster.to_bytes(1, 'little'))
         file.seek(176)
-        file.write(monster.to_bytes(1, 'big'))
+        file.write(monster.to_bytes(1, 'little'))
     encrypt(path, output_path)
-
-
 
 
 def decrypt_quest():
@@ -199,19 +217,19 @@ def edit_phys_col(id, file_path,  element=0, status=0):
         #print(contents.find(atk))
         file.seek(contents.find(atk))
         file.seek(8,1)
-        move_count = int.from_bytes(file.read(1), "big")
+        move_count = int.from_bytes(file.read(1), "little")
         file.seek(10,1)
         #get ready to add status
         for num in range(move_count):
             #element id is at position 39
             file.seek(39,1)
-            cur_el=int.from_bytes(file.read(1), "big")
+            cur_el=int.from_bytes(file.read(1), "little")
             if cur_el != 0:
                 file.seek(-1, 1)
-                file.write(element.to_bytes(1, "big"))
+                file.write(element.to_bytes(1, "little"))
             elif (adding_element == True) and (num % element_percent == 0):
                 file.seek(-1, 1)
-                file.write(element.to_bytes(1, "big"))
+                file.write(element.to_bytes(1, "little"))
 
 
             file.seek(3,1)
@@ -236,13 +254,19 @@ def switch_shells(id1, id2):
     """
     takes two monster ids, copies shells from id2 to id1
     """
+    loud=False
     mID = id1[0:5]
     subID = id1[6:8]
+    #id2=id1 # for fixing fuckups
     mID_2 = id2[0:5]
     subID_2 = id2[6:8]
 
+    #debug, set to monster problems are happening with
+    if(id1 == 'em026_00'):
+        loud=True
+        random.seed('anus')
     path_1=native + '\\' + 'em' + "\\" + mID + "\\" +subID + '\\shell'
-    path_2=clean + '\\' + 'em' + "\\" + mID_2 + "\\" +subID_2 + '\\shell' 
+    path_2= clean + '\\' + 'em' + "\\" + mID_2 + "\\" +subID_2 + '\\shell' 
 
     shells_1=[]
     shells_2=[]
@@ -259,14 +283,43 @@ def switch_shells(id1, id2):
     if len(shells_2) == 0:
         print(id2)
         return
-    for shell in shells_1:
-        replaced=open(shell, 'wb')
-        replacer=open(random.choice(shells_2), 'rb+')
-        #print(replacer.name)
-        shutil.copyfileobj(replacer, replaced)
-        replaced.close()
-        replacer.close()
+    for index, shell in enumerate(shells_1):
+        gurt=random.choice(shells_2)
 
+        #print(replacer.name)
+        #shutil.copy(shells_2[index], shell)
+        if (id1 != id2):
+            shutil.copy(gurt, shell)
+        else:
+            shutil.copy(shells_2[index], shell)
+        #shutil.copyfileobj(replacer, replaced)
+        if loud:
+            #print(shell)
+            print(gurt)
+
+def rename_sobj():
+    file_paths=[]
+    output_paths=[]
+    for path, subdirs, files in os.walk(os.getcwd() +"\\" + 'test_env\\sobj'):
+        for name in files:
+            file_paths.append(os.path.join(path, name))
+            output_paths.append(os.path.join(path, name[0:-11]+'412_00.sobj'))
+    for index, file in enumerate(file_paths):
+        os.rename(file, output_paths[index])
+
+def update_sobjl(sobjl, n_sobjl):
+    """
+    only works for replacing 3 characters
+    """
+    path = clean + "\\quest\\enemy\\zako\\" + sobjl
+    #how many entries
+    count=59
+    with open(path, 'rb+') as file:
+        file.seek(52)
+        file.write(n_sobjl.encode(encoding='ascii'))
+        for x in range(count):
+            file.seek(48,1)
+            file.write(n_sobjl.encode(encoding='ascii'))
 
 
 def decrypt(file_path, output_path, key=""):
@@ -285,7 +338,8 @@ def main():
     edit_monsters()
     #decrypt_quest()
     #encrypt_quest()
-    edit_quests()
+    #edit_quests()
     print('done')
 
 main()
+#update_sobjl('zako_st412.sobjl', '412')

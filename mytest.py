@@ -307,6 +307,24 @@ def rename_sobj():
     for index, file in enumerate(file_paths):
         os.rename(file, output_paths[index])
 
+def truncate_sobj():
+    """
+    removes desire setter data from sobjs
+    """
+    file_paths=[]
+    zero=0
+    one=1
+    for path, subdirs, files in os.walk(native +"\\" + 'quest\\enemy\\boss'):
+        for name in files:
+            file_paths.append(os.path.join(path, name))
+    for file in file_paths:
+        with open(file, 'rb+') as f:
+            f.seek(20)
+            f.write(one.to_bytes(1, 'little'))
+            f.seek(403)
+            f.truncate()
+
+
 def update_sobjl(sobjl, n_sobjl):
     """
     only works for replacing 3 characters
@@ -341,5 +359,6 @@ def main():
     #edit_quests()
     print('done')
 
-main()
+#main()
+truncate_sobj()
 #update_sobjl('zako_st412.sobjl', '412')

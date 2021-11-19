@@ -3,18 +3,11 @@
 
 # base randomizer options
 seed = ""
-#Enable "reaosnable" size randomization
+#Enable ize randomization
 size = True
-#Enable extreme size randomization
-wacky = False
-#Iceborn monsters in low/high rank? experimental, reccomend False
-mixed = False
-#enable boss quests?
-boss = False
-#Special Arena only?
-opt_arena = True
-#Randomize enrage speed?
-speed = False
+#minimum and maximum size for size randomization, max_size must be 1 higher than what you really want
+min_size=70
+max_size=131
 #Randomize physical attack properties(element/status)?
 random_phys = True
 #randomize monster projectiles?
@@ -27,3 +20,15 @@ element_percent=4
 adding_status = True
 #What percentage of moves should have status (for one in four, put 4 as the value)
 status_percent = 4
+
+
+
+########## Experimental/NYI Settings #########
+#Iceborn monsters in low/high rank? experimental, reccomend False
+mixed = False
+#enable boss quests?
+boss = False
+#Special Arena only?
+opt_arena = True
+#Randomize enrage speed?
+speed = False

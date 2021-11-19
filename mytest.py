@@ -27,10 +27,14 @@ if __name__=="__main__":
             '01403','01405','01502','01503',
             '01504']
     base=[7, 9, 10, 1, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 39]
-    random.shuffle(base)
     print(base)
     base_done=len(base)-24
     dlc=[87, 88, 89, 90, 91, 93, 94, 95, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80,  92, 100]
+    if mixed==True:
+        base.extend(dlc)
+        random.shuffle(base)
+    else:
+        random.shuffle(base)
 
    # em_to_id={"em001_00": 9, "em001_01" : 10, "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00", "em018_05", "em023_00", "em023_05",
    # "em024_00", "em026_00", "em027_00", "em032_00", "em032_01", "em036_00", "em037_00", "em042_00", "em042_05", "em043_00", "em043_05", "em044_00", "em045_00", "em050_00",
@@ -47,17 +51,18 @@ if __name__=="__main__":
     #"em102_00",	"em102_01", pukeis? frostfang? "em42_05"
 
     #needs to be tested
-    #em_good_projectiles = ["em013_00", "em024_00",  "em026_00", "em027_00", "em032_01", "em036_00", "em042_00",  "em050_00", "em057_00", "em057_01",	 
-    #                       "em100_00", 	"em102_00",	"em102_01", "em105_00"] 
+    #em_good_projectiles = ["em013_00", "em024_00",  "em026_00", "em027_00", "em032_01",
+    #                       "em036_00", "em050_00", "em057_00", "em057_01",	 
+    #                       "em100_00", "em102_01"] 
 
     #paused = "em126_00", "em127_00",  "em124_00" # "em042_00", try frostfang instead
     #tested to a mostly working degree
-    em_good_projectiles = ["em115_00", "em102_00", 'em042_05']
+    em_good_projectiles = ["em050_00", "em105_00", "em115_00", "em102_00", 'em042_05']
     # tested, needs garbage filtered might have unlucky crashes
     #em_good_projectiles = ["em027_00"]                       
 
     #active
-    em_good_projectiles=["em105_00"]
+    #em_good_projectiles=["em050_00", "em105_00"]
 
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
@@ -70,20 +75,10 @@ if __name__=="__main__":
 
     murder_monsters=[22, 7, 21 , 25]
 
-    special_arena=bytearray.fromhex("D4 3B 7A EB 03 C2 99 AF")
-    challenge_arena=bytearray.fromhex("C7 12 14 83 70 2A EB 43")
-    alat_arena=bytearray.fromhex("FE 9E C2 93 DD 92 CA 0D")
-    seliana=bytearray.fromhex("A0 62 CB 99 34 FB AC D3")
-    forest=bytearray.fromhex("94 6C A8 7D 41 02 48 4F")
-    spire=bytearray.fromhex("1A 8D 25 57 CD 6E EE A6")
-    coral=bytearray.fromhex("23 8C 88 0D C4 45 D0 60")
-    vale=bytearray.fromhex("E5 1C D5 0E 67 A3 5E 0F")
-    recess=bytearray.fromhex("C8 6A 73 EA D2 E7 98 02")
-    non_arena=[forest, spire, coral, recess, ]
     all_maps=[101, 102, 103, 104, 105, 108, 109, 201, 202, 405, 412, 416, 411]
     known_maps=[201, 202, 411, 412, 416]
     maps=[201, 202, 412, 416]
-    maps=[202]
+    #maps=[202]
     #icemaps=[alat_arena, seliana]
     #if opt_arena == False:
      #   for item in non_arena:
@@ -91,8 +86,7 @@ if __name__=="__main__":
        # else:
         #    temp=[special_arena]
          #   maps=temp
-    murder_quests=['00306.mib','00401.mib','00503.mib', '00504.mib',]
-    murder_monsters=["uragaan.mib", "great jagras.mib", "barroth.mib" , "nerg.mib"]
+
 
 def edit_monsters():
     """
@@ -134,6 +128,7 @@ def edit_quests():
     #monster spawn at 176
     files=next(os.walk(clean +"\\" + 'de_quest'))[2]
     file_paths=[]
+
     for item in files:
         if (item.endswith('.mib')):
             file_paths.append(clean +"\\" +'de_quest\\' + item)
@@ -141,8 +136,9 @@ def edit_quests():
     for item in file_paths:
         qid=item[-9:]
         qid=qid[0:5]
-        if (len(base) == base_done):
+        if (len(base) == base_done and mixed == False):
             base.extend(dlc)
+            random.shuffle(base)
         if(qid in murder_quests):
             for monstie in base:
                 if monstie not in murder_monsters:
@@ -155,6 +151,10 @@ def edit_quests():
 
 def edit_mib(path, monster):
     output_path = native +"\\" +'quest\\' + path[-19:]
+    if size:
+        my_size=random.randrange(min_size, max_size)
+    else:
+        my_size=100
     #print(path)
     #print(output_path)
     with open(path, 'rb+') as file:
@@ -164,6 +164,9 @@ def edit_mib(path, monster):
         file.write(monster.to_bytes(1, 'little'))
         file.seek(176)
         file.write(monster.to_bytes(1, 'little'))
+        file.seek(205)
+        file.write(my_size.to_bytes(1, 'little'))
+
     encrypt(path, output_path)
 
 
@@ -209,6 +212,8 @@ def edit_phys_col(id, file_path,  element=0, status=0):
     """
     mID = id[0:5]
     subID = id[6:8]
+    zero=0
+
     if subID == "05":
         return()
     original=clean + '\\' + 'em' + "\\" + mID + "\\" +subID + file_path
@@ -225,28 +230,30 @@ def edit_phys_col(id, file_path,  element=0, status=0):
         #print(contents.find(atk))
         file.seek(contents.find(atk))
         file.seek(8,1)
-        move_count = int.from_bytes(file.read(1), "little")
-        file.seek(10,1)
+        move_count = int.from_bytes(file.read(4), "little")
+        file.seek(4,1)
         #get ready to add status
         for num in range(move_count):
             #element id is at position 39
-            file.seek(33,1)
+            file.seek(36,1)
             cur_el=int.from_bytes(file.read(1), "little")
             if cur_el != 0:
                 file.seek(-1, 1)
-                file.write(element.to_bytes(1, "little"))
+                file.write(element.to_bytes(4, "little"))
             elif (adding_element == True) and (num % element_percent == 0):
                 file.seek(-1, 1)
-                file.write(element.to_bytes(1, "little"))
+                file.write(element.to_bytes(4, "little"))
+            else:
+                file.seek(-1, 1)
+                file.write(zero.to_bytes(4, "little"))                
 
-
-            file.seek(3,1)
-            file.seek(4,1)
+            file.seek(8,1)
 
             statpos=file.tell()
             #status assingments
             if(num % status_percent == 0 or num==0) and adding_status:
                 for item in range(9):
+                    file.seek(2,1)
                     cur_stat=file.read(2)
                     file.seek(-2, 1)
                     if item == status:
@@ -255,8 +262,7 @@ def edit_phys_col(id, file_path,  element=0, status=0):
                         file.write(bytes.fromhex('0000'))
                     if item == 6:
                         file.seek(2,1)
-                    file.seek(2,1)
-            file.seek(statpos+124)
+            file.seek(statpos+123)
             
 def switch_shells(id1, id2):
     """
@@ -272,7 +278,7 @@ def switch_shells(id1, id2):
     #debug, set to monster problems are happening with
     if(id1 == 'em026_00'):
         loud=True
-        random.seed('anus')
+        #random.seed('anus')
         #id2='em042_05'
         #mID_2 = id2[0:5]
         #subID_2 = id2[6:8]
@@ -385,8 +391,20 @@ def edit_alnk(alnk):
                     f.write(dont_move)
             f.truncate()
 
+def clean_data():
+    """
+    remove most unnecessary files from the data folder
+    """
+    trash=['.thk', '.actp2']
+    file_paths=[]
+    for path, subdirs, files in os.walk(native +"\\" + 'em'):
+        for name in files:
+            for item in trash:
+                if(name.endswith(item)):
+                    file_paths.append(os.path.join(path, name))
 
-
+    for item in file_paths:
+        os.remove(item)
     
 def decrypt(file_path, output_path, key=""):
     """
@@ -409,6 +427,7 @@ def main():
 
 main()
 
+#clean_data()
 #edit_alnk(get_alnk())
 #truncate_sobj()
 #update_sobjl('zako_st412.sobjl', '412')

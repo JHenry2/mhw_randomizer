@@ -230,7 +230,7 @@ def edit_phys_col(id, file_path,  element=0, status=0):
         #get ready to add status
         for num in range(move_count):
             #element id is at position 39
-            file.seek(39,1)
+            file.seek(33,1)
             cur_el=int.from_bytes(file.read(1), "little")
             if cur_el != 0:
                 file.seek(-1, 1)

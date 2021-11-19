@@ -32,6 +32,12 @@ if __name__=="__main__":
     base_done=len(base)-24
     dlc=[87, 88, 89, 90, 91, 93, 94, 95, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80,  92, 100]
 
+   # em_to_id={"em001_00": 9, "em001_01" : 10, "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00", "em018_05", "em023_00", "em023_05",
+   # "em024_00", "em026_00", "em027_00", "em032_00", "em032_01", "em036_00", "em037_00", "em042_00", "em042_05", "em043_00", "em043_05", "em044_00", "em045_00", "em050_00",
+    #"em057_00", "em057_01", "em063_00", "em063_05", "em080_00", "em080_01", "em100_00", "em100_01", "em102_00", "em102_01", "em103_00", "em103_05",
+    #"em107_00", "em108_00", "em109_00", "em109_01", "em110_00", "em110_01", "em111_00", "em111_05", "em112_00", "em113_00", "em113_01", "em114_00", "em115_00",
+    #"em115_05", "em116_00", "em118_00", "em118_05", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00", "em126_00"]}
+
     em_id = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00", "em018_05", "em023_00", "em023_05",
     "em024_00", "em026_00", "em027_00", "em032_00", "em032_01", "em036_00", "em037_00", "em042_00", "em042_05", "em043_00", "em043_05", "em044_00", "em045_00", "em050_00",
     "em057_00", "em057_01", "em063_00", "em063_05", "em080_00", "em080_01", "em100_00", "em100_01", "em102_00", "em102_01", "em103_00", "em103_05",
@@ -46,12 +52,12 @@ if __name__=="__main__":
 
     #paused = "em126_00", "em127_00",  "em124_00" # "em042_00", try frostfang instead
     #tested to a mostly working degree
-    em_good_projectiles = ["em115_00", "em102_00"]
+    em_good_projectiles = ["em115_00", "em102_00", 'em042_05']
     # tested, needs garbage filtered might have unlucky crashes
     #em_good_projectiles = ["em027_00"]                       
 
     #active
-    #em_good_projectiles=["em102_00"]
+    em_good_projectiles=["em105_00"]
 
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
@@ -74,8 +80,10 @@ if __name__=="__main__":
     vale=bytearray.fromhex("E5 1C D5 0E 67 A3 5E 0F")
     recess=bytearray.fromhex("C8 6A 73 EA D2 E7 98 02")
     non_arena=[forest, spire, coral, recess, ]
-    maps=[201, 412, 416]
-    maps=[412]
+    all_maps=[101, 102, 103, 104, 105, 108, 109, 201, 202, 405, 412, 416, 411]
+    known_maps=[201, 202, 411, 412, 416]
+    maps=[201, 202, 412, 416]
+    maps=[202]
     #icemaps=[alat_arena, seliana]
     #if opt_arena == False:
      #   for item in non_arena:
@@ -265,6 +273,9 @@ def switch_shells(id1, id2):
     if(id1 == 'em026_00'):
         loud=True
         random.seed('anus')
+        #id2='em042_05'
+        #mID_2 = id2[0:5]
+        #subID_2 = id2[6:8]
     path_1=native + '\\' + 'em' + "\\" + mID + "\\" +subID + '\\shell'
     path_2= clean + '\\' + 'em' + "\\" + mID_2 + "\\" +subID_2 + '\\shell' 
 
@@ -339,7 +350,44 @@ def update_sobjl(sobjl, n_sobjl):
             file.seek(48,1)
             file.write(n_sobjl.encode(encoding='ascii'))
 
+def get_alnk():
+    """
+    gets lits of all alnk files
+    """
+    file_paths=[]
+    for path, subdirs, files in os.walk(native +"\\" + 'em'):
+        for name in files:
+            if(name.endswith('.dtt_alnk')):
+                file_paths.append(os.path.join(path, name))
+    return file_paths
 
+def edit_alnk(alnk):
+    """
+    edits alnks to be empty-ish so monsters shouldn't move
+    """
+    map_count=len(all_maps)
+    one=1
+    with open(os.getcwd()+'\\dont_move', 'rb+') as f:
+        dont_move=f.read()
+    for item in alnk:
+        with open(item, 'rb+') as f:
+            f.seek(40)
+            f.write(map_count.to_bytes(4, 'little'))
+            for map in all_maps:
+                f.write(map.to_bytes(4, 'little'))
+                f.write(one.to_bytes(4, 'little'))
+                f.write(map.to_bytes(4, 'little'))
+                if map in known_maps:
+                    with open(os.getcwd()+'\\maps\\' + str(map), 'rb+') as file:
+                        contents=file.read()
+                        f.write(contents)
+                else:
+                    f.write(dont_move)
+            f.truncate()
+
+
+
+    
 def decrypt(file_path, output_path, key=""):
     """
     take file path, decrypt it and send to output path
@@ -356,9 +404,11 @@ def main():
     edit_monsters()
     #decrypt_quest()
     #encrypt_quest()
-    #edit_quests()
+    edit_quests()
     print('done')
 
-#main()
-truncate_sobj()
+main()
+
+#edit_alnk(get_alnk())
+#truncate_sobj()
 #update_sobjl('zako_st412.sobjl', '412')

@@ -12,6 +12,8 @@ max_size=131
 random_phys = True
 #randomize monster projectiles?
 random_shell = True
+#take shells from all monsters(?) or only one
+mixed_shell = False
 #Add element to attacks that would not normally have it?
 adding_element = True
 #what percentage of moves should have element:
@@ -25,7 +27,7 @@ status_percent = 4
 
 ########## Experimental/NYI Settings #########
 #Iceborn monsters in low/high rank? experimental, reccomend False
-mixed = False
+mixed = True
 #enable boss quests?
 boss = False
 #Special Arena only?

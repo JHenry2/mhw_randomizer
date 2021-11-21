@@ -12,7 +12,11 @@ if __name__=="__main__":
     #string atk in bytes, use to locate start of attack array
     atk = bytes.fromhex('41544B00')
     #poison, deadly poison, para, sleep, blast, slime, stun, bleed, miasma
-    status_id = [0,1,2,34,5,6,7,8]
+    status_id = [0,1,2,3,4,5,6,7,8]
+    spam_receivers=[]
+    spam_senders=[]
+    all_shells=[]
+
     path = os.getcwd()
     editor = path + "\\" + 'test_env' + "\\" +'MHW-Editor.exe'
     clean = path + "\\" + 'clean'
@@ -57,12 +61,12 @@ if __name__=="__main__":
 
     #paused = "em126_00", "em127_00",  "em124_00" # "em042_00", try frostfang instead
     #tested to a mostly working degree
-    em_good_projectiles = ["em050_00", "em105_00", "em115_00", "em102_00", 'em042_05']
+    em_good_projectiles = ["em036_00", "em050_00", "em105_00", "em108_00", "em115_00", "em102_00", 'em042_05']
     # tested, needs garbage filtered might have unlucky crashes
     #em_good_projectiles = ["em027_00"]                       
 
     #active
-    #em_good_projectiles=["em050_00", "em105_00"]
+    em_good_projectiles=["em036_00", 'em108_00']
 
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
@@ -75,10 +79,12 @@ if __name__=="__main__":
 
     murder_monsters=[22, 7, 21 , 25]
 
-    all_maps=[101, 102, 103, 104, 105, 108, 109, 201, 202, 405, 412, 416, 411]
-    known_maps=[201, 202, 411, 412, 416]
-    maps=[201, 202, 412, 416]
-    #maps=[202]
+    all_maps=[101, 102, 103, 104, 105, 108, 109, 201, 202, 203, 405, 411, 412, 413, 416,]
+    unkown_maps=[101, 102, 103, 104, 105]
+    known_maps=[ 201, 202, 411, 412, 413]
+    maps=[201, 202, 203, 412, 413]
+    mute=[203, 411, 412, 413, 416]
+    #maps=[413]
     #icemaps=[alat_arena, seliana]
     #if opt_arena == False:
      #   for item in non_arena:
@@ -87,6 +93,13 @@ if __name__=="__main__":
         #    temp=[special_arena]
          #   maps=temp
 
+def declare_spam():
+    global spam_senders  
+    spam_senders = [ 'gurt'
+
+
+
+    ]   
 
 def edit_monsters():
     """
@@ -121,6 +134,16 @@ def edit_monsters():
                 mID_2 = replacement[0:5]
 
                 switch_shells(item, item)
+
+def populate_sh():
+    for monster in em_good_projectiles:
+        mID = monster[0:5]
+        subID = monster[6:8]
+        path_2= clean + '\\' + 'em' + "\\" + mID + "\\" + subID + '\\shell' 
+        for path, subdirs, files in os.walk(path_2):
+            for name in files:
+                if name.endswith('.shlp'):
+                    all_shells.append(os.path.join(path, name))
 
 def edit_quests():
     #map id at 27
@@ -157,9 +180,18 @@ def edit_mib(path, monster):
         my_size=100
     #print(path)
     #print(output_path)
+    eighteen=24
+    zero=0
+    my_map=random.choice(maps)
     with open(path, 'rb+') as file:
         file.seek(27)
-        file.write(random.choice(maps).to_bytes(2, "little"))
+        file.write(my_map.to_bytes(2, "little"))
+        if my_map in mute:
+            file.seek(124)
+            file.write(eighteen.to_bytes(1, 'little'))
+        else:
+            file.seek(124)
+            file.write(zero.to_bytes(1, 'little'))
         file.seek(91)
         file.write(monster.to_bytes(1, 'little'))
         file.seek(176)
@@ -275,8 +307,10 @@ def switch_shells(id1, id2):
     mID_2 = id2[0:5]
     subID_2 = id2[6:8]
 
+    print(mID + subID + " " +mID_2 + subID_2)
     #debug, set to monster problems are happening with
     if(id1 == 'em026_00'):
+        pass
         loud=True
         #random.seed('anus')
         #id2='em042_05'
@@ -287,32 +321,54 @@ def switch_shells(id1, id2):
 
     shells_1=[]
     shells_2=[]
-   # shells_1 = [path_1 for f in os.scandir(path) if f.is_dir()]
-   # shells_2 = [path_2 for f in os.scandir(path) if f.is_dir()]
-    for path, subdirs, files in os.walk(path_1):
-        for name in files:
-            if name.endswith('.shlp'):
-                shells_1.append(os.path.join(path, name))
-    for path, subdirs, files in os.walk(path_2):
-        for name in files:
-            if name.endswith('.shlp'):
-                shells_2.append(os.path.join(path, name))
-    if len(shells_2) == 0:
-        print(id2)
-        return
-    for index, shell in enumerate(shells_1):
-        gurt=random.choice(shells_2)
+    if mixed_shell==False:
+    # shells_1 = [path_1 for f in os.scandir(path) if f.is_dir()]
+    # shells_2 = [path_2 for f in os.scandir(path) if f.is_dir()]
+        for path, subdirs, files in os.walk(path_1):
+            for name in files:
+                if name.endswith('.shlp'):
+                    shells_1.append(os.path.join(path, name))
+        for path, subdirs, files in os.walk(path_2):
+            for name in files:
+                if name.endswith('.shlp'):
+                    shells_2.append(os.path.join(path, name))
+        if len(shells_2) == 0:
+            print(id2)
+            return
+        for index, shell in enumerate(shells_1):
+            gurt=random.choice(shells_2)
 
-        #print(replacer.name)
-        #shutil.copy(shells_2[index], shell)
-        if (id1 != id2):
+            #print(replacer.name)
+            #shutil.copy(shells_2[index], shell)
+            if (id1 != id2):
+                shutil.copy(gurt, shell)
+            else:
+                shutil.copy(shells_2[index], shell)
+            #shutil.copyfileobj(replacer, replaced)
+            if loud:
+                #print(shell)
+                #print(gurt)
+                pass
+    else:
+        for path, subdirs, files in os.walk(path_1):
+            for name in files:
+                if name.endswith('.shlp'):
+                    shells_1.append(os.path.join(path, name))
+        for index, shell in enumerate(shells_1):
+            gurt=random.choice(all_shells)
+            myID = gurt[-13:-8]
+            if(len(myID) != 5):
+                print(myID)
+            while(myID == mID):
+                    gurt=random.choice(all_shells)
+                    myID = gurt[-13:-8]
+            
             shutil.copy(gurt, shell)
-        else:
-            shutil.copy(shells_2[index], shell)
-        #shutil.copyfileobj(replacer, replaced)
-        if loud:
-            #print(shell)
-            print(gurt)
+            #shutil.copyfileobj(replacer, replaced)
+            if loud:
+                #print(shell)
+                #print(gurt)
+                pass
 
 def rename_sobj():
     file_paths=[]
@@ -320,7 +376,7 @@ def rename_sobj():
     for path, subdirs, files in os.walk(os.getcwd() +"\\" + 'test_env\\sobj'):
         for name in files:
             file_paths.append(os.path.join(path, name))
-            output_paths.append(os.path.join(path, name[0:-11]+'412_00.sobj'))
+            output_paths.append(os.path.join(path, name[0:-11]+'203_00.sobj'))
     for index, file in enumerate(file_paths):
         os.rename(file, output_paths[index])
 
@@ -346,7 +402,7 @@ def update_sobjl(sobjl, n_sobjl):
     """
     only works for replacing 3 characters
     """
-    path = clean + "\\quest\\enemy\\zako\\" + sobjl
+    path = native + "\\quest\\enemy\\zako\\" + sobjl
     #how many entries
     count=59
     with open(path, 'rb+') as file:
@@ -419,6 +475,7 @@ def encrypt(file_path, output_path):
     return(output_path)
             
 def main():
+    populate_sh()
     edit_monsters()
     #decrypt_quest()
     #encrypt_quest()
@@ -427,7 +484,11 @@ def main():
 
 main()
 
+#declare_spam()
+#print(spam_senders)
+
 #clean_data()
-#edit_alnk(get_alnk())
+#(get_alnk())
 #truncate_sobj()
-#update_sobjl('zako_st412.sobjl', '412')
+#rename_sobj()
+#update_sobjl('zako_st203.sobjl', '203')

@@ -61,19 +61,26 @@ if __name__=="__main__":
 
     #paused = "em126_00", "em127_00",  "em124_00" # "em042_00", try frostfang instead
     #tested to a mostly working degree
-    em_good_projectiles = ["em036_00", "em050_00", "em105_00", "em108_00", "em115_00", "em102_00", 'em042_05']
+    em_good_projectiles = ["em036_00", "em050_00", "em105_00",  "em115_00", "em102_00", 'em042_05']
+    if mixed_shell:
+        em_good_projectiles.extend(["em027_00","em108_00"])
+    spam=['em011_00', 'em057_01']
+    persistent=['em042_05']
+    #if the shell id is 3 digits, cut out the 3
+    forbidden=['em042_09.shlp', 'em042_10.shlp', 'em042_11.shlp', 'em042_12.shlp','em042_14.shlp','em042_41.shlp','em042_43.shlp']
     # tested, needs garbage filtered might have unlucky crashes
     #em_good_projectiles = ["em027_00"]                       
 
     #active
-    em_good_projectiles=["em036_00", 'em108_00']
+    #em_good_projectiles=["em036_00", 'em108_00']
 
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
     "em024_00", "em026_00", "em027_00", "em032_00", "em032_01", "em036_00", "em037_00", "em042_00", "em042_05", "em043_00", "em043_05", "em044_00", "em045_00", "em050_00",
     "em057_00", "em057_01", "em063_00", "em063_05", "em080_00", "em080_01", "em100_00", "em100_01", "em102_00", "em102_01", "em103_00", "em103_05",
     "em107_00", "em108_00", "em109_00", "em109_01", "em110_00", "em110_01", "em111_00", "em111_05", "em112_00", "em113_00", "em113_01", "em114_00", "em115_00",
-    "em115_05", "em116_00", "em118_00", "em118_05", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00"]
+    "em115_05", "em116_00", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00"]
+    #"em118_00", "em118_05",
 
     murder_quests=['00306','00401','00503', '00504',]
 
@@ -93,13 +100,6 @@ if __name__=="__main__":
         #    temp=[special_arena]
          #   maps=temp
 
-def declare_spam():
-    global spam_senders  
-    spam_senders = [ 'gurt'
-
-
-
-    ]   
 
 def edit_monsters():
     """
@@ -337,7 +337,9 @@ def switch_shells(id1, id2):
             return
         for index, shell in enumerate(shells_1):
             gurt=random.choice(shells_2)
-
+            while ((id1 in spam) and gurt[-13:] in forbidden):
+                    gurt=random.choice(shells_2)
+                    myID = gurt[-13:-8]
             #print(replacer.name)
             #shutil.copy(shells_2[index], shell)
             if (id1 != id2):
@@ -362,14 +364,20 @@ def switch_shells(id1, id2):
             while(myID == mID):
                     gurt=random.choice(all_shells)
                     myID = gurt[-13:-8]
-            
+            while ((id1 in spam) and gurt[-13:] in forbidden):
+                    gurt=random.choice(all_shells)
+                    myID = gurt[-13:-8]
             shutil.copy(gurt, shell)
             #shutil.copyfileobj(replacer, replaced)
             if loud:
                 #print(shell)
                 #print(gurt)
                 pass
-
+    if mixed_shell:
+        print(mID + subID + " " + myID)
+    else:
+        print(mID + subID + " " +mID_2 + subID_2)
+    
 def rename_sobj():
     file_paths=[]
     output_paths=[]
@@ -484,6 +492,7 @@ def main():
 
 main()
 
+#decrypt_shells()
 #declare_spam()
 #print(spam_senders)
 

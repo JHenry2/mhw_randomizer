@@ -13,7 +13,7 @@ random_phys = True
 #randomize monster projectiles?
 random_shell = True
 #take shells from all monsters(?) or only one
-mixed_shell = False
+mixed_shell = True
 #Add element to attacks that would not normally have it?
 adding_element = True
 #what percentage of moves should have element:

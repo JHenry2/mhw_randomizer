@@ -1,0 +1,19 @@
+{
+  "targetFile": "insect.eq_cus",
+  "version": 3,
+  "changesV3": {
+    "Entries": {
+      "*": {
+        "Needed_Item_Id_to_Unlock": 0,
+        "Mat_1_Count": 1,
+        "Mat_1_Id": 1,
+        "Mat_2_Id": 0,
+        "Mat_2_Count": 0,
+        "Mat_3_Id": 0,
+        "Mat_3_Count": 0,
+        "Mat_4_Id": 0,
+        "Mat_4_Count": 0
+      }
+    }
+  }
+}

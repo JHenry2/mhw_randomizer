@@ -61,9 +61,9 @@ if __name__=="__main__":
 
     #paused = "em126_00", "em127_00",  "em124_00" # "em042_00", try frostfang instead
     #tested to a mostly working degree
-    em_good_projectiles = ["em036_00", "em050_00", "em105_00",  "em115_00", "em102_00", 'em042_05']
+    em_good_projectiles = ["em011_00", "em036_00", "em050_00", "em105_00",  "em115_00", "em102_00", 'em042_05']
     if mixed_shell:
-        em_good_projectiles.extend(["em027_00","em108_00"])
+        em_good_projectiles.extend(["em001_00","em027_00","em108_00"])
     spam=['em011_00', 'em057_01']
     persistent=['em042_05']
     #if the shell id is 3 digits, cut out the 3
@@ -72,14 +72,14 @@ if __name__=="__main__":
     #em_good_projectiles = ["em027_00"]                       
 
     #active
-    #em_good_projectiles=["em036_00", 'em108_00']
+    em_good_projectiles=["em011_00", 'em001_00']
 
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
     "em024_00", "em026_00", "em027_00", "em032_00", "em032_01", "em036_00", "em037_00", "em042_00", "em042_05", "em043_00", "em043_05", "em044_00", "em045_00", "em050_00",
     "em057_00", "em057_01", "em063_00", "em063_05", "em080_00", "em080_01", "em100_00", "em100_01", "em102_00", "em102_01", "em103_00", "em103_05",
     "em107_00", "em108_00", "em109_00", "em109_01", "em110_00", "em110_01", "em111_00", "em111_05", "em112_00", "em113_00", "em113_01", "em114_00", "em115_00",
-    "em115_05", "em116_00", "em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00"]
+    "em115_05", "em116_00","em120_00", "em121_00", "em122_00", "em123_00", "em124_00", "em125_00"]
     #"em118_00", "em118_05",
 
     murder_quests=['00306','00401','00503', '00504',]

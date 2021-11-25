@@ -72,7 +72,7 @@ if __name__=="__main__":
     #em_good_projectiles = ["em027_00"]                       
 
     #active
-    em_good_projectiles=["em011_00", 'em001_00']
+    em_good_projectiles=['em127_00']
 
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
@@ -91,7 +91,7 @@ if __name__=="__main__":
     known_maps=[ 201, 202, 411, 412, 413]
     maps=[201, 202, 203, 412, 413]
     mute=[203, 411, 412, 413, 416]
-    #maps=[413]
+    #maps=[203]
     #icemaps=[alat_arena, seliana]
     #if opt_arena == False:
      #   for item in non_arena:
@@ -133,7 +133,7 @@ def edit_monsters():
                 replacement = random.choice(em_good_projectiles)
                 mID_2 = replacement[0:5]
 
-                switch_shells(item, item)
+                restore_shells(item, item)
 
 def populate_sh():
     for monster in em_good_projectiles:
@@ -226,6 +226,20 @@ def decrypt_shells():
         decrypt(item, item+"_de")
         print('decrypted something')
 
+
+def decrypt_cursed():
+    """
+    very slow, exists only for science
+    """
+    file_paths=[]
+    for path, subdirs, files in os.walk(os.getcwd() + "\\cursed\\em"):
+        for name in files:
+            if name.endswith('.shlp'):
+                file_paths.append(os.path.join(path, name))
+    for item in file_paths:
+        decrypt(item, item+"_de")
+        print('decrypted something')
+
 def encrypt_quest():
     files=next(os.walk(clean + "\\quest"))[2]
     file_paths=[]
@@ -295,6 +309,34 @@ def edit_phys_col(id, file_path,  element=0, status=0):
                     if item == 6:
                         file.seek(2,1)
             file.seek(statpos+123)
+
+
+def restore_shells(id1, id2):
+    """
+    takes two monster ids, copies shells from id2 to id1
+    """
+    loud=False
+    mID = id1[0:5]
+    subID = id1[6:8]
+    #id2=id1 # for fixing fuckups
+    mID_2 = id2[0:5]
+    subID_2 = id2[6:8]
+
+    #print(mID + subID + " " +mID_2 + subID_2)
+    #debug, set to monster problems are happening with
+    if(id1 == 'em026_00'):
+        pass
+        loud=True
+        #random.seed('anus')
+        #id2='em042_05'
+        #mID_2 = id2[0:5]
+        #subID_2 = id2[6:8]
+    path_1=native + '\\' + 'em' + "\\" + mID + "\\" +subID + '\\shell'
+    path_2= clean + '\\' + 'em' + "\\" + mID_2 + "\\" +subID_2 + '\\shell' 
+
+    if(os.path.isdir(path_1)):
+        shutil.move(path_1, path_1 + '_disabled')
+    
             
 def switch_shells(id1, id2):
     """
@@ -307,7 +349,7 @@ def switch_shells(id1, id2):
     mID_2 = id2[0:5]
     subID_2 = id2[6:8]
 
-    print(mID + subID + " " +mID_2 + subID_2)
+    #print(mID + subID + " " +mID_2 + subID_2)
     #debug, set to monster problems are happening with
     if(id1 == 'em026_00'):
         pass
@@ -317,7 +359,12 @@ def switch_shells(id1, id2):
         #mID_2 = id2[0:5]
         #subID_2 = id2[6:8]
     path_1=native + '\\' + 'em' + "\\" + mID + "\\" +subID + '\\shell'
-    path_2= clean + '\\' + 'em' + "\\" + mID_2 + "\\" +subID_2 + '\\shell' 
+    path_2= clean + '\\' + 'em' + "\\" + mID_2 + "\\" +subID_2 + '\\shell'
+    disabled =native + '\\' + 'em' + "\\" + mID + "\\" +subID + '\\shell_disabled'
+    if(os.path.isdir(path_1)):
+        pass
+    else:
+        shutil.move(disabled, path_1)
 
     shells_1=[]
     shells_2=[]
@@ -492,6 +539,7 @@ def main():
 
 main()
 
+#decrypt_cursed()
 #decrypt_shells()
 #declare_spam()
 #print(spam_senders)

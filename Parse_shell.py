@@ -2,7 +2,7 @@ from construct.core import *
 import pandas as pd
 import os
 clean = os.getcwd() + '\\clean' + '\\em'
-clean = os.getcwd() + '\\cursed' + '\\em'
+#clean = os.getcwd() + '\\cursed' + '\\em'
 def main():
     file_paths=[]
     for path, subdirs, files in os.walk(clean):
@@ -63,7 +63,7 @@ def main():
     #print(file_paths)
     my_df=pd.DataFrame(columns=['shell', 'children', 'is_child'])
     #my_df['shell'] = file_paths
-    not_cursed=False
+    not_cursed=True
     if not_cursed:
         for path in file_paths:
             #print(path)

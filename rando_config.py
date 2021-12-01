@@ -3,7 +3,7 @@
 
 # base randomizer options
 seed = ""
-#Enable ize randomization
+#Enable size randomization
 size = True
 #minimum and maximum size for size randomization, max_size must be 1 higher than what you really want
 min_size=70

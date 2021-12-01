@@ -1,8 +1,9 @@
 Great Jagras:
-Permanent rage mode, more damage and speed in rage mode.
+Permanent, instant rage mode, more damage and speed in rage mode (further increased in master rank, up to 1.6 times speed and 1.4 times dam)
 Takes 50% more work to flinch (ignoring part breaks(?)
 Immune to KO
 base health increased by 300 (comparable to kulu in hp).
+
 
 Kulu:
 Permanent rage mode, more damage and speed in rage mode.
@@ -23,6 +24,16 @@ Permanent rage mode, more damage and speed in rage mode.
 
 Jyuratodus:
 increased KO resistance (lol thorn pods)
+KO lasts shorter (6 seconds, decreased by 1 second for each KO to a minimum of 3)
 Permanent rage mode, more damage and speed in rage mode.
+
+Tobi:
+Stronger Rage mode
+
+Dodogama:
+Stronger + longer rage mode, even more in master rank
+
+Barroth:
+increased speed in rage mode, rage mode double duration
 
 tobi(?)

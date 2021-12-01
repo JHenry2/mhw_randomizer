@@ -61,7 +61,7 @@ if __name__=="__main__":
 
     #paused = "em126_00", "em127_00",  "em124_00" # "em042_00", try frostfang instead
     #tested to a mostly working degree
-    em_good_projectiles = ["em011_00", "em036_00", "em050_00", "em105_00",  "em115_00", "em102_00", 'em042_05']
+    em_good_projectiles = ["em011_00", "em036_00", "em050_00", "em105_00",  "em115_00", "em102_00", 'em042_05', 'em127_00']
     if mixed_shell:
         em_good_projectiles.extend(["em001_00","em027_00","em108_00"])
     spam=['em011_00', 'em057_01']
@@ -72,7 +72,7 @@ if __name__=="__main__":
     #em_good_projectiles = ["em027_00"]                       
 
     #active
-    em_good_projectiles=['em127_00']
+    #em_good_projectiles=['em127_00']
 
     #same as em_id but with most variants removed
     em_has_projectiles = ["em001_00", "em001_01", "em001_02", "em002_00", "em002_01", "em002_02", "em007_00", "em007_01", "em011_00", "em018_00",  "em023_00", 
